@@ -1,21 +1,21 @@
 {
-    "uid": "0680E2763533F740B54A6C139E537CF59C20",
+    "uid": "7C5AD17C668B684E7E8BFAE853ACDC2FFCF3",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "In-Game UI",
         "type": "vn.chapter",
-        "order": 8,
+        "name": "Chapter 3",
         "commands": [
             {
                 "id": "vn.Chapter",
                 "params": {
-                    "name": "In-Game UI",
+                    "name": "Chapter 3",
                     "description": ""
                 },
                 "indent": 0
             }
-        ]
+        ],
+        "order": 6
     },
     "summary": [
         "name",

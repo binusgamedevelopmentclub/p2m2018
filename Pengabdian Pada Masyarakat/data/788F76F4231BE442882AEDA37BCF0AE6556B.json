@@ -1726,7 +1726,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
@@ -2164,7 +2166,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
@@ -2239,7 +2243,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
@@ -2314,7 +2320,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
@@ -2389,7 +2397,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
@@ -2464,7 +2474,9 @@
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "611C50B503B7324D026B38669E1A2D89103D",
-                    "parameters": {},
+                    "parameters": {
+                        "values": []
+                    },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }

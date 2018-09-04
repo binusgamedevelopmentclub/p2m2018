@@ -3,7 +3,7 @@
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Sample Scene",
+        "name": "Scene 1",
         "type": "vn.scene",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
@@ -122,7 +122,7 @@
                     "duration": 0,
                     "waitForCompletion": 1,
                     "fieldFlags": {
-                        "duration": 1
+                        "duration": 0
                     },
                     "previewBackground": {
                         "name": ""
@@ -618,7 +618,7 @@
                         "duration": 1,
                         "easing.type": 1,
                         "animation.type": 1,
-                        "origin": 1,
+                        "origin": 0,
                         "positionOrigin": 1,
                         "zOrder": 1,
                         "blendMode": 1,
@@ -721,7 +721,8 @@
                 "index": 0,
                 "scope": 0
             }
-        ]
+        ],
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",

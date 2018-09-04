@@ -815,7 +815,7 @@
         },
         "3305C56CKBF5BA44BFS8614EE4B277E49F6A": {
             "items": {
-                "name": "Sample Scene",
+                "name": "Scene 1",
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
@@ -5508,7 +5508,7 @@
             "items": {
                 "name": "Chapter 1",
                 "type": "vn.chapter",
-                "order": 2
+                "order": 4
             }
         },
         "788DF6BF5D09F548196B6529F41881A2BCE9": {
@@ -5851,7 +5851,7 @@
             "items": {
                 "name": "In-Game UI",
                 "type": "vn.chapter",
-                "order": 3
+                "order": 8
             }
         },
         "EA42D2D7212A33408C39AF1582CA441BF8A1": {
@@ -5878,6 +5878,27 @@
                 "name": "Home",
                 "type": "data_record",
                 "order": 1
+            }
+        },
+        "41E5C6B57CFA7142C328CB17C7D6CE527F77": {
+            "items": {
+                "name": "Prologue",
+                "type": "vn.chapter",
+                "order": 3
+            }
+        },
+        "9479B7A23A0C52485F7BF32532838FE8E6D9": {
+            "items": {
+                "name": "Chapter 2",
+                "type": "vn.chapter",
+                "order": 5
+            }
+        },
+        "7C5AD17C668B684E7E8BFAE853ACDC2FFCF3": {
+            "items": {
+                "name": "Chapter 3",
+                "type": "vn.chapter",
+                "order": 6
             }
         }
     }
