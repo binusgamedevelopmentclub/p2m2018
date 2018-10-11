@@ -1,11 +1,13 @@
 {
     "uid": "DC86DDC4589213445A7B44B312F79DDCFC4A",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Scene 2",
+        "type": "vn.scene",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 1,
         "localizableStrings": {
             "03AD74DD5080294926198B5041BC2A7FA112": {
                 "t": "Selamat pagi semuanya!",
@@ -57,7 +59,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -310,14 +311,12 @@
                 "expanded": true
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 1
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

@@ -5,7 +5,7 @@
     "items": {
         "name": "Ace",
         "type": "data_record",
-        "order": 1,
+        "order": 2,
         "category": "characters",
         "id": "AB6AC0D89A68C143E328CA74B4BB26755D07",
         "isFolder": false,
@@ -36,7 +36,17 @@
             "talkingVolume": 5,
             "params": [
                 {
-                    "name": "MoralPoint",
+                    "name": "Friend Meter",
+                    "type": 0,
+                    "value": 0
+                },
+                {
+                    "name": "Mama Meter",
+                    "type": 0,
+                    "value": 0
+                },
+                {
+                    "name": "Boss Meter",
                     "type": 0,
                     "value": 0
                 }
