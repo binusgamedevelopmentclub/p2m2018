@@ -1,0 +1,324 @@
+{
+    "uid": "DC86DDC4589213445A7B44B312F79DDCFC4A",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Scene 2",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "localizableStrings": {
+            "03AD74DD5080294926198B5041BC2A7FA112": {
+                "t": "Selamat pagi semuanya!",
+                "d": {
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
+                    "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
+                }
+            },
+            "06344BC54515A1464C893297E65A44CA832F": {
+                "t": "Selamat pagi semuanya!",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
+                }
+            },
+            "60270D6B524E47490B1927B8AAF572629CBD": {
+                "t": "Selamat pagi pak!",
+                "d": {
+                    "cid": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
+                    "eid": "54E63DC437DAE14BBD5A3565DC257522371E"
+                }
+            },
+            "5C32187238AD2443B01848D434800E5456C9": {
+                "t": "Selamat pagi semuanya!",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
+                }
+            },
+            "E1F0E3994AC21640707AAC43CC691A8E6B04": {
+                "t": "Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "963CD04B73CD664F8C89C6D411D0547BFCF8"
+                }
+            },
+            "7D97D7CD6FF842461C1BA80308C9A24661E0": {
+                "t": "Selamat datang di SMA Karsenet.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "39CF630F411F544CDE99345908A3D7FDB82F"
+                }
+            },
+            "46E19B8676FC024FB08A99B3FE6DF583CCA4": {
+                "t": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "97584A8D668CD64CB9596983DAA0EBEA0D6E"
+            },
+            {
+                "id": "gs.MessageSettings",
+                "params": {
+                    "useCharacterColor": 0,
+                    "paragraphSpacing": 0,
+                    "backlog": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "linePadding": 6,
+                    "lineHeight": 0,
+                    "lineSpacing": 0,
+                    "smallCaps": 0,
+                    "underline": 0,
+                    "strikeThrough": 0,
+                    "autoErase": 0,
+                    "waitAtEnd": 1,
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 0,
+                    "outlineSize": 4,
+                    "shadow": 0,
+                    "shadowOffsetX": 1,
+                    "shadowOffsetY": 1,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "autoErase": 0,
+                        "waitAtEnd": 1,
+                        "backlog": 1,
+                        "font": 1,
+                        "size": 1,
+                        "color": 1,
+                        "useCharacterColor": 1,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineHeight": 1,
+                        "lineSpacing": 1,
+                        "linePadding": 1,
+                        "paragraphSpacing": 1,
+                        "outline": 1,
+                        "outlineColor": 1,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "E53164BE35B65544047BFF320768B06801C0",
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5C32187238AD2443B01848D434800E5456C9",
+                        "defaultText": "Selamat pagi semuanya!"
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "0DA224C31FEA124C5898E6C51ABB7EF015A5",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "60270D6B524E47490B1927B8AAF572629CBD",
+                        "defaultText": "Selamat pagi pak!"
+                    },
+                    "position": 0,
+                    "characterId": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "54E63DC437DAE14BBD5A3565DC257522371E",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7D97D7CD6FF842461C1BA80308C9A24661E0",
+                        "defaultText": "Selamat datang di SMA Karsenet."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "39CF630F411F544CDE99345908A3D7FDB82F",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E1F0E3994AC21640707AAC43CC691A8E6B04",
+                        "defaultText": "Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "963CD04B73CD664F8C89C6D411D0547BFCF8",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "46E19B8676FC024FB08A99B3FE6DF583CCA4",
+                        "defaultText": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
+                "expanded": true
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

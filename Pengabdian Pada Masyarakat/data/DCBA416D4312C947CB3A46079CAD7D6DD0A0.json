@@ -1,0 +1,49 @@
+{
+    "uid": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Seluruh Kelas",
+        "type": "data_record",
+        "category": "characters",
+        "id": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
+        "isFolder": false,
+        "data": {
+            "name": {
+                "lcId": "DF17EDFB6504A2436E8859124F2DDCBC85A9",
+                "defaultText": "Seluruh Kelas"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "expressions": [],
+            "index": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "params": [],
+            "defaultExpressionId": "BF7CB12110894142C299D341A545C910AA86"
+        },
+        "localizableStrings": {
+            "DF17EDFB6504A2436E8859124F2DDCBC85A9": {
+                "t": "Seluruh Kelas"
+            },
+            "3570BD6364D2E74C3A38DD747D7A5C1D2A66": {
+                "t": "Selamat pagi semuanya!",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
+                }
+            }
+        },
+        "order": 1,
+        "parentId": "ROOT"
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

@@ -2589,84 +2589,84 @@
             "items": {
                 "name": "Ace",
                 "type": "data_record",
-                "order": 1
+                "order": 2
             }
         },
         "154E7EBC9DACD640AD4816514200D508D566": {
             "items": {
                 "name": "Anna",
                 "type": "data_record",
-                "order": 2
+                "order": 4
             }
         },
         "BD57DD5D6E79124D94396CF100590D3A5FD4": {
             "items": {
                 "name": "Daniel",
                 "type": "data_record",
-                "order": 3
+                "order": 5
             }
         },
         "4A7D5EC17353564C3E39DA52EBDE615E4D0B": {
             "items": {
                 "name": "Emma",
                 "type": "data_record",
-                "order": 4
+                "order": 6
             }
         },
         "D817084774AB154CCE68B7B2587B0058EBFA": {
             "items": {
                 "name": "Jane",
                 "type": "data_record",
-                "order": 5
+                "order": 7
             }
         },
         "74220BB53AC3194FC8792C457869A91E2152": {
             "items": {
                 "name": "Jeremy",
                 "type": "data_record",
-                "order": 6
+                "order": 8
             }
         },
         "9CF81D412511E440BE4B99A07AB048F94C48": {
             "items": {
                 "name": "John",
                 "type": "data_record",
-                "order": 7
+                "order": 9
             }
         },
         "A55CECA64F38884F958805C4F621F8053ECD": {
             "items": {
                 "name": "Lila",
                 "type": "data_record",
-                "order": 8
+                "order": 10
             }
         },
         "E8329ECB1FADC546620B0F11CE1DDE19B33F": {
             "items": {
                 "name": "Lucy",
                 "type": "data_record",
-                "order": 9
+                "order": 11
             }
         },
         "FABBDAA473FA764AFD186312445CFD5F2DFD": {
             "items": {
                 "name": "Sam",
                 "type": "data_record",
-                "order": 10
+                "order": 12
             }
         },
         "5C079A01512B3743D258CDA1897DA16CCF1A": {
             "items": {
                 "name": "Victor",
                 "type": "data_record",
-                "order": 11
+                "order": 13
             }
         },
         "9A8F21B05033014BFD78A3566E843985607A": {
             "items": {
                 "name": "Willow",
                 "type": "data_record",
-                "order": 12
+                "order": 14
             }
         },
         "3A78BF4E122004444629EDF41AD5ABD03B9C": {
@@ -5899,6 +5899,29 @@
                 "name": "Chapter 3",
                 "type": "vn.chapter",
                 "order": 6
+            }
+        },
+        "DC86DDC4589213445A7B44B312F79DDCFC4A": {
+            "items": {
+                "name": "Scene 2",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "31E514B338C68744ED180FD3C75E0DA35FE6": {
+            "items": {
+                "name": "Wali Kelas",
+                "type": "data_record",
+                "order": 3
+            }
+        },
+        "DCBA416D4312C947CB3A46079CAD7D6DD0A0": {
+            "items": {
+                "name": "Seluruh Kelas",
+                "type": "data_record",
+                "order": 1
             }
         }
     }
