@@ -1,10 +1,11 @@
 {
     "uid": "41E5C6B57CFA7142C328CB17C7D6CE527F77",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.chapter",
         "name": "Prologue",
+        "type": "vn.chapter",
+        "order": 3,
         "commands": [
             {
                 "id": "vn.Chapter",
@@ -14,8 +15,7 @@
                 },
                 "indent": 0
             }
-        ],
-        "order": 3
+        ]
     },
     "summary": [
         "name",

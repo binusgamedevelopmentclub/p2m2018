@@ -5923,6 +5923,60 @@
                 "type": "data_record",
                 "order": 1
             }
+        },
+        "318A5AB506EB0244434A27910166D538E6F7": {
+            "items": {
+                "name": "Scene 4",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "E8A8528927ACE8418339E5683C8AFC60747E": {
+            "items": {
+                "name": "Angkat telpon",
+                "type": "vn.scene",
+                "parentId": "318A5AB506EB0244434A27910166D538E6F7",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "1C27F68E09CCB442D3888A048C4769D9B31D": {
+            "items": {
+                "name": "Tutup dan abaikan telpon",
+                "type": "vn.scene",
+                "parentId": "318A5AB506EB0244434A27910166D538E6F7",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6": {
+            "items": {
+                "name": "Baik ma, aku pulang",
+                "type": "vn.scene",
+                "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "B3ED8AF738872840D70B199239BF1D772C6A": {
+            "items": {
+                "name": "Aduh ma, maaf ya aku masih ada urusan",
+                "type": "vn.scene",
+                "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "632931C1207E014C003B076423E804C820EA": {
+            "items": {
+                "name": "Aku masih ada urusan, nanti malem aku pulang",
+                "type": "vn.scene",
+                "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
         }
     }
 }

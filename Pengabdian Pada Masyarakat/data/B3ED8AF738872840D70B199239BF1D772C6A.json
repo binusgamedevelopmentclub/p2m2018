@@ -1,0 +1,21 @@
+{
+    "uid": "B3ED8AF738872840D70B199239BF1D772C6A",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Aduh ma, maaf ya aku masih ada urusan",
+        "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

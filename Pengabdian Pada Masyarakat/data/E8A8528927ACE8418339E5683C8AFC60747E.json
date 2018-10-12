@@ -1,0 +1,328 @@
+{
+    "uid": "E8A8528927ACE8418339E5683C8AFC60747E",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Angkat telpon",
+        "parentId": "318A5AB506EB0244434A27910166D538E6F7",
+        "localizableStrings": {
+            "B692B4D73C81D54CF1880537A4F6972636CE": {
+                "t": "Halo, kenapa ma?",
+                "d": {
+                    "cid": 0,
+                    "eid": "C5D5643581E4354CB12907320EE2F9A40907"
+                }
+            },
+            "8E22E8B845BE2144887B91B4E5334AA4A15F": {
+                "t": "Baru pulang sekolah, kenapa emang ma?",
+                "d": {
+                    "cid": 0,
+                    "eid": "D7ACE3C230F4F44F1689EE56D29E5B1084A3"
+                }
+            },
+            "852C3DD96C6D46425849BAC031CEE1AB202A": {
+                "t": "Steven, dimana kamu sekarang?",
+                "d": {
+                    "cid": 0,
+                    "eid": "8FA1989B6FB7F748978B67319F6F1F7FF34A"
+                }
+            },
+            "39B53791436A144E327ABA021009CDDF91DE": {
+                "t": "Kenapa? Mama dari kemarin belum ketemu kamu, kamu pulang malem mama udah tidur, kamu pergi ke sekolah pagi mama belum bangun. Jadi sekarang kamu pulang, mama gak mau tahu pokoknya kamu harus pulang sekarang, kalau enggak kamu bakal menyesal!",
+                "d": {
+                    "cid": 0,
+                    "eid": "366DEE6D6C5724415F69B4A27D223136C7DC"
+                }
+            },
+            "878A78DB28D90442303B84E83D197D1CF9AB": {
+                "t": "",
+                "d": {
+                    "cid": 0,
+                    "eid": "E644A3638EBA2444084905642B6C72D1C5AF"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B692B4D73C81D54CF1880537A4F6972636CE",
+                        "defaultText": "Halo, kenapa ma?"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "C5D5643581E4354CB12907320EE2F9A40907",
+                "expanded": true
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "6D4F4FF66ADCE248321B9C45CFD5C1FAA20C"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "852C3DD96C6D46425849BAC031CEE1AB202A",
+                        "defaultText": "Steven, dimana kamu sekarang?"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "8FA1989B6FB7F748978B67319F6F1F7FF34A",
+                "expanded": true
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "9E1E55181D781641B6186C558D177FC25823"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8E22E8B845BE2144887B91B4E5334AA4A15F",
+                        "defaultText": "Baru pulang sekolah, kenapa emang ma?"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "D7ACE3C230F4F44F1689EE56D29E5B1084A3",
+                "expanded": true
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "363B6EEC5328B542552B250412F4C1B54FC3"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "39B53791436A144E327ABA021009CDDF91DE",
+                        "defaultText": "Kenapa? Mama dari kemarin belum ketemu kamu, kamu pulang malem mama udah tidur, kamu pergi ke sekolah pagi mama belum bangun. Jadi sekarang kamu pulang, mama gak mau tahu pokoknya kamu harus pulang sekarang, kalau enggak kamu bakal menyesal!"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "366DEE6D6C5724415F69B4A27D223136C7DC",
+                "expanded": true
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Baik ma, aku pulang",
+                            "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "22D2AC848516964EA468AF9572D8314E0DF2"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Aduh ma, maaf aku masih ada urusan",
+                            "B3ED8AF738872840D70B199239BF1D772C6A"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "47C7A0985B863340087B9CF7CEA4036CF7A0"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Aku masih ada urusan, nanti malem aku pulang",
+                            "632931C1207E014C003B076423E804C820EA"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "BF682E5D3B36664BD63A024726AEBC4C6E3C"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "indent": 0,
+                "uid": "88B2A2E39277A84F2F8928B5071AEABA3342"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "F93E21B63702B8463539A8E3B57BC8BEF5CA"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0,
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

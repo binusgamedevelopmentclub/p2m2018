@@ -13,7 +13,8 @@
                     "name": "Chapter 1",
                     "description": ""
                 },
-                "indent": 0
+                "indent": 0,
+                "expanded": true
             }
         ]
     },
