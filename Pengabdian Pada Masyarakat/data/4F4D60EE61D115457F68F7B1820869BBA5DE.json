@@ -1,11 +1,13 @@
 {
     "uid": "4F4D60EE61D115457F68F7B1820869BBA5DE",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Scene 3",
+        "type": "vn.scene",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 2,
         "localizableStrings": {
             "5745402E659F90404448E2F2C52EE0607399": {
                 "t": "33333333",
@@ -15,7 +17,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -99,14 +100,12 @@
                 "expanded": true
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 2
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

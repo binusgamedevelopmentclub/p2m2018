@@ -1,11 +1,13 @@
 {
     "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Scene 2",
+        "type": "vn.scene",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 2,
         "localizableStrings": {
             "9CCB644237ABE449026A83D2DC95D12F9A5B": {
                 "t": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!",
@@ -572,7 +574,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -787,7 +788,7 @@
                     "fieldFlags": {
                         "duration": 0,
                         "easing.type": 1,
-                        "animation.type": 1,
+                        "animation.type": 0,
                         "motionBlur.enabled": 1,
                         "origin": 0,
                         "zOrder": 0,
@@ -4278,7 +4279,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 2,
         "listVariables": [
             {
                 "name": "",
@@ -4313,7 +4313,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

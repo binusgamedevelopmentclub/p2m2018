@@ -3,7 +3,6 @@
     "items": {
         "type": "resource_table",
         "resources": {
-            "Graphics/Characters/Aliyah": ".png",
             "Graphics/Characters/Alvin CourseNet": ".png",
             "Graphics/Characters/Arvan": ".png",
             "Graphics/Characters/Julius": ".png",
@@ -11,6 +10,7 @@
             "Graphics/Characters/Samuel Prasetyo": ".png",
             "Graphics/Characters/Shinta Course": ".png",
             "Graphics/Characters/Steven CourseNet": ".png",
+            "Graphics/Characters/Aliyah": ".png",
             "Graphics/Backgrounds/Amusementpark_Morning": ".png",
             "Graphics/Backgrounds/Amusementpark_Night": ".png",
             "Graphics/Backgrounds/Amusementpark_Sunset": ".png",
