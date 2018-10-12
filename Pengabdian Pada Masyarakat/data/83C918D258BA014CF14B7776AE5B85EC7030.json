@@ -1,0 +1,225 @@
+{
+    "uid": "83C918D258BA014CF14B7776AE5B85EC7030",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Baik ma",
+        "parentId": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
+        "localizableStrings": {
+            "6093F0FE344DD341881B3AB4C98431068017": {
+                "t": "Oke, itu saja yang mama mau bicarakan, terima kasih sudah mendengarkan.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "3F6F531B37FCA74D5C69A1B8388EC3EC3AD6"
+                }
+            },
+            "A0A413127DA4D146597B1799B688A72A19BD": {
+                "t": "Sama-sama ma.",
+                "d": {
+                    "cid": 0,
+                    "eid": "74018A232C06C64F8B4B047494C5E6D278C7"
+                }
+            },
+            "DE59150827E1384AB69BC4A3902D013F2BFA": {
+                "t": "Baik ma.",
+                "d": {
+                    "cid": 0,
+                    "eid": "D8C2BCA08588F6422969FA933E7B7A3B1B8F"
+                }
+            },
+            "87326EC23416E649FB3AEEC396C39261A312": {
+                "t": "Mama mau tidur dulu ya.",
+                "d": {
+                    "cid": 0,
+                    "eid": "88871A965DB7544AA1489E3531233E265FA5"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6093F0FE344DD341881B3AB4C98431068017",
+                        "defaultText": "Oke, itu saja yang mama mau bicarakan, terima kasih sudah mendengarkan."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "3F6F531B37FCA74D5C69A1B8388EC3EC3AD6"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A0A413127DA4D146597B1799B688A72A19BD",
+                        "defaultText": "Sama-sama ma."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "74018A232C06C64F8B4B047494C5E6D278C7"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "87326EC23416E649FB3AEEC396C39261A312",
+                        "defaultText": "Mama mau tidur dulu ya."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "88871A965DB7544AA1489E3531233E265FA5"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DE59150827E1384AB69BC4A3902D013F2BFA",
+                        "defaultText": "Baik ma."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D8C2BCA08588F6422969FA933E7B7A3B1B8F"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "58EEB5F753301543759909452C496000A303"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0,
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

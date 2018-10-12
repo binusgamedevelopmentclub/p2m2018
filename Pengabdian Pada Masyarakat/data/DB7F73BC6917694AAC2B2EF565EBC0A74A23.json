@@ -1,28 +1,35 @@
 {
-    "uid": "318A5AB506EB0244434A27910166D538E6F7",
+    "uid": "DB7F73BC6917694AAC2B2EF565EBC0A74A23",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Scene 4",
         "type": "vn.scene",
-        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 2,
+        "name": "Mengetuk pintu kamar ibunya dan meminta maaf",
+        "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
         "localizableStrings": {
-            "B386AE1C5F4096427A0A97A18928F9E332A9": {
-                "t": "Kriiiinggg~~ Bell pulang sekolah telah berbunyi.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
-                }
-            },
-            "1B41360C648731465518070869AEDAEF2A48": {
-                "t": "Tringg~ tringg~ Ibu menelpon.",
+            "1C19E40B215235488F88CCE7025DC8A4ED2C": {
+                "t": "(Mengetuk pintu) Ma, Steven minta maaf.",
                 "d": {
                     "cid": 0,
-                    "eid": "CE2CE7076E6C21473749D3422D5E03CB6DA9"
+                    "eid": "352DD8559BBBC9408B5A3281F0245CA90532"
+                }
+            },
+            "D95FD6D16E6BE3406E38B7209152F40D3FEC": {
+                "t": "Baik ma.",
+                "d": {
+                    "cid": 0,
+                    "eid": "F99B805D38C3A649684922E329DC16E581DF"
+                }
+            },
+            "3AE38E354F2B4645D79B4CD830336D4C10AB": {
+                "t": "Mama mau tidur gak usah ganggu mama.",
+                "d": {
+                    "cid": 0,
+                    "eid": "D840C7CF126CE848EA1B3B147236CFE5B9D1"
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -30,9 +37,6 @@
                     "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
                     "parameters": {
                         "values": []
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0
@@ -54,40 +58,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "B386AE1C5F4096427A0A97A18928F9E332A9",
-                        "defaultText": "Kriiiinggg~~ Bell pulang sekolah telah berbunyi."
-                    },
-                    "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "1B41360C648731465518070869AEDAEF2A48",
-                        "defaultText": "Tringg~ tringg~ Ibu menelpon."
+                        "lcId": "1C19E40B215235488F88CCE7025DC8A4ED2C",
+                        "defaultText": "(Mengetuk pintu) Ma, Steven minta maaf."
                     },
                     "position": 0,
                     "characterId": 0,
@@ -99,57 +71,74 @@
                     "animations": []
                 },
                 "indent": 0,
-                "uid": "CE2CE7076E6C21473749D3422D5E03CB6DA9",
+                "uid": "352DD8559BBBC9408B5A3281F0245CA90532",
                 "expanded": true
             },
             {
-                "id": "gs.CallCommonEvent",
+                "id": "gs.ShowMessage",
                 "params": {
-                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
-                    "parameters": {
-                        "values": [
-                            "Angkat telpon",
-                            "E8A8528927ACE8418339E5683C8AFC60747E"
-                        ]
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
-                    "parameters": {
-                        "values": [
-                            "Tutup dan abaikan telpon",
-                            "1C27F68E09CCB442D3888A048C4769D9B31D"
-                        ]
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
-                    "parameters": {
-                        "values": [
-                            {
-                                "scope": 1,
-                                "index": 0,
-                                "domain": "com.degica.vnm.default"
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
                             }
-                        ]
-                    }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3AE38E354F2B4645D79B4CD830336D4C10AB",
+                        "defaultText": "Mama mau tidur gak usah ganggu mama."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
                 },
                 "indent": 0,
-                "uid": "DAF8E7375FDDE242771A1DE3A7D3AC22C5C4"
+                "uid": "D840C7CF126CE848EA1B3B147236CFE5B9D1",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D95FD6D16E6BE3406E38B7209152F40D3FEC",
+                        "defaultText": "Baik ma."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "F99B805D38C3A649684922E329DC16E581DF",
+                "expanded": true
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -160,17 +149,11 @@
                     }
                 },
                 "indent": 0,
-                "uid": "F92703656A598945833B4504C5038218703A"
+                "uid": "9A5422ED1BD98745CB4B3DB32D902921FCEA"
             }
         ],
         "livePreviewDisabled": false,
-        "stringVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0
-            }
-        ],
+        "order": 0,
         "listVariables": [
             {
                 "name": "",
@@ -183,6 +166,7 @@
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

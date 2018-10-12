@@ -1,11 +1,13 @@
 {
     "uid": "E8A8528927ACE8418339E5683C8AFC60747E",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Angkat telpon",
+        "type": "vn.scene",
         "parentId": "318A5AB506EB0244434A27910166D538E6F7",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "B692B4D73C81D54CF1880537A4F6972636CE": {
                 "t": "Halo, kenapa ma?",
@@ -43,7 +45,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -89,17 +90,6 @@
                 "expanded": true
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "6D4F4FF66ADCE248321B9C45CFD5C1FAA20C"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -133,17 +123,6 @@
                 "expanded": true
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "9E1E55181D781641B6186C558D177FC25823"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -175,17 +154,6 @@
                 "indent": 0,
                 "uid": "D7ACE3C230F4F44F1689EE56D29E5B1084A3",
                 "expanded": true
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "363B6EEC5328B542552B250412F4C1B54FC3"
             },
             {
                 "id": "gs.ShowMessage",
@@ -301,7 +269,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "listVariables": [
             {
                 "name": "",
@@ -321,7 +288,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

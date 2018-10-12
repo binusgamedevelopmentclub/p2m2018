@@ -5977,6 +5977,42 @@
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 2
             }
+        },
+        "83C918D258BA014CF14B7776AE5B85EC7030": {
+            "items": {
+                "name": "Baik ma",
+                "type": "vn.scene",
+                "parentId": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "3F4EDB913C768446F628E817CCC71F62A7BC": {
+            "items": {
+                "name": "Ma, aku tidak akan meninggalkan mama, tetapi aku juga tidak bisa menomorsatukan mama",
+                "type": "vn.scene",
+                "parentId": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "DB7F73BC6917694AAC2B2EF565EBC0A74A23": {
+            "items": {
+                "name": "Mengetuk pintu kamar ibunya dan meminta maaf",
+                "type": "vn.scene",
+                "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "2C9A3D929660B64176498C873311B14176B8": {
+            "items": {
+                "name": "Mengabaikan ibunya dan menunggu emosi ibunya menurun",
+                "type": "vn.scene",
+                "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
         }
     }
 }

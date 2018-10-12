@@ -1,14 +1,16 @@
 {
     "uid": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Baik ma, aku pulang",
+        "type": "vn.scene",
         "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "935B546184C0E6404869B1D7BBDC50FA48DB": {
-                "t": "Steven makan bersama ibunya dan ibunya bercerita.",
+                "t": "Steven makan bersama ibunya dan ibunya pun bercerita.",
                 "d": {
                     "cid": 0
                 }
@@ -28,7 +30,7 @@
                 }
             },
             "854500158C25454D832A8FF2D365BC966BC0": {
-                "t": "(mengesah) aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur.",
+                "t": "(mengesah) Aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur.",
                 "d": {
                     "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "20C3868D5A57544A94388167C56B1273EE4B"
@@ -61,9 +63,71 @@
                     "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "E00E03E22ABF714F2A3BB4323B8D5F5A2151"
                 }
+            },
+            "B9E9F9DA2D9E39412D4A14E4BE889AF298D7": {
+                "t": "Mama kangen loh.",
+                "d": {
+                    "cid": 0,
+                    "eid": "AE0918124CBDC74F7A3B5BE709C8954DD37C"
+                }
+            },
+            "D45AFBC79820D24CD95A99E8BA6B7EB7D751": {
+                "t": "Sama aku?",
+                "d": {
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
+                    "eid": "B4909C8828774849A23B8E63045F9F3F64AE"
+                }
+            },
+            "96C4069D3B17F54ACB8AB3929476055E31A7": {
+                "t": "Sama papa.",
+                "d": {
+                    "cid": 0,
+                    "eid": "4948FAF4201B214A4E3AB8D09363409AA2B3"
+                }
+            },
+            "003216B913F5964EB72A3E654F32D71F036F": {
+                "t": "Owhhh.",
+                "d": {
+                    "cid": 0,
+                    "eid": "8DBD068245226345373B19A6B628D7953BE2"
+                }
+            },
+            "57A14DD5796D93433B1A4521A615335C2371": {
+                "t": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama",
+                "d": {
+                    "cid": 0,
+                    "eid": "5BD57DE90F4F104ED90897F454DF5D1FEC56"
+                }
+            },
+            "A2D12A25240E5449A459FFB0A889BFCB5B09": {
+                "t": "Diam dulu, biarkan mama selesai bicara!",
+                "d": {
+                    "cid": 0,
+                    "eid": "DE710D1A56177445E9796E24A2B34B27B824"
+                }
+            },
+            "8144E5662C8432448B6AB730BA3A2B0EBAC4": {
+                "t": "Ma aku....",
+                "d": {
+                    "cid": 0,
+                    "eid": "34CDBCD36983544EDF8AB709899907FA54C1"
+                }
+            },
+            "083C1CEC7990914962581B08400F95C9057E": {
+                "t": ".........",
+                "d": {
+                    "cid": 0,
+                    "eid": "F207B2D31927374D4539218440DB703AA1C6"
+                }
+            },
+            "C3637D1382846344A649F7C2FEA8CF72AF6E": {
+                "t": "Kamu kira mama senang mencari-cari kamu hah? Kamu ngerti gak sih, papa itu sudah mati, Satu-satunya yang menomorsatukan mama, sudah mati, Mama butuh dinomor satukan, Kamu sebagai anak nomor satu, itu tugas kamu untuk menemani mama sampai mati.",
+                "d": {
+                    "cid": 0,
+                    "eid": "BF6F9D9C69DA624A14886B52055DEDD85493"
+                }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -113,17 +177,6 @@
                 "uid": "8689228A659EC34C4048BD113477C51A3FD2"
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "59B0A81301DF814F4E3AB80624A98D2DF81B"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -160,17 +213,6 @@
                 "uid": "7F1A379A1256A447EC3B8D223F6BCDF855EB"
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "68FF4A5C40E985457818E727A9271274C9B5"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -188,7 +230,7 @@
                     },
                     "message": {
                         "lcId": "854500158C25454D832A8FF2D365BC966BC0",
-                        "defaultText": "(mengesah) aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur."
+                        "defaultText": "(mengesah) Aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur."
                     },
                     "position": 0,
                     "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
@@ -205,17 +247,6 @@
                 "indent": 0,
                 "expanded": true,
                 "uid": "20C3868D5A57544A94388167C56B1273EE4B"
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "EEA6C9482EC70249735A5D34D214908441ED"
             },
             {
                 "id": "gs.ShowMessage",
@@ -254,17 +285,6 @@
                 "uid": "7F7AC1865471D54415394C631236092C8A1E"
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "ED29C80A3A39E74EA54BA0C86AC02FB25C06"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -299,17 +319,6 @@
                 "indent": 0,
                 "expanded": true,
                 "uid": "B6C4B2615B5B0140F65AEAB751AADFB76E98"
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "BEC085446E8B71433C4958A920CF1D697525"
             },
             {
                 "id": "gs.ShowMessage",
@@ -348,17 +357,6 @@
                 "uid": "A9BC040B4B846940C4691E48F7EF84F41DF0"
             },
             {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "33D84BCB74536747F56891A1E2EE7A036F38"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -395,15 +393,39 @@
                 "uid": "E00E03E22ABF714F2A3BB4323B8D5F5A2151"
             },
             {
-                "id": "gs.CallCommonEvent",
+                "id": "gs.ShowMessage",
                 "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    }
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "935B546184C0E6404869B1D7BBDC50FA48DB",
+                        "defaultText": "Steven makan bersama ibunya dan ibunya pun bercerita."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
                 },
                 "indent": 0,
-                "uid": "C8A163DB19276149FA8948206CF2353DEA9A"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -422,8 +444,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "935B546184C0E6404869B1D7BBDC50FA48DB",
-                        "defaultText": "Steven makan bersama ibunya dan ibunya bercerita."
+                        "lcId": "B9E9F9DA2D9E39412D4A14E4BE889AF298D7",
+                        "defaultText": "Mama kangen loh."
                     },
                     "position": 0,
                     "characterId": 0,
@@ -438,12 +460,363 @@
                     "animations": []
                 },
                 "indent": 0,
-                "expanded": true
+                "expanded": true,
+                "uid": "AE0918124CBDC74F7A3B5BE709C8954DD37C"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D45AFBC79820D24CD95A99E8BA6B7EB7D751",
+                        "defaultText": "Sama aku?"
+                    },
+                    "position": 0,
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "B4909C8828774849A23B8E63045F9F3F64AE"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "96C4069D3B17F54ACB8AB3929476055E31A7",
+                        "defaultText": "Sama papa."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "4948FAF4201B214A4E3AB8D09363409AA2B3"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "003216B913F5964EB72A3E654F32D71F036F",
+                        "defaultText": "Owhhh."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "8DBD068245226345373B19A6B628D7953BE2"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "57A14DD5796D93433B1A4521A615335C2371",
+                        "defaultText": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "5BD57DE90F4F104ED90897F454DF5D1FEC56"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8144E5662C8432448B6AB730BA3A2B0EBAC4",
+                        "defaultText": "Ma aku...."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "34CDBCD36983544EDF8AB709899907FA54C1"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A2D12A25240E5449A459FFB0A889BFCB5B09",
+                        "defaultText": "Diam dulu, biarkan mama selesai bicara!"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "DE710D1A56177445E9796E24A2B34B27B824"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "083C1CEC7990914962581B08400F95C9057E",
+                        "defaultText": "........."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F207B2D31927374D4539218440DB703AA1C6"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C3637D1382846344A649F7C2FEA8CF72AF6E",
+                        "defaultText": "Kamu kira mama senang mencari-cari kamu hah? Kamu ngerti gak sih, papa itu sudah mati, Satu-satunya yang menomorsatukan mama, sudah mati, Mama butuh dinomor satukan, Kamu sebagai anak nomor satu, itu tugas kamu untuk menemani mama sampai mati."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "BF6F9D9C69DA624A14886B52055DEDD85493"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Baik ma",
+                            "83C918D258BA014CF14B7776AE5B85EC7030"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "2A2E21851BA0F841813980064DCEFAEAE1CD"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Ma, aku tidak akan meninggalkan mama, tetapi aku juga tidak bisa menomorsatukan mama.",
+                            "3F4EDB913C768446F628E817CCC71F62A7BC"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "D55856988AC31549D41B7C59C134CFF2DFE5"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "6FA97D391A9FB340BB5AC818FA5028B7DD1C"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "34D0065D9E8EB74CA7886D67D6F0173D7CDA"
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "listVariables": [
             {
                 "name": "",
                 "index": 0,
@@ -455,7 +828,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

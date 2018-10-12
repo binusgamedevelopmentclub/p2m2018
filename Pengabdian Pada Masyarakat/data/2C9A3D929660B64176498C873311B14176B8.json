@@ -1,0 +1,92 @@
+{
+    "uid": "2C9A3D929660B64176498C873311B14176B8",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Mengabaikan ibunya dan menunggu emosi ibunya menurun",
+        "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
+        "localizableStrings": {
+            "46C8DFAC5A9DD54CDA5B4BD0092935AD4F07": {
+                "t": "Steven naik ke kamar untuk tidur.",
+                "d": {
+                    "cid": 0
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "5FE1C8EB919128429B5966B7E0FA67DFC10E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "46C8DFAC5A9DD54CDA5B4BD0092935AD4F07",
+                        "defaultText": "Steven naik ke kamar untuk tidur."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "2CA0AF4245D291415A79F384A587E702ECCB"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1,
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
