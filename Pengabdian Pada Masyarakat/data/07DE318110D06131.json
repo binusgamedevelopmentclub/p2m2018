@@ -586,22 +586,29 @@
                                 "name": "Backlog Opened",
                                 "index": 1,
                                 "scope": 1,
+                                "changed": true,
+                                "domain": "com.degica.vnm.default"
+                            },
+                            {
+                                "name": "Game Skip",
+                                "index": 2,
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
                                 "changed": true
                             },
                             {
-                                "name": "",
-                                "index": 2,
-                                "scope": 1
-                            },
-                            {
-                                "name": "",
+                                "name": "Auto Message",
                                 "index": 3,
-                                "scope": 1
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
+                                "changed": true
                             },
                             {
-                                "name": "",
+                                "name": "In Settings Menu",
                                 "index": 4,
-                                "scope": 1
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
+                                "changed": true
                             },
                             {
                                 "name": "",

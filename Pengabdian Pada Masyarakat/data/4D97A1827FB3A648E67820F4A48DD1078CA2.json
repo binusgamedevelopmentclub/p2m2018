@@ -1,0 +1,41 @@
+{
+    "uid": "4D97A1827FB3A648E67820F4A48DD1078CA2",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Keira",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "4D97A1827FB3A648E67820F4A48DD1078CA2",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Keira",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Keira",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "4D97A1827FB3A648E67820F4A48DD1078CA2"
+        },
+        "order": 4
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

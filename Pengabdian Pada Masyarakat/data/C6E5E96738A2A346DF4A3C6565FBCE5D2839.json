@@ -1,0 +1,49 @@
+{
+    "uid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Alvin",
+        "type": "data_record",
+        "category": "characters",
+        "id": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "DDFB9D806F5C934D5F5AE4A66962D545DBE8": {
+                "t": "",
+                "d": null
+            },
+            "A2D18E71808F8949F45ADF2112903CC33F26": {
+                "t": "Alvin",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "A2D18E71808F8949F45ADF2112903CC33F26",
+                "defaultText": "Alvin"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "68B4A1AB33FB13498E6AA917B72E1FDB3834",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "C6E5E96738A2A346DF4A3C6565FBCE5D2839"
+        },
+        "order": 5
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

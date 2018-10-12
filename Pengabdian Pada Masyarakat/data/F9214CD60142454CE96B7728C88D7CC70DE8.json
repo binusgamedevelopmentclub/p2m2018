@@ -1,0 +1,4320 @@
+{
+    "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Scene 2",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "localizableStrings": {
+            "9CCB644237ABE449026A83D2DC95D12F9A5B": {
+                "t": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!",
+                "d": {
+                    "cid": 0,
+                    "eid": "EB83FCB93F4DA446E088047374C4518F02AE"
+                }
+            },
+            "6DF505888EF0794DB38AE9A992E4D995B8FC": {
+                "t": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer. \n\n",
+                "d": {
+                    "cid": 0,
+                    "eid": "48BAA37964B38841B07B6C97DAF8B9301CE9"
+                }
+            },
+            "A6755F8C74ADA7489F99E369FE86F3C9B1E3": {
+                "t": "Berapa jam?",
+                "d": {
+                    "cid": "99FEED074D6EA247104BBB717129837827D4"
+                }
+            },
+            "9F1BA7D66A8F344082183352A009AF3D71D0": {
+                "t": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer. \n\n",
+                "d": {
+                    "cid": 0,
+                    "eid": "48BAA37964B38841B07B6C97DAF8B9301CE9"
+                }
+            },
+            "C4DBEE0E1DD5264EA9288E25663BB173A4BD": {
+                "t": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer.",
+                "d": {
+                    "cid": 0,
+                    "eid": "48BAA37964B38841B07B6C97DAF8B9301CE9"
+                }
+            },
+            "B05835FE7F3EA649947BE298C5BA5AAB32D8": {
+                "t": "Berapa jam?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F"
+                }
+            },
+            "94C7B2F15D975643FA58A0188A116166A449": {
+                "t": "Maaf, saya Steven Course ini hari pertama saya menjaga",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "F82E1BB874FB414F396A690001B62AFF0E06"
+                }
+            },
+            "C8122A7F638A864D171AAF03884B2EE2C988": {
+                "t": "Ohh Steven si boach baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "385E642079CDB84D8A7ABEE1063FA3F0BCE5"
+                }
+            },
+            "1F89366C9A1000453C19C3D2E7A0F9CC83E3": {
+                "t": "Baik pak, boleh ajarin saya dulu gak apa yang harus saya lakukan?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "CB3611D64BE1F34D163944F3986ECEEFED50"
+                }
+            },
+            "6205429920A328484E586469984FB20C4B4A": {
+                "t": "Ajarin? Ajarin apaan? Belajar sendiri sana! Gua harus pergi, yang lu perlu tahu udah ada semua di buku panduan dekat komputer.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "81A539BE498703441F7828C59865132689FE"
+                }
+            },
+            "36FBE37610AE234182095F377761A89C5A48": {
+                "t": "Nurut",
+                "d": {
+                    "eid": "D17FAC0C0BB344478B2A9768B62B33B058C6"
+                }
+            },
+            "E0A337733D09D741C3799F6363DF06B67116": {
+                "t": "Tanya lagi",
+                "d": {
+                    "eid": "28A312ED850EB6408D699AC5F6509A1DE394"
+                }
+            },
+            "9ABD01CA9E25C74CA52BC0F4E3199A2B80C7": {
+                "t": "Baik Pak",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A3E47CE74B79E04F0009856376AB80C61A6B"
+                }
+            },
+            "3CE41D236FE35648205B8A21B277C0DF6974": {
+                "t": "Oke, gua balik sekitar jam 10. Jangan balik ya sebelum gua balik.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "6655EA4A2338F7435A6B34F196B986BAF99B"
+                }
+            },
+            "BB070324931EC846802B4B12D9BD6B5B4B00": {
+                "t": "Paling nggak kasih tau sedikit lah pak apa yang saya harus lakukan, masa bapak langsung pergi?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "029E524415233541473B8D7250385EF4C1B9"
+                }
+            },
+            "4639753D7F2A134FAB6A1B88B3E21040532B": {
+                "t": "Nggak, nggak, nggak! Lu udah SMA, harus belajar sendiri. Gua balik sekitar jam 10, Jangan balik sebelum gua balik!",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "6774CB2573BF6642E90860A970FFFD402F98"
+                }
+            },
+            "15D01A492F11264C4E68B705C64C8538DDBD": {
+                "t": "KRING KRING........",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "47AF76D08AA8B544A50B2D82282CD9F8EF0F"
+                }
+            },
+            "37A0E7BD429E904B2E6A48016BE1365E635C": {
+                "t": "Steven, sudah jam segini kamu pulang ada dimana kami? Mama butuh kamu, pulang sekarang!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "11808B8502FA384B935837D7E990A4BD9D4D"
+                }
+            },
+            "5353251661830545F37B3C321A101C40381B": {
+                "t": "Ibuku menelponku. Ia mengidap possessive personality disorder sehingga ia ingin aku pulang dan berada di sisinya terus, Aku harus jawab apa?",
+                "d": {
+                    "cid": 0,
+                    "eid": "C4F738EF7894A84F9D6ACD411A2AE2A04CFF"
+                }
+            },
+            "5DEF74854EDC264D9F4BB0D44500F5AF4A67": {
+                "t": "Jujur",
+                "d": {
+                    "eid": "9FA402577ACAA1470529C244D63B68D62E80"
+                }
+            },
+            "0CF144810A663149351AAF982B9D23A64176": {
+                "t": "Pulang Nanti",
+                "d": {
+                    "eid": "0E5CEA9771023642C128F011079F03D93C5C"
+                }
+            },
+            "35BBED5A15253441076BD384B0A6C581577E": {
+                "t": "Izin",
+                "d": {
+                    "eid": "DB5324D5458A0147A88A4438E0BF6E52835E"
+                }
+            },
+            "BB6BFF6817C1D34AE35852E5C89A2833E961": {
+                "t": "Pulang",
+                "d": {
+                    "eid": "3498582371C34246CF287DB53C30508601F8"
+                }
+            },
+            "2DE0C38C5600894F3D58D02383CC3B35FEF4": {
+                "t": "Ngapain jaga warnet? Mama butuh kamu, pulang sekarang!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "E21107976161E54BB379B2650B8974F7E652"
+                }
+            },
+            "31967D0341294642CB2AF4B60FAE7031AE23": {
+                "t": "(Duh, mama maksain pulang terus..)",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "1F570F256F55E64D9699A9915AD9882AB37F"
+                }
+            },
+            "6C7BE7BC7AF8414D3B49CB32AA8CD1233227": {
+                "t": "Tidak bisa pulang sekarang",
+                "d": {
+                    "eid": "C6273D16369B0041464A6B0408C2B0E4C91E"
+                }
+            },
+            "7F2C90F792B4E745CC0879D37DBA87D9CB27": {
+                "t": "Alasan Uang",
+                "d": {
+                    "eid": "A09124A9688B6541094843B8D286FFCB7E81"
+                }
+            },
+            "D07391591021404F694960685319549B09B2": {
+                "t": "Demi Keluarga? Satu-satunya yang bisa kamu lakukan demi mama adalah pulang sekarang! Kalau kamu belum pulang sekarang, mama sudah siap mati sekarang!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "EBDB73AD7B220346423A25C4CFA2771BD529"
+                }
+            },
+            "1275D9506F19584E4F1A6F937072A6F4EAF7": {
+                "t": "Mama tidak peduli keluarga kita bakal punya uang atau enggak, yang mama peduli kamu ada di sisi mama selama mama masih hidup, kalau kamu belum pulang-pulang juga, mama sudah siap mati sekarang!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "F71EFEB191232947581BA5F25EE1475F74A6"
+                }
+            },
+            "05B5410D1B63F845D36911319EBF0863CB70": {
+                "t": "Izin dulu",
+                "d": {
+                    "eid": "18F2D29679E2E7479019528220F03E40677C"
+                }
+            },
+            "020098B154EC6744F32937E34BD9DA969059": {
+                "t": "Langsung Pulang",
+                "d": {
+                    "eid": "E4939FE577F2A740B52BE5E1BF53CB6119D7"
+                }
+            },
+            "6F6955FC0319F74D634AF7533B6E1AC27B1D": {
+                "t": "Terserah mama",
+                "d": {
+                    "eid": "11E2318187D86145407924353C736E1B7CD6"
+                }
+            },
+            "2C0DA6C336BEB042131B9E5696016C8EC9A0": {
+                "t": "Aku lagi menjaga warnet, Mama butuh apa?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "8AC854645B80184297582D74BF73E6325583"
+                }
+            },
+            "DC01F60A6AFAC74CCC89C0E5D0ABD60F5FCE": {
+                "t": "Aku gak bisa pulang sekarang ma, aku disini mencari uang demi keluarga, aku jam 10 bakal pulang kok.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "EF7A58A640512540D33AEDC00284A467D4D9"
+                }
+            },
+            "89D175923FB8B34BA67BE2B83A3A5C12D202": {
+                "t": "Mah, kalau aku gak jaga warnet disini, keluarga kita bakal gak punya uang, mama juga gak bakal bisa hidup, jadi tolong dimengerti, apa susahnya sih menunggu sebentar, aku jam 10 juga pulang kok.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "493EE69D230C0047483BD1E100EB8DBBA8E6"
+                }
+            },
+            "8F0F70293055094EDE58DE48C08CE22A3D20": {
+                "t": "Aku lagi jaga warnet ma, nanti aku minta izin ke bosku dulu ya, kalau diizinkan baru aku pulang sekarang",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "8F9E780C47141545214817866C58520C4CE2"
+                }
+            },
+            "605C9D1761ADD249E69A4807AF20834570F8": {
+                "t": "Ok ma, aku izin dulu ke bosku, habis itu aku pulang.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "767E1A9C68D6C34A6B4A854772DFED0FDD46"
+                }
+            },
+            "9BC7C5AB53FEA04E3F29D09194AD5997D188": {
+                "t": "Oke ma Aku pulang sekarang",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A3AC09A830A7C8452628BD4525C931428978"
+                }
+            },
+            "727BBC896ECD5646530AECF2E94D523E3C53": {
+                "t": "Ma aku bakal pulang jam 10 kok, aku sekarang lagi gak bisa diganggu, aku harus jaga warnet, dadah-",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5D2FE6D29FFC674FFE68D071BA3D0C121DDA"
+                }
+            },
+            "D130E6997213F541D98813A53EE23A9B9B74": {
+                "t": "Steven Whatsapp pak Sebastian",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "AA134EE095888545CE69CDF42CBD6E8A472B"
+                }
+            },
+            "14ABD235391CF54BD2189EB4593B0A8DA530": {
+                "t": "Pak Sebastian, Saya pulang duluan ya, saya dicari ibu saya.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "FDA054734C56944C61586EF5192A72F1CD6D"
+                }
+            },
+            "ED11C03634B1A34182894F243BEA9D277ABA": {
+                "t": "Ya sudah, tetapi lu harus menggantikan 3 jam kerja ya, karena kamu kurang 3 jam.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "267CB5C26696E749572A0D968A80F9DD7928"
+                }
+            },
+            "A9C3A47A304232473378B706D70EAF65FF26": {
+                "t": "Baik pak, terimakasih.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "E024F58764ACE5483C29EAF7A125815C1451"
+                }
+            },
+            "55C694357312B045613926C494FA18E09F89": {
+                "t": "Ok ma, aku pulang sekarang.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A54E14390E6C0249DC294616023B1DB1F4CC"
+                }
+            },
+            "DA810F8684ED654FA4886C88C03F226ED587": {
+                "t": "Terserah mama deh.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "517C301A26F8244C957A39C94052A48554CC"
+                }
+            },
+            "4C924B098A6E0242EF48B7C1E177CB1AB8ED": {
+                "t": "Mana bosmu, biar mama saja yang ngomong.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "8DA4AA138D30F54F1E1BDAB7AE0A20B02FAA"
+                }
+            },
+            "D457AFA29A49B54D918844B251896C8B0A2E": {
+                "t": "Tidak Usah",
+                "d": {
+                    "eid": "235660F838C000418479B971F5968434DD54"
+                }
+            },
+            "0D82163D7D38D9425649F2F815AC4B673E3D": {
+                "t": "Kasih Nomor",
+                "d": {
+                    "eid": "D1A7E4BE6ACDB14F360B6E5500317BA8B93A"
+                }
+            },
+            "3A8271CD638E58484F4A9ED1BD4DCCE41D5E": {
+                "t": "Tidak usah lah ma, Steven bisa membujuk kok.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "7C510718029CB24B271AE1E64E89FB19FC64"
+                }
+            },
+            "DBD05C7163CE0447D58933244431AA4B7C05": {
+                "t": "Baik, mama tunggu di rumah, jangan lama-lama.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "D12F63E99231614CD4485CB6AECC29DA4185"
+                }
+            },
+            "3DAD30744D6DC44A779823C506C77B778E10": {
+                "t": "Nih nomornya ma, kalau mama mau ngomong.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "83FBBB895D06024DFE4B649284DDDDFEDBB8"
+                }
+            },
+            "E0200DCB18DD154C726B1E58BFEE6FA71DA5": {
+                "t": "Oke, biar mama ngomong ke bos mu sekarang.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "70F1746E8C76F947E36BF8919F78FABFC790"
+                }
+            },
+            "1435052C25AA57454E4B17F111E02498BCC1": {
+                "t": "Tak lama kemudian Pak Sebastian menelpon.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "FD5B07E4190FA94C571AA8D2DC21E805F21E"
+                }
+            },
+            "E190F2B866410046973A9291ABD0361FD8E4": {
+                "t": "Jadi nyokap lu baru nelpon gua. Dia ngomongnya sopaaan banget.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "72FDA7DC123A7445CD6A34D8E7C5D108DA94"
+                }
+            },
+            "7615623B54E3A64E088B05A3883EB2B09B5B": {
+                "t": "Aduh pak saya minta maaf",
+                "d": {
+                    "eid": "3AA5B47D55B87344046855A62B8B973577B3"
+                }
+            },
+            "9CD2684D5E6651400C386E4249950CF24D8A": {
+                "t": "Gimana Pak Percakapannya",
+                "d": {
+                    "eid": "F6305E9D718E254D2D5BA4B5AAEEAEB1F6CB"
+                }
+            },
+            "8491DC2635B2E948266BB2689C9E6C4D6282": {
+                "t": "Lu kira lucu? Lu tau gak sih nyokap lu nuduh gue buat maksa kerja. Dia bilang lu budak gue dan dia akan sebarkan di Facebooknya.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "A56EC3954BA324487109EC275E51D9D0D159"
+                }
+            },
+            "BB14AE24481FA8448E882AE6A08C47F56A9E": {
+                "t": "Gua gak peduli soal nyokap lu, yang gua peduliin reputasi gua. Dia bilang dia bakal sebarin di Facebooknya dia kalau gua menganiaya lu dan memaksakan lu buat kerja.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "CE80246A10A3564E434BF974893816A5FC31"
+                }
+            },
+            "2AB9B8EC204A58441C6A91D7C9414A682C85": {
+                "t": "Baik pak saya akan menghubungi ibu saya.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "44B0981E9188A249919BF0D906730C700FC5"
+                }
+            },
+            "A27A21EC32B7754A811BF2D93E91A96172E0": {
+                "t": "Hubungin? Balik aja lu sekarang, urusin nyokap lu, kalau harus izin balik, izin, jangan seret-seret gua ke urusan keluarga lu. Awas keulang lagi, gua cabut lu dari tempat ini!",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "41225DF153ABC34CAB7B2684AFE12FD6F94B"
+                }
+            },
+            "5C65AAE74A32A94708998804BBB43E4BD6C7": {
+                "t": "Baik pak, maaf mengganggu.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "487917F58186A34A197AE2A32EB82C249BF4"
+                }
+            },
+            "3C36CA921782B54B568A03B53A3A115B9D47": {
+                "t": "Ma, aku udah di rumah.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "815254AC7D5071476908AFD5939ED8305BCF"
+                }
+            },
+            "7C3B781B72491546CC48702453073130DD1F": {
+                "t": "Steven, kamu sini dulu.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "590FCD6C1838C9478868426315FCCCA19D90"
+                }
+            },
+            "90ADF6526CC9F246F74B67C2BF234D0BDE46": {
+                "t": "Aku dan mama duduk di ruang tamu. Ekspresi mama tidak senang.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "B705C5476F31A74D841B15F7B84451B40619"
+                }
+            },
+            "C753B0E64F34C24FE68AB067AE9A621A08EE": {
+                "t": "Ada apa ma?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "2189EDC18EDCA74AEA1916E1D6D2D66A2956"
+                }
+            },
+            "A33194CE31F9A84CA7586AB0585382A47D6F": {
+                "t": "Coba ceritakan apa yang kamu lakukan hari ini, mama mau dengar!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "B9593F3C960C24489C59EC21F64F417E6356"
+                }
+            },
+            "1266BCB18936E84B7C7B38238CB3E5894766": {
+                "t": "Ceritakan",
+                "d": {
+                    "eid": "06C1662F63016243F32822D3395A2797B33B"
+                }
+            },
+            "A2CB1AF369ECB84876083D04FCBF8F8F0587": {
+                "t": "Marah",
+                "d": {
+                    "eid": "0ED4BA602A20C440934B43122F5827E615F4"
+                }
+            },
+            "30CEB146322CC2461C2BBAC87035A61558D0": {
+                "t": "Ok inilah ceritanya ……….",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "E10B538A40618845A0190F6007751E9B0C62"
+                }
+            },
+            "7B955BFB82FD504CB149A961CE1EF216C4F5": {
+                "t": "Mama memaksakan aku pulang cuman supaya aku menceritakan ke mama apa yang kulakukan hari ini?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "153EB8DF849A08400789DAB8FAADE03AE717"
+                }
+            },
+            "520769BF5BEBC540017938C6D71A960BB35E": {
+                "t": "(Aku terus bercerita dan pada akhirnya mama ngantuk dan tertidur di sofa. Sebaiknya aku..)",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "DC957B515F9EA54374491F468D23BD261B0D"
+                }
+            },
+            "64C2CCCB1F59C14B246AD2137FB2850309C3": {
+                "t": "Mengangkat mama ke kamar",
+                "d": {
+                    "eid": "6CC8605B1B0587449169832550E9D66CA1E8"
+                }
+            },
+            "26CD47D6850974432D38E21879F41A350352": {
+                "t": "Membiarkan mama di sofa ",
+                "d": {
+                    "eid": "C3CF2C694C48D344DD592EE3FB380B2C715C"
+                }
+            },
+            "00489970989DD342C26A5A952604E3D1D853": {
+                "t": "Membangunkan mama",
+                "d": {
+                    "eid": "ADD9FCF021713347971833D747E2C253A676"
+                }
+            },
+            "96E0B62014AAB541D13AEB12DFF58108DAEA": {
+                "t": "(Aku mengecek HPku sebentar. Ternyata sekarang sudah jam 20.30. Sebaiknya aku..)",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A29DC8C018976744134B910813CBCC64B92F"
+                }
+            },
+            "1E1ED8857D792741265B1191FDBF7A9D505C": {
+                "t": "Tidur",
+                "d": {
+                    "eid": "DEA7FBAF03AA1345ED9968914A8DC4661E37"
+                }
+            },
+            "1A518C406CE4D348D589B7F4438478917FF6": {
+                "t": "Kembali menjaga warnet",
+                "d": {
+                    "eid": "2145C019523FA3430F28CD813391775F45E8"
+                }
+            },
+            "3241C16B2ACD7142593A6D81282A92424A98": {
+                "t": "Steven kembali ke Warnet dan bosnya Sebastian sedang menjaga warnet",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "2B61D84B3F9814478F89E013CEB1E3B645AD"
+                }
+            },
+            "8D2EAD191ADDA1418E289E2619348AA75265": {
+                "t": "Lah kok balik lagi, gimana urusanlu dah selesai?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "CA925D973449534ED058482305D484F82BC8"
+                }
+            },
+            "28C5D6235AF08548C72960A2E6EA8EAF89E6": {
+                "t": "Udah bos, saya siap menjaga lagi.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "7867E9BF455765492C393BE1459CEB3F6B67"
+                }
+            },
+            "A09865322B44314DCA5BB9D6A25DFC88DF15": {
+                "t": "Oke deh, sampe jam 10 ya.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "8DD17A1613DD1442612937D828E7E689A5B7"
+                }
+            },
+            "4A4643B28BA5A344CB7A23A5424BC1CBA821": {
+                "t": "Gaji saya ga dipotong kan pak?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "76FFF92249EF9142A839A8A01CAEFF0EBF8B"
+                }
+            },
+            "05AD8BC14F73D741272B8AE7327E181CCF51": {
+                "t": "Nggak kok, tenang.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "99A6837A4193044CA36BC5A93CC50E2E6427"
+                }
+            },
+            "989C274F1A7AA846FF194738C4C350D81A1E": {
+                "t": "Oke, makasih bos.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "B1885FB93AFD7544C018C188E2FA35AC1619"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Residentialarea_Night",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "06EC893A9CED2644F16AF771B1C56A706E1C",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "4771F2BE9FDCF04FE57BE0A77206E9DF780C",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9CCB644237ABE449026A83D2DC95D12F9A5B",
+                        "defaultText": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "EB83FCB93F4DA446E088047374C4518F02AE",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C4DBEE0E1DD5264EA9288E25663BB173A4BD",
+                        "defaultText": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "48BAA37964B38841B07B6C97DAF8B9301CE9",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B05835FE7F3EA649947BE298C5BA5AAB32D8",
+                        "defaultText": "Berapa jam?"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.CharacterJoinScene",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "predefinedPositionId": 0,
+                    "expressionId": null,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "zOrder": 0,
+                    "origin": 1,
+                    "blendMode": 0,
+                    "positionType": 1,
+                    "motionBlur": {
+                        "enabled": 0,
+                        "delay": 2,
+                        "opacity": 100,
+                        "dissolveSpeed": 3
+                    },
+                    "position": {
+                        "x": -204,
+                        "y": -22,
+                        "angle": 0,
+                        "zoom": 1,
+                        "horizontalFlip": false,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 0
+                        }
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 0
+                    },
+                    "duration": 0,
+                    "waitForCompletion": 1,
+                    "fieldFlags": {
+                        "duration": 0,
+                        "easing.type": 1,
+                        "animation.type": 1,
+                        "motionBlur.enabled": 1,
+                        "origin": 0,
+                        "zOrder": 0,
+                        "blendMode": 1,
+                        "viewport.type": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "908F117222156648F45B6C648020A601CF14",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "94C7B2F15D975643FA58A0188A116166A449",
+                        "defaultText": "Maaf, saya Steven Course ini hari pertama saya menjaga"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "F82E1BB874FB414F396A690001B62AFF0E06",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C8122A7F638A864D171AAF03884B2EE2C988",
+                        "defaultText": "Ohh Steven si boach baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "385E642079CDB84D8A7ABEE1063FA3F0BCE5",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1F89366C9A1000453C19C3D2E7A0F9CC83E3",
+                        "defaultText": "Baik pak, boleh ajarin saya dulu gak apa yang harus saya lakukan?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "CB3611D64BE1F34D163944F3986ECEEFED50",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6205429920A328484E586469984FB20C4B4A",
+                        "defaultText": "Ajarin? Ajarin apaan? Belajar sendiri sana! Gua harus pergi, yang lu perlu tahu udah ada semua di buku panduan dekat komputer."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "81A539BE498703441F7828C59865132689FE",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 0,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "F3C0AE2496C125490C5AFA94D3AFD2FFA83E",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "nurut",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "36FBE37610AE234182095F377761A89C5A48",
+                        "defaultText": "Nurut"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 232,
+                        "y": 138,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 812,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D17FAC0C0BB344478B2A9768B62B33B058C6",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "tanya",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "E0A337733D09D741C3799F6363DF06B67116",
+                        "defaultText": "Tanya lagi"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 232,
+                        "y": 304,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 812,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "28A312ED850EB6408D699AC5F6509A1DE394",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "9E42761F51D1E34A732A4CE5BE214ECDC3C9",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "nurut"
+                },
+                "uid": "0513A34C2290154A7F3BF9A383B7C4BF2815",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9ABD01CA9E25C74CA52BC0F4E3199A2B80C7",
+                        "defaultText": "Baik Pak"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A3E47CE74B79E04F0009856376AB80C61A6B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3CE41D236FE35648205B8A21B277C0DF6974",
+                        "defaultText": "Oke, gua balik sekitar jam 10. Jangan balik ya sebelum gua balik."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "6655EA4A2338F7435A6B34F196B986BAF99B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjut1",
+                    "target": "activeScene"
+                },
+                "uid": "9DA90D0727146640B72A82D68282E3DA9F55",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "tanya"
+                },
+                "uid": "11C3034D49D4D24C5218BE04E8692A30BC2F",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "BB070324931EC846802B4B12D9BD6B5B4B00",
+                        "defaultText": "Paling nggak kasih tau sedikit lah pak apa yang saya harus lakukan, masa bapak langsung pergi?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "029E524415233541473B8D7250385EF4C1B9",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4639753D7F2A134FAB6A1B88B3E21040532B",
+                        "defaultText": "Nggak, nggak, nggak! Lu udah SMA, harus belajar sendiri. Gua balik sekitar jam 10, Jangan balik sebelum gua balik!"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "6774CB2573BF6642E90860A970FFFD402F98",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjut1",
+                    "target": "activeScene"
+                },
+                "uid": "2C8F422950515447E92A97F324130678ED2C",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Lanjut1"
+                },
+                "uid": "C721E7E091ECC045042884E660047EE867C3",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "15D01A492F11264C4E68B705C64C8538DDBD",
+                        "defaultText": "KRING KRING........"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "47AF76D08AA8B544A50B2D82282CD9F8EF0F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "37A0E7BD429E904B2E6A48016BE1365E635C",
+                        "defaultText": "Steven, sudah jam segini kamu pulang ada dimana kami? Mama butuh kamu, pulang sekarang!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "11808B8502FA384B935837D7E990A4BD9D4D",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5353251661830545F37B3C321A101C40381B",
+                        "defaultText": "Ibuku menelponku. Ia mengidap possessive personality disorder sehingga ia ingin aku pulang dan berada di sisinya terus, Aku harus jawab apa?"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "C4F738EF7894A84F9D6ACD411A2AE2A04CFF",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "83441BBA72F97948E95AD0816B0A399EF71C",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "jujur",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "5DEF74854EDC264D9F4BB0D44500F5AF4A67",
+                        "defaultText": "Jujur"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "9FA402577ACAA1470529C244D63B68D62E80",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "pulangnanti",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "0CF144810A663149351AAF982B9D23A64176",
+                        "defaultText": "Pulang Nanti"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "0E5CEA9771023642C128F011079F03D93C5C",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "izin",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "35BBED5A15253441076BD384B0A6C581577E",
+                        "defaultText": "Izin"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "DB5324D5458A0147A88A4438E0BF6E52835E",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "pulang",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "BB6BFF6817C1D34AE35852E5C89A2833E961",
+                        "defaultText": "Pulang"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "3498582371C34246CF287DB53C30508601F8",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "ECAD56116A7324478D09D893F6EFEB115B6D",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "pulangnanti"
+                },
+                "uid": "BB4BB4FD65F6A14CF20BAEF124ED2A5070CB",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "727BBC896ECD5646530AECF2E94D523E3C53",
+                        "defaultText": "Ma aku bakal pulang jam 10 kok, aku sekarang lagi gak bisa diganggu, aku harus jaga warnet, dadah-"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "5D2FE6D29FFC674FFE68D071BA3D0C121DDA",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "change",
+                    "target": "activeScene"
+                },
+                "uid": "7D80E08127649546833989F324E3BD587CF6",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "pulang"
+                },
+                "uid": "DE3AE03B0CEE9845DD3B6A7144654FB26B6E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9BC7C5AB53FEA04E3F29D09194AD5997D188",
+                        "defaultText": "Oke ma Aku pulang sekarang"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A3AC09A830A7C8452628BD4525C931428978",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "rumah",
+                    "target": "activeScene"
+                },
+                "uid": "E088803614D79843DC1AE7F0E496AF92F998",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "jujur"
+                },
+                "uid": "A675A1BF3CE47347FB8AC349A6ECDA63A447",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2C0DA6C336BEB042131B9E5696016C8EC9A0",
+                        "defaultText": "Aku lagi menjaga warnet, Mama butuh apa?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8AC854645B80184297582D74BF73E6325583",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2DE0C38C5600894F3D58D02383CC3B35FEF4",
+                        "defaultText": "Ngapain jaga warnet? Mama butuh kamu, pulang sekarang!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E21107976161E54BB379B2650B8974F7E652",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "31967D0341294642CB2AF4B60FAE7031AE23",
+                        "defaultText": "(Duh, mama maksain pulang terus..)"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "1F570F256F55E64D9699A9915AD9882AB37F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "3F00FC891234F247A73BA4D5081BE009F583",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "tidakbs",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "6C7BE7BC7AF8414D3B49CB32AA8CD1233227",
+                        "defaultText": "Tidak bisa pulang sekarang"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 306,
+                        "y": 154,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 608,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "C6273D16369B0041464A6B0408C2B0E4C91E",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "alasan",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "7F2C90F792B4E745CC0879D37DBA87D9CB27",
+                        "defaultText": "Alasan Uang"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 1,
+                    "box": {
+                        "x": 306,
+                        "y": 388,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 608,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "A09124A9688B6541094843B8D286FFCB7E81",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "8AD9C8AD5EE25745F77A8231D1DB9D80BE1A",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "tidakbs"
+                },
+                "uid": "343EBEA657D4D9452F6ABDE2529309FF2873",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DC01F60A6AFAC74CCC89C0E5D0ABD60F5FCE",
+                        "defaultText": "Aku gak bisa pulang sekarang ma, aku disini mencari uang demi keluarga, aku jam 10 bakal pulang kok."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "EF7A58A640512540D33AEDC00284A467D4D9",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D07391591021404F694960685319549B09B2",
+                        "defaultText": "Demi Keluarga? Satu-satunya yang bisa kamu lakukan demi mama adalah pulang sekarang! Kalau kamu belum pulang sekarang, mama sudah siap mati sekarang!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "EBDB73AD7B220346423A25C4CFA2771BD529",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "lanjut2",
+                    "target": "activeScene"
+                },
+                "uid": "7237E39D3313484D9B4878A6EEFE5D9C1D33",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "alasan"
+                },
+                "uid": "634F565A6CA0944DD22903E4449356AB3230",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "89D175923FB8B34BA67BE2B83A3A5C12D202",
+                        "defaultText": "Mah, kalau aku gak jaga warnet disini, keluarga kita bakal gak punya uang, mama juga gak bakal bisa hidup, jadi tolong dimengerti, apa susahnya sih menunggu sebentar, aku jam 10 juga pulang kok."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "493EE69D230C0047483BD1E100EB8DBBA8E6",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1275D9506F19584E4F1A6F937072A6F4EAF7",
+                        "defaultText": "Mama tidak peduli keluarga kita bakal punya uang atau enggak, yang mama peduli kamu ada di sisi mama selama mama masih hidup, kalau kamu belum pulang-pulang juga, mama sudah siap mati sekarang!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "F71EFEB191232947581BA5F25EE1475F74A6",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "lanjut2",
+                    "target": "activeScene"
+                },
+                "uid": "FA704EE87AF1D8460C28E870EAC10F0D2D2C",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lanjut2"
+                },
+                "uid": "62ED643569A5624D0B69F0A2D788F2E88EF6",
+                "indent": 0
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "8C48E9F5303DC645484B691676E71BA324F0",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "izin2",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "05B5410D1B63F845D36911319EBF0863CB70",
+                        "defaultText": "Izin dulu"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "18F2D29679E2E7479019528220F03E40677C",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "lanjut3",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "020098B154EC6744F32937E34BD9DA969059",
+                        "defaultText": "Langsung Pulang"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 502,
+                        "y": 272,
+                        "angle": 0,
+                        "zoom": 1,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 160
+                        },
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "E4939FE577F2A740B52BE5E1BF53CB6119D7",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "mak",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "6F6955FC0319F74D634AF7533B6E1AC27B1D",
+                        "defaultText": "Terserah mama"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "11E2318187D86145407924353C736E1B7CD6",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "F9AAABCC2EE3B342D82930F1FDF1550443AE",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "izin"
+                },
+                "uid": "AD83E8946A98984E895B0979D8335F5924DE",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8F0F70293055094EDE58DE48C08CE22A3D20",
+                        "defaultText": "Aku lagi jaga warnet ma, nanti aku minta izin ke bosku dulu ya, kalau diizinkan baru aku pulang sekarang"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8F9E780C47141545214817866C58520C4CE2",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "izin3",
+                    "target": "activeScene"
+                },
+                "uid": "21FC0E4132D3584E4C4B9F49A7A9F7A8F9DF",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "izin2"
+                },
+                "uid": "FFD7A35C90D6E348EF0A7DE1564485091215",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "605C9D1761ADD249E69A4807AF20834570F8",
+                        "defaultText": "Ok ma, aku izin dulu ke bosku, habis itu aku pulang."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "767E1A9C68D6C34A6B4A854772DFED0FDD46",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "izin3",
+                    "target": "activeScene"
+                },
+                "uid": "AE813EE23B67F44DA8782F4183CF8B35EDDF",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "izin3"
+                },
+                "uid": "9CDDF91E84E62640D2197F414B04AB0C6C0C",
+                "indent": 0
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "83FE037B29C3C44CAF8AAF658D77931CE349",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D130E6997213F541D98813A53EE23A9B9B74",
+                        "defaultText": "Steven Whatsapp pak Sebastian"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "AA134EE095888545CE69CDF42CBD6E8A472B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "14ABD235391CF54BD2189EB4593B0A8DA530",
+                        "defaultText": "Pak Sebastian, Saya pulang duluan ya, saya dicari ibu saya."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "FDA054734C56944C61586EF5192A72F1CD6D",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "ED11C03634B1A34182894F243BEA9D277ABA",
+                        "defaultText": "Ya sudah, tetapi lu harus menggantikan 3 jam kerja ya, karena kamu kurang 3 jam."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "267CB5C26696E749572A0D968A80F9DD7928",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A9C3A47A304232473378B706D70EAF65FF26",
+                        "defaultText": "Baik pak, terimakasih."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E024F58764ACE5483C29EAF7A125815C1451",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "rumah",
+                    "target": "activeScene"
+                },
+                "uid": "446E80A947D573459C3A435416A3F0AD3FD1",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lanjut3"
+                },
+                "uid": "40D324443562B545AD588DD88F085343EE13",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "55C694357312B045613926C494FA18E09F89",
+                        "defaultText": "Ok ma, aku pulang sekarang."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A54E14390E6C0249DC294616023B1DB1F4CC",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "rumah",
+                    "target": "activeScene"
+                },
+                "uid": "2B114C21599DA34BFD4960F7BD12E4F6B2A5",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "mak"
+                },
+                "uid": "C6F362698061E546DF5863951B52B9217D4E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DA810F8684ED654FA4886C88C03F226ED587",
+                        "defaultText": "Terserah mama deh."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "517C301A26F8244C957A39C94052A48554CC",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4C924B098A6E0242EF48B7C1E177CB1AB8ED",
+                        "defaultText": "Mana bosmu, biar mama saja yang ngomong."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8DA4AA138D30F54F1E1BDAB7AE0A20B02FAA",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "B6D149063EC2D64F6B18FBB0E9EE8D20FFBB",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "Tidakusah",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "D457AFA29A49B54D918844B251896C8B0A2E",
+                        "defaultText": "Tidak Usah"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "235660F838C000418479B971F5968434DD54",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "Kasih",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "0D82163D7D38D9425649F2F815AC4B673E3D",
+                        "defaultText": "Kasih Nomor"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "D1A7E4BE6ACDB14F360B6E5500317BA8B93A",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "C38789E84813B54AC26AD8B193BE04F61AFC",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Tidakusah"
+                },
+                "uid": "5F9C33ED0E2B7847583A80602FDEC88A61E8",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3A8271CD638E58484F4A9ED1BD4DCCE41D5E",
+                        "defaultText": "Tidak usah lah ma, Steven bisa membujuk kok."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "7C510718029CB24B271AE1E64E89FB19FC64",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DBD05C7163CE0447D58933244431AA4B7C05",
+                        "defaultText": "Baik, mama tunggu di rumah, jangan lama-lama."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "D12F63E99231614CD4485CB6AECC29DA4185",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "izin3",
+                    "target": "activeScene"
+                },
+                "uid": "174BBD2D42AD564F3E198369663ED9F9EB12",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Kasih"
+                },
+                "uid": "3F52DE24723BA244BC59BEA3BC0B9537DF7C",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3DAD30744D6DC44A779823C506C77B778E10",
+                        "defaultText": "Nih nomornya ma, kalau mama mau ngomong."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "83FBBB895D06024DFE4B649284DDDDFEDBB8",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E0200DCB18DD154C726B1E58BFEE6FA71DA5",
+                        "defaultText": "Oke, biar mama ngomong ke bos mu sekarang."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "70F1746E8C76F947E36BF8919F78FABFC790",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1435052C25AA57454E4B17F111E02498BCC1",
+                        "defaultText": "Tak lama kemudian Pak Sebastian menelpon."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "FD5B07E4190FA94C571AA8D2DC21E805F21E",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E190F2B866410046973A9291ABD0361FD8E4",
+                        "defaultText": "Jadi nyokap lu baru nelpon gua. Dia ngomongnya sopaaan banget."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "72FDA7DC123A7445CD6A34D8E7C5D108DA94",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "9FE7752579268548204BC6B4511D1A5E06F9",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "maaf",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "7615623B54E3A64E088B05A3883EB2B09B5B",
+                        "defaultText": "Aduh pak saya minta maaf"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "3AA5B47D55B87344046855A62B8B973577B3",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "gimana",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "9CD2684D5E6651400C386E4249950CF24D8A",
+                        "defaultText": "Gimana Pak Percakapannya"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "F6305E9D718E254D2D5BA4B5AAEEAEB1F6CB",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "22F4A7C72F92264E4D3BB0B4DD28A0B61848",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "gimana"
+                },
+                "uid": "A5A19CDA69166342C869C262A0DA4D525C2E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "BB14AE24481FA8448E882AE6A08C47F56A9E",
+                        "defaultText": "Gua gak peduli soal nyokap lu, yang gua peduliin reputasi gua. Dia bilang dia bakal sebarin di Facebooknya dia kalau gua menganiaya lu dan memaksakan lu buat kerja."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "CE80246A10A3564E434BF974893816A5FC31",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "lanjut4",
+                    "target": "activeScene"
+                },
+                "uid": "858B9BF15E5B734BBA4B201822D28105FBD7",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "maaf"
+                },
+                "uid": "92B5E72C67E9444EBB09B9D6A6C00D62C87E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8491DC2635B2E948266BB2689C9E6C4D6282",
+                        "defaultText": "Lu kira lucu? Lu tau gak sih nyokap lu nuduh gue buat maksa kerja. Dia bilang lu budak gue dan dia akan sebarkan di Facebooknya."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A56EC3954BA324487109EC275E51D9D0D159",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lanjut4"
+                },
+                "uid": "BADD4B66876C0848D93BF5F1B6557A7BE03E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2AB9B8EC204A58441C6A91D7C9414A682C85",
+                        "defaultText": "Baik pak saya akan menghubungi ibu saya."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "44B0981E9188A249919BF0D906730C700FC5",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A27A21EC32B7754A811BF2D93E91A96172E0",
+                        "defaultText": "Hubungin? Balik aja lu sekarang, urusin nyokap lu, kalau harus izin balik, izin, jangan seret-seret gua ke urusan keluarga lu. Awas keulang lagi, gua cabut lu dari tempat ini!"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "41225DF153ABC34CAB7B2684AFE12FD6F94B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5C65AAE74A32A94708998804BBB43E4BD6C7",
+                        "defaultText": "Baik pak, maaf mengganggu."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "487917F58186A34A197AE2A32EB82C249BF4",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "rumah"
+                },
+                "uid": "DAC6D3068479F040AA2ACC84BFB7151F4C76",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "HomeOutside_Night3",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1,
+                        "easing.type": 1,
+                        "animation.type": 1,
+                        "origin": 1,
+                        "zOrder": 1,
+                        "blendMode": 1,
+                        "viewport.type": 1,
+                        "loopVertical": 1,
+                        "loopHorizontal": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "24AFD1981B5C984A7E98564724C0344422A9",
+                "indent": 0,
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3C36CA921782B54B568A03B53A3A115B9D47",
+                        "defaultText": "Ma, aku udah di rumah."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "815254AC7D5071476908AFD5939ED8305BCF",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.CharacterJoinScene",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "predefinedPositionId": 0,
+                    "expressionId": null,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "zOrder": 0,
+                    "origin": 0,
+                    "blendMode": 0,
+                    "positionType": 1,
+                    "motionBlur": {
+                        "enabled": 0,
+                        "delay": 2,
+                        "opacity": 100,
+                        "dissolveSpeed": 3
+                    },
+                    "position": {
+                        "x": 458,
+                        "y": -72,
+                        "angle": 0,
+                        "zoom": 1,
+                        "horizontalFlip": false,
+                        "data": {},
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 0
+                        }
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 0
+                    },
+                    "duration": 0,
+                    "waitForCompletion": 1,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": ""
+                    }
+                },
+                "uid": "EB3046FC8E1FA84FF77AB3D07436C2B723E3",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7C3B781B72491546CC48702453073130DD1F",
+                        "defaultText": "Steven, kamu sini dulu."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "590FCD6C1838C9478868426315FCCCA19D90",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "90ADF6526CC9F246F74B67C2BF234D0BDE46",
+                        "defaultText": "Aku dan mama duduk di ruang tamu. Ekspresi mama tidak senang."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "B705C5476F31A74D841B15F7B84451B40619",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C753B0E64F34C24FE68AB067AE9A621A08EE",
+                        "defaultText": "Ada apa ma?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "2189EDC18EDCA74AEA1916E1D6D2D66A2956",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A33194CE31F9A84CA7586AB0585382A47D6F",
+                        "defaultText": "Coba ceritakan apa yang kamu lakukan hari ini, mama mau dengar!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "B9593F3C960C24489C59EC21F64F417E6356",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "A92603A63D97954C1D7B9AF22071F86E94D5",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "cerita",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "1266BCB18936E84B7C7B38238CB3E5894766",
+                        "defaultText": "Ceritakan"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "06C1662F63016243F32822D3395A2797B33B",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "marah",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "A2CB1AF369ECB84876083D04FCBF8F8F0587",
+                        "defaultText": "Marah"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "0ED4BA602A20C440934B43122F5827E615F4",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "13070B5A4AB1704DC37AE2B23D33C10FE450",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "cerita"
+                },
+                "uid": "787317B07B9AF14FB01B30670821136F1920",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "30CEB146322CC2461C2BBAC87035A61558D0",
+                        "defaultText": "Ok inilah ceritanya ………."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E10B538A40618845A0190F6007751E9B0C62",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "lanjut5",
+                    "target": "activeScene"
+                },
+                "uid": "52F4E2217A0FE645426B45D54585E30449CC",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "marah"
+                },
+                "uid": "CBDAFED8172D4543CE1BD7839D53DFA70F7A",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7B955BFB82FD504CB149A961CE1EF216C4F5",
+                        "defaultText": "Mama memaksakan aku pulang cuman supaya aku menceritakan ke mama apa yang kulakukan hari ini?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "153EB8DF849A08400789DAB8FAADE03AE717",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lanjut5"
+                },
+                "uid": "E7F9FE41152FF84D4D6BC5275D8B0E2D55B3",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "520769BF5BEBC540017938C6D71A960BB35E",
+                        "defaultText": "(Aku terus bercerita dan pada akhirnya mama ngantuk dan tertidur di sofa. Sebaiknya aku..)"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "DC957B515F9EA54374491F468D23BD261B0D",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "2366D1773A618744E94B2330002C5DB99FE6",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "lanjut6",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "64C2CCCB1F59C14B246AD2137FB2850309C3",
+                        "defaultText": "Mengangkat mama ke kamar"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "6CC8605B1B0587449169832550E9D66CA1E8",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "lanjut6",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "26CD47D6850974432D38E21879F41A350352",
+                        "defaultText": "Membiarkan mama di sofa "
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "C3CF2C694C48D344DD592EE3FB380B2C715C",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "change",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": {
+                            "uid": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                            "name": "Scene 3"
+                        }
+                    },
+                    "text": {
+                        "lcId": "00489970989DD342C26A5A952604E3D1D853",
+                        "defaultText": "Membangunkan mama"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "ADD9FCF021713347971833D747E2C253A676",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "225A391B7E6B12421E996ED71178E9FE9BE5",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lanjut6"
+                },
+                "uid": "A407330D9CC944465F4AECB1BEBC9BA7D00E",
+                "indent": 0
+            },
+            {
+                "id": "vn.CharacterExitScene",
+                "params": {
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "easing": {
+                        "type": 1,
+                        "inOut": 0
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "197D58F5421D45407119DE5206C818114DE6",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "96E0B62014AAB541D13AEB12DFF58108DAEA",
+                        "defaultText": "(Aku mengecek HPku sebentar. Ternyata sekarang sudah jam 20.30. Sebaiknya aku..)"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A29DC8C018976744134B910813CBCC64B92F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "7E069D6117159846415B0BB25FA99F8B6A36",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 3,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                        "label": "",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": {
+                            "uid": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                            "name": "Scene 3"
+                        }
+                    },
+                    "text": {
+                        "lcId": "1E1ED8857D792741265B1191FDBF7A9D505C",
+                        "defaultText": "Tidur"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "DEA7FBAF03AA1345ED9968914A8DC4661E37",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "jaga",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "1A518C406CE4D348D589B7F4438478917FF6",
+                        "defaultText": "Kembali menjaga warnet"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "2145C019523FA3430F28CD813391775F45E8",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "27EA44B1875D5644072B04980888A713CAAA",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "jaga"
+                },
+                "uid": "00D1D67820F70548D75A44F9EDB6CBF32381",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Residentialarea_Night",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "E6039FA939360449CE39A4E56772B1DBCAC1",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3241C16B2ACD7142593A6D81282A92424A98",
+                        "defaultText": "Steven kembali ke Warnet dan bosnya Sebastian sedang menjaga warnet"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "2B61D84B3F9814478F89E013CEB1E3B645AD",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8D2EAD191ADDA1418E289E2619348AA75265",
+                        "defaultText": "Lah kok balik lagi, gimana urusanlu dah selesai?"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "CA925D973449534ED058482305D484F82BC8",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "28C5D6235AF08548C72960A2E6EA8EAF89E6",
+                        "defaultText": "Udah bos, saya siap menjaga lagi."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "7867E9BF455765492C393BE1459CEB3F6B67",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A09865322B44314DCA5BB9D6A25DFC88DF15",
+                        "defaultText": "Oke deh, sampe jam 10 ya."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8DD17A1613DD1442612937D828E7E689A5B7",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4A4643B28BA5A344CB7A23A5424BC1CBA821",
+                        "defaultText": "Gaji saya ga dipotong kan pak?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "76FFF92249EF9142A839A8A01CAEFF0EBF8B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "05AD8BC14F73D741272B8AE7327E181CCF51",
+                        "defaultText": "Nggak kok, tenang."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "99A6837A4193044CA36BC5A93CC50E2E6427",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "989C274F1A7AA846FF194738C4C350D81A1E",
+                        "defaultText": "Oke, makasih bos."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "B1885FB93AFD7544C018C188E2FA35AC1619",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "7CB66CF465B2D840C82BF7E22A2EE8B898D7",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                        "name": "Scene 3"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "0DB5A63320DCB54FF0791DE41294C5D47E48",
+                "indent": 0,
+                "expanded": true
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 2,
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0,
+                "domain": "com.degica.vnm.default"
+            }
+        ],
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

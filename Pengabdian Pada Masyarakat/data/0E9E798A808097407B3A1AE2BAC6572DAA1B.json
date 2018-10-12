@@ -1,0 +1,41 @@
+{
+    "uid": "0E9E798A808097407B3A1AE2BAC6572DAA1B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Samuel",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "0E9E798A808097407B3A1AE2BAC6572DAA1B",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Samuel",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Samuel Prasetyo",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "0E9E798A808097407B3A1AE2BAC6572DAA1B"
+        },
+        "order": 5
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

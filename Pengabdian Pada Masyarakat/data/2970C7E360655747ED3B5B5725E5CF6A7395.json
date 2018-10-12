@@ -1,0 +1,41 @@
+{
+    "uid": "2970C7E360655747ED3B5B5725E5CF6A7395",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Julius",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "2970C7E360655747ED3B5B5725E5CF6A7395",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Julius",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Julius",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "2970C7E360655747ED3B5B5725E5CF6A7395"
+        },
+        "order": 6
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

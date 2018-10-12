@@ -1,0 +1,49 @@
+{
+    "uid": "9906D7102B31A946624989249F41BA986880",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Arvan",
+        "type": "data_record",
+        "category": "characters",
+        "id": "9906D7102B31A946624989249F41BA986880",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "1A0F56268E0CE64E456A9802165425235799": {
+                "t": "",
+                "d": null
+            },
+            "0A0B456A6449E545488882A5EA82886F7E79": {
+                "t": "Arvan",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "0A0B456A6449E545488882A5EA82886F7E79",
+                "defaultText": "Arvan"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "53CF33FF2633A5435349A9C7CD8A0EF1957B",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "9906D7102B31A946624989249F41BA986880"
+        },
+        "order": 6
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

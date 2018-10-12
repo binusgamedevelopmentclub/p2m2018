@@ -1,20 +1,19 @@
 {
     "uid": "1C27F68E09CCB442D3888A048C4769D9B31D",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Tutup dan abaikan telpon",
+        "type": "vn.scene",
         "parentId": "318A5AB506EB0244434A27910166D538E6F7",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "livePreviewDisabled": false,
-        "order": 1
+        "order": 1,
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

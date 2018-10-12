@@ -279,10 +279,11 @@
                         "name": "$live_preview_snapshot"
                     },
                     "fieldFlags": {
-                        "easing.type": 1,
+                        "easing.type": 0,
                         "animation.type": 0,
                         "zOrder": 0,
-                        "blendMode": 0
+                        "blendMode": 0,
+                        "origin": 1
                     },
                     "zOrder": 0,
                     "blendMode": 0,

@@ -1,0 +1,113 @@
+{
+    "uid": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Scene 3",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "localizableStrings": {
+            "5745402E659F90404448E2F2C52EE0607399": {
+                "t": "33333333",
+                "d": {
+                    "cid": 0,
+                    "eid": "71DC80339108F34B1F5912888FE1AD899EA6"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Classroom1_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "DA77455A11C0B74026598C44C570E52E9CF6",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5745402E659F90404448E2F2C52EE0607399",
+                        "defaultText": "33333333"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "71DC80339108F34B1F5912888FE1AD899EA6",
+                "indent": 0,
+                "expanded": true
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

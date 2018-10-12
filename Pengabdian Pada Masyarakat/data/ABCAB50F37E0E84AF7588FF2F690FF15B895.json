@@ -1,0 +1,41 @@
+{
+    "uid": "ABCAB50F37E0E84AF7588FF2F690FF15B895",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Steven",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "ABCAB50F37E0E84AF7588FF2F690FF15B895",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Steven",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Steven CourseNet",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "ABCAB50F37E0E84AF7588FF2F690FF15B895"
+        },
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

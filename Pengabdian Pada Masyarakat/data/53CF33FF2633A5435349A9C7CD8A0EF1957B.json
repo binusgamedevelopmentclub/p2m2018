@@ -1,0 +1,41 @@
+{
+    "uid": "53CF33FF2633A5435349A9C7CD8A0EF1957B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Arvan",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "53CF33FF2633A5435349A9C7CD8A0EF1957B",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Arvan",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Arvan",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "53CF33FF2633A5435349A9C7CD8A0EF1957B"
+        },
+        "order": 7
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

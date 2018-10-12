@@ -1,0 +1,40 @@
+{
+    "uid": "68B4A1AB33FB13498E6AA917B72E1FDB3834",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Alvin",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "68B4A1AB33FB13498E6AA917B72E1FDB3834",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Alvin",
+            "idleSpeed": 100,
+            "idle": [],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "68B4A1AB33FB13498E6AA917B72E1FDB3834"
+        },
+        "order": 8,
+        "localizableStrings": {
+            "650C8D693D94B34FAA1B71F7B48FF65AB949": {
+                "t": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer. \n\n",
+                "d": {
+                    "cid": 0,
+                    "eid": "48BAA37964B38841B07B6C97DAF8B9301CE9"
+                }
+            }
+        }
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "uid": "479844302D7218496678C6629439DAF98ADB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Shinta",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "479844302D7218496678C6629439DAF98ADB",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Shinta",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Shinta Course",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "479844302D7218496678C6629439DAF98ADB"
+        },
+        "order": 3,
+        "localizableStrings": {
+            "C17E8D2F52FF57471148D3218712878BCB58": {
+                "t": "Saat Steven sampai di Warnet, bos Steven, Sebastian Irawan sedang di depan komputer. \n\n",
+                "d": {
+                    "cid": 0,
+                    "eid": "48BAA37964B38841B07B6C97DAF8B9301CE9"
+                }
+            }
+        }
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

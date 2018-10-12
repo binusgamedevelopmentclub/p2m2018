@@ -1,0 +1,41 @@
+{
+    "uid": "D3A4DA2126E79145650932B39830D64ED5B5",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Normal",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "D3A4DA2126E79145650932B39830D64ED5B5",
+        "isFolder": false,
+        "parentId": "D202F56F04B4F6465B9B41546AA29817E4B6",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "Normal",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "Aliyah",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "D3A4DA2126E79145650932B39830D64ED5B5"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

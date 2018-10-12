@@ -1,0 +1,49 @@
+{
+    "uid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Shinta",
+        "type": "data_record",
+        "category": "characters",
+        "id": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "62C4777D001F63483E5BD5C2BDDFC949C702": {
+                "t": "",
+                "d": null
+            },
+            "28BE7272736C014E3728F1805DECFE1E5A37": {
+                "t": "Shinta",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "28BE7272736C014E3728F1805DECFE1E5A37",
+                "defaultText": "Shinta"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "479844302D7218496678C6629439DAF98ADB",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "9EE12A561C6CE2486B9AE7F2E1B1A991340D"
+        },
+        "order": 10
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "uid": "99FEED074D6EA247104BBB717129837827D4",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Samuel",
+        "type": "data_record",
+        "category": "characters",
+        "id": "99FEED074D6EA247104BBB717129837827D4",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "953824976F32284FA2883635F668BF9F25A8": {
+                "t": "",
+                "d": null
+            },
+            "46D3C4B569194149F42AD3E430050EC427EA": {
+                "t": "Samuel",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "46D3C4B569194149F42AD3E430050EC427EA",
+                "defaultText": "Samuel"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "0E9E798A808097407B3A1AE2BAC6572DAA1B",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "99FEED074D6EA247104BBB717129837827D4"
+        },
+        "order": 9
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "uid": "8241E7396CA36843495B36798F73C975C17F",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Sebastian",
+        "type": "data_record",
+        "category": "characters",
+        "id": "8241E7396CA36843495B36798F73C975C17F",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "42035639127CF5476F6BAEF48285387D307C": {
+                "t": "",
+                "d": null
+            },
+            "077A90F96FAD0648973874F63EDEA27F4A3B": {
+                "t": "Sebastian",
+                "d": null
+            },
+            "0F4B40A56274B34A3A3B3A367060144E895B": {
+                "t": "Berapa jam?",
+                "d": {
+                    "cid": "99FEED074D6EA247104BBB717129837827D4"
+                }
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "077A90F96FAD0648973874F63EDEA27F4A3B",
+                "defaultText": "Sebastian"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "BF7CB12110894142C299D341A545C910AA86",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "8241E7396CA36843495B36798F73C975C17F"
+        },
+        "order": 11
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

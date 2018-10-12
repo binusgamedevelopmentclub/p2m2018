@@ -1,0 +1,49 @@
+{
+    "uid": "EA1AEA9A8729D64F4748CB86F1498F49383E",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Keira",
+        "type": "data_record",
+        "category": "characters",
+        "id": "EA1AEA9A8729D64F4748CB86F1498F49383E",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "0D46C9A91DFAD346834A24E3B3E553218C07": {
+                "t": "",
+                "d": null
+            },
+            "95F5DA2110A49542E388A415686F14A3B817": {
+                "t": "Keira",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "95F5DA2110A49542E388A415686F14A3B817",
+                "defaultText": "Keira"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "4D97A1827FB3A648E67820F4A48DD1078CA2",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "EA1AEA9A8729D64F4748CB86F1498F49383E"
+        },
+        "order": 7
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

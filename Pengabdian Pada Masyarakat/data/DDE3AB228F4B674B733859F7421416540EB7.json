@@ -1,0 +1,49 @@
+{
+    "uid": "DDE3AB228F4B674B733859F7421416540EB7",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Aliyah",
+        "type": "data_record",
+        "category": "characters",
+        "id": "DDE3AB228F4B674B733859F7421416540EB7",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "1F7AA35C1EB2E045FD491324882715C41736": {
+                "t": "",
+                "d": null
+            },
+            "9880CBE708FCD444F53871B9DB6844E1D6D6": {
+                "t": "Aliyah",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "9880CBE708FCD444F53871B9DB6844E1D6D6",
+                "defaultText": "Aliyah"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "D3A4DA2126E79145650932B39830D64ED5B5",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "DDE3AB228F4B674B733859F7421416540EB7"
+        },
+        "order": 3
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

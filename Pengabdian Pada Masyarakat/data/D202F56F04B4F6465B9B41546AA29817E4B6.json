@@ -1,0 +1,22 @@
+{
+    "uid": "D202F56F04B4F6465B9B41546AA29817E4B6",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Aliyah",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": "Aliyah",
+            "isFolder": true
+        },
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

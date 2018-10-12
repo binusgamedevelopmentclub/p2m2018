@@ -3,11 +3,11 @@
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Scene 2",
+        "name": "Scene 1",
         "type": "vn.scene",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 1,
+        "order": 0,
         "localizableStrings": {
             "03AD74DD5080294926198B5041BC2A7FA112": {
                 "t": "Selamat pagi semuanya!",
@@ -61,15 +61,52 @@
         },
         "commands": [
             {
-                "id": "gs.CallCommonEvent",
+                "id": "vn.ChangeBackground",
                 "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Classroom1_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
-                "indent": 0,
-                "uid": "97584A8D668CD64CB9596983DAA0EBEA0D6E"
+                "uid": "DB1F872F13733741E80AB1094D54CD1AC1F4",
+                "indent": 0
             },
             {
                 "id": "gs.MessageSettings",
@@ -141,6 +178,17 @@
                 "indent": 0,
                 "uid": "E53164BE35B65544047BFF320768B06801C0",
                 "expanded": false
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "97584A8D668CD64CB9596983DAA0EBEA0D6E"
             },
             {
                 "id": "gs.ShowMessage",
@@ -309,9 +357,66 @@
                 "indent": 0,
                 "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
                 "expanded": true
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "E983E7C981AEA74BF17BF2D0BB4688A0447C",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                        "name": "Scene 2"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "6869095F410709405B28ECC26D11A0F9B0E3",
+                "indent": 0
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",

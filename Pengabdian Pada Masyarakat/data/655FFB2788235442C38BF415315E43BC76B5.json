@@ -1,0 +1,49 @@
+{
+    "uid": "655FFB2788235442C38BF415315E43BC76B5",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Julius",
+        "type": "data_record",
+        "category": "characters",
+        "id": "655FFB2788235442C38BF415315E43BC76B5",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "4BF6E45A71955847DC48D3222FC28F46DDA2": {
+                "t": "",
+                "d": null
+            },
+            "F98DA6A45F6D9148236A9682F09723253D09": {
+                "t": "Julius",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "F98DA6A45F6D9148236A9682F09723253D09",
+                "defaultText": "Julius"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "2970C7E360655747ED3B5B5725E5CF6A7395",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "655FFB2788235442C38BF415315E43BC76B5"
+        },
+        "order": 8
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

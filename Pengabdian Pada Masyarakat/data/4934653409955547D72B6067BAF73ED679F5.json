@@ -1,0 +1,49 @@
+{
+    "uid": "4934653409955547D72B6067BAF73ED679F5",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Steven",
+        "type": "data_record",
+        "category": "characters",
+        "id": "4934653409955547D72B6067BAF73ED679F5",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "04799A6102F7834F8E5B496830F55ED4910F": {
+                "t": "",
+                "d": null
+            },
+            "628844332038064A5F2974A9C623200EF6ED": {
+                "t": "Steven",
+                "d": null
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "628844332038064A5F2974A9C623200EF6ED",
+                "defaultText": "Steven"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "ABCAB50F37E0E84AF7588FF2F690FF15B895",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "4934653409955547D72B6067BAF73ED679F5"
+        },
+        "order": 4
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}
