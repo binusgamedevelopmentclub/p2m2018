@@ -32,7 +32,11 @@
             "07DDB19171815190",
             "07DDB1C173303031"
         ],
+<<<<<<< HEAD
         "idCounter": 1203,
+=======
+        "idCounter": 1210,
+>>>>>>> f6614df97f9ba7ace833703eca08d1dda34d9b94
         "code": "en_US",
         "icon": {
             "name": "United-Kingdom",
