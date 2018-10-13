@@ -572,6 +572,76 @@
                     "cid": "4934653409955547D72B6067BAF73ED679F5",
                     "eid": "B1885FB93AFD7544C018C188E2FA35AC1619"
                 }
+            },
+            "2CD3BEFC267124464A6B3DD1ECB351EA654B": {
+                "t": "Steven menutup hp dan melanjutkan menjaga warnet. Steven terus menjaga warnet hingga bosnya datang. Pada pukul 9 30, Pak Sebastian datang",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "3D2B1EA86AFEC54A238A36537A1274AC9AD0"
+                }
+            },
+            "132E7DAB89CC814280383F11CCF422A80182": {
+                "t": "Weh, masih bangun juga lu",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "4998640069E0E04C3A89D835944DB00E715C"
+                }
+            },
+            "CE48ED652D4A4343BB0A8D35FCBE2D798968": {
+                "t": "Masih bangun tapi udah ngantuk sih",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "E2A6C50897B7E543759879064F472B6D796F"
+                }
+            },
+            "A5FEAA737632424194589B15DC3AF406CA2E": {
+                "t": "Blom ada sih",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "0B09C58B50EFE24F3D1A61D150645DD5209A"
+                }
+            },
+            "13F904152EEC5943C57B5D04DEEDDD76D315": {
+                "t": " Gimana, ada kendala gak?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "6BA711E97F9EE941CA7BC358823997FF4D15"
+                }
+            },
+            "DFD9F4524B1F48424028FE52C6B327DF4245": {
+                "t": "Bagus, Teruskan, lu rajin kek begini terus, lu bakal gw kasih bonus. Sekarang gw dah liat lu ngantuk, jadi udah balik aja gapapa, biar gw yang jaga",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "BA3B79476DAB6543BD59F5749467D3E05C10"
+                }
+            },
+            "7B26975B5377F44A440892665A70BF535B0A": {
+                "t": "Wah makasih banyak bos",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5A32F57E6A93D149A31B9937743E655F2868"
+                }
+            },
+            "E0FF362011FA894D0858EF9553B0DD8F5C9A": {
+                "t": "Sans, Sekarang udah pergi sana",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "C0A762E4935606471D6A0A5328A67C43FABC"
+                }
+            },
+            "07A7E01541ABD244B11A6500AFCE3C39AABC": {
+                "t": "Baik pak",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "F8EF54EC3F0F9449075B65C491F53AFA8907"
+                }
+            },
+            "316F48B19579414EA77B9292365BAC7E060B": {
+                "t": "Steven balik ke rumahnya. Sampai di rumahnya Steven sudah capek dan ibunya pun sudah tidur. Steven langsung naik ke kamarnya dan tidur",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "DE782A443230C7452C599627652E318D7ACE"
+                }
             }
         },
         "commands": [
@@ -1534,6 +1604,336 @@
                     "animations": []
                 },
                 "uid": "5D2FE6D29FFC674FFE68D071BA3D0C121DDA",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2CD3BEFC267124464A6B3DD1ECB351EA654B",
+                        "defaultText": "Steven menutup hp dan melanjutkan menjaga warnet. Steven terus menjaga warnet hingga bosnya datang. Pada pukul 9 30, Pak Sebastian datang"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "3D2B1EA86AFEC54A238A36537A1274AC9AD0",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "132E7DAB89CC814280383F11CCF422A80182",
+                        "defaultText": "Weh, masih bangun juga lu"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "4998640069E0E04C3A89D835944DB00E715C",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "CE48ED652D4A4343BB0A8D35FCBE2D798968",
+                        "defaultText": "Masih bangun tapi udah ngantuk sih"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E2A6C50897B7E543759879064F472B6D796F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "13F904152EEC5943C57B5D04DEEDDD76D315",
+                        "defaultText": " Gimana, ada kendala gak?"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "6BA711E97F9EE941CA7BC358823997FF4D15",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A5FEAA737632424194589B15DC3AF406CA2E",
+                        "defaultText": "Blom ada sih"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "0B09C58B50EFE24F3D1A61D150645DD5209A",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DFD9F4524B1F48424028FE52C6B327DF4245",
+                        "defaultText": "Bagus, Teruskan, lu rajin kek begini terus, lu bakal gw kasih bonus. Sekarang gw dah liat lu ngantuk, jadi udah balik aja gapapa, biar gw yang jaga"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "BA3B79476DAB6543BD59F5749467D3E05C10",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7B26975B5377F44A440892665A70BF535B0A",
+                        "defaultText": "Wah makasih banyak bos"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "5A32F57E6A93D149A31B9937743E655F2868",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E0FF362011FA894D0858EF9553B0DD8F5C9A",
+                        "defaultText": "Sans, Sekarang udah pergi sana"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "C0A762E4935606471D6A0A5328A67C43FABC",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "07A7E01541ABD244B11A6500AFCE3C39AABC",
+                        "defaultText": "Baik pak"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "F8EF54EC3F0F9449075B65C491F53AFA8907",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "316F48B19579414EA77B9292365BAC7E060B",
+                        "defaultText": "Steven balik ke rumahnya. Sampai di rumahnya Steven sudah capek dan ibunya pun sudah tidur. Steven langsung naik ke kamarnya dan tidur"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "DE782A443230C7452C599627652E318D7ACE",
                 "indent": 0,
                 "expanded": true
             },
@@ -4239,6 +4639,14 @@
                 "uid": "B1885FB93AFD7544C018C188E2FA35AC1619",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "change"
+                },
+                "uid": "CD18DD5C7E6047421C384242A6907F811F2C",
+                "indent": 0
             },
             {
                 "id": "gs.ChangeTransition",

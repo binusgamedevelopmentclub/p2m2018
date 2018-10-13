@@ -1,10 +1,11 @@
 {
     "uid": "4934653409955547D72B6067BAF73ED679F5",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "Steven",
         "type": "data_record",
+        "order": 4,
         "category": "characters",
         "id": "4934653409955547D72B6067BAF73ED679F5",
         "isFolder": false,
@@ -36,10 +37,25 @@
             "lipSyncSensitivity": 1,
             "breathIntensity": 1,
             "idleIntensity": 1,
-            "params": [],
+            "params": [
+                {
+                    "name": "Rep boss",
+                    "type": 0,
+                    "value": 0
+                },
+                {
+                    "name": "rep mak",
+                    "type": 0,
+                    "value": 0
+                },
+                {
+                    "name": "rep teman",
+                    "type": 0,
+                    "value": 0
+                }
+            ],
             "index": "4934653409955547D72B6067BAF73ED679F5"
-        },
-        "order": 4
+        }
     },
     "summary": [
         "name",
