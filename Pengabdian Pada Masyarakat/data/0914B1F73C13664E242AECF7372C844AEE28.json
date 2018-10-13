@@ -1,13 +1,11 @@
 {
     "uid": "0914B1F73C13664E242AECF7372C844AEE28",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Prologue",
         "type": "vn.scene",
+        "name": "Prologue",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 0,
         "localizableStrings": {
             "D3DA98E3143A034C31687816111019AE54D5": {
                 "t": "Namaku adalah Steven Course. Dari dulu hidupku selalu mudah. \nAku tidak pernah mengalami kegagalan atau kesusahan. Tetapi sekarang, takdirku sudah berpaling dari harapan. \nAku kehilangan seseorang yang sangat dekat denganku. Dia adalah ayahku yang menafkahi keluarga kami. Dia adalah alasan mengapa hidupku selalu mudah, dan sekarang dia telah meninggal. Sebagai anak pertama, aku harus menggantikan ayahku sebagai pencari nafkah keluarga. Aku bersekolah di SMA Karsenet, salah satu sekolah yang terbaik di daerah tempat tinggal saya. Sekarang aku menduduki kelas 1 SMA, dan hari ini merupakan hari pertamaku sebagai anak SMA. Inilah awal dari kehidupan SMA ku",
@@ -93,6 +91,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.ShowMessage",
@@ -510,6 +509,7 @@
             }
         ],
         "livePreviewDisabled": false,
+        "order": 0,
         "numberVariables": [
             {
                 "name": "",
@@ -529,6 +529,7 @@
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

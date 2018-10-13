@@ -3647,33 +3647,6 @@
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 0
             }
-        },
-        "3F35CB3B0C04F442F8787241375B6F0FCC97": {
-            "items": {
-                "name": "Kosong ko",
-                "type": "vn.scene",
-                "parentId": "1C27F68E09CCB442D3888A048C4769D9B31D",
-                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 0
-            }
-        },
-        "1677C4838281F7410A7AD1B734AFFFB7CFA3": {
-            "items": {
-                "name": "Sorry ko, saya sibuk hari ini",
-                "type": "vn.scene",
-                "parentId": "1C27F68E09CCB442D3888A048C4769D9B31D",
-                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 1
-            }
-        },
-        "5E322468563DF145CD5B15739D69D7AE1017": {
-            "items": {
-                "name": "Percakapan kerja kelompok",
-                "type": "vn.scene",
-                "parentId": "318A5AB506EB0244434A27910166D538E6F7",
-                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 2
-            }
         }
     }
 }

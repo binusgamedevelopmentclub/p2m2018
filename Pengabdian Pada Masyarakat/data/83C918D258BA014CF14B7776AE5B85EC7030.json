@@ -12,81 +12,33 @@
             "6093F0FE344DD341881B3AB4C98431068017": {
                 "t": "Oke, itu saja yang mama mau bicarakan, terima kasih sudah mendengarkan.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "3F6F531B37FCA74D5C69A1B8388EC3EC3AD6"
                 }
             },
             "A0A413127DA4D146597B1799B688A72A19BD": {
                 "t": "Sama-sama ma.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "74018A232C06C64F8B4B047494C5E6D278C7"
                 }
             },
             "DE59150827E1384AB69BC4A3902D013F2BFA": {
                 "t": "Baik ma.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "D8C2BCA08588F6422969FA933E7B7A3B1B8F"
                 }
             },
             "87326EC23416E649FB3AEEC396C39261A312": {
                 "t": "Mama mau tidur dulu ya.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "88871A965DB7544AA1489E3531233E265FA5"
                 }
             }
         },
         "commands": [
-            {
-                "id": "vn.ChangeBackground",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "graphic": {
-                        "name": "School_Hallway1_sunset",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        }
-                    },
-                    "layer": 0,
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "blendMode": 0,
-                    "origin": 0,
-                    "zOrder": 0,
-                    "loopVertical": 0,
-                    "loopHorizontal": 0,
-                    "easing": {
-                        "type": 0,
-                        "inOut": 1
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "FA854EB84A3F18474B88DD424357AFEC5A64",
-                "indent": 0
-            },
             {
                 "id": "gs.CallCommonEvent",
                 "params": {
@@ -118,7 +70,7 @@
                         "defaultText": "Oke, itu saja yang mama mau bicarakan, terima kasih sudah mendengarkan."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -154,7 +106,7 @@
                         "defaultText": "Sama-sama ma."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -190,7 +142,7 @@
                         "defaultText": "Mama mau tidur dulu ya."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -226,7 +178,7 @@
                         "defaultText": "Baik ma."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1

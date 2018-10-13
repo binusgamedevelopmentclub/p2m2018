@@ -18,165 +18,117 @@
             "7E81A7B39192A1469C38B153938798E9F533": {
                 "t": "Ma, aku sudah di rumah.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "8689228A659EC34C4048BD113477C51A3FD2"
                 }
             },
             "C573A12D5507424EB058CAC734B600FC6802": {
                 "t": "Kemana saja kamu?",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "7F1A379A1256A447EC3B8D223F6BCDF855EB"
                 }
             },
             "854500158C25454D832A8FF2D365BC966BC0": {
                 "t": "(mengesah) Aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "20C3868D5A57544A94388167C56B1273EE4B"
                 }
             },
             "DCF2DDDC73536841103B42C5A4DE2B6686FD": {
                 "t": "Kamu harusnya bangunin mama.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "7F7AC1865471D54415394C631236092C8A1E"
                 }
             },
             "5B2A19667D90914F1158DB003B05AEA3A7CF": {
                 "t": "Iya maaf ma, sekarang aku disini kok.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "B6C4B2615B5B0140F65AEAB751AADFB76E98"
                 }
             },
             "BF3714246DA1E94F5679388120DAA77A41D3": {
                 "t": "Ya sudahlah, makan dulu gih, mama sudah beli makanan tuh.\n",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "A9BC040B4B846940C4691E48F7EF84F41DF0"
                 }
             },
             "A77329CC1876F347F83B1E17B14AA102C3E4": {
                 "t": "Baik ma.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "E00E03E22ABF714F2A3BB4323B8D5F5A2151"
                 }
             },
             "B9E9F9DA2D9E39412D4A14E4BE889AF298D7": {
                 "t": "Mama kangen loh.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "AE0918124CBDC74F7A3B5BE709C8954DD37C"
                 }
             },
             "D45AFBC79820D24CD95A99E8BA6B7EB7D751": {
                 "t": "Sama aku?",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "B4909C8828774849A23B8E63045F9F3F64AE"
                 }
             },
             "96C4069D3B17F54ACB8AB3929476055E31A7": {
                 "t": "Sama papa.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "4948FAF4201B214A4E3AB8D09363409AA2B3"
                 }
             },
             "003216B913F5964EB72A3E654F32D71F036F": {
                 "t": "Owhhh.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "8DBD068245226345373B19A6B628D7953BE2"
                 }
             },
             "57A14DD5796D93433B1A4521A615335C2371": {
-                "t": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama.",
+                "t": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "5BD57DE90F4F104ED90897F454DF5D1FEC56"
                 }
             },
             "A2D12A25240E5449A459FFB0A889BFCB5B09": {
                 "t": "Diam dulu, biarkan mama selesai bicara!",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "DE710D1A56177445E9796E24A2B34B27B824"
                 }
             },
             "8144E5662C8432448B6AB730BA3A2B0EBAC4": {
                 "t": "Ma aku....",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "34CDBCD36983544EDF8AB709899907FA54C1"
                 }
             },
             "083C1CEC7990914962581B08400F95C9057E": {
                 "t": ".........",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "F207B2D31927374D4539218440DB703AA1C6"
                 }
             },
             "C3637D1382846344A649F7C2FEA8CF72AF6E": {
                 "t": "Kamu kira mama senang mencari-cari kamu hah? Kamu ngerti gak sih, papa itu sudah mati, Satu-satunya yang menomorsatukan mama, sudah mati, Mama butuh dinomor satukan, Kamu sebagai anak nomor satu, itu tugas kamu untuk menemani mama sampai mati.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "BF6F9D9C69DA624A14886B52055DEDD85493"
                 }
             }
         },
         "commands": [
-            {
-                "id": "vn.ChangeBackground",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "graphic": {
-                        "name": "School_Hallway1_sunset",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        }
-                    },
-                    "layer": 0,
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "blendMode": 0,
-                    "origin": 0,
-                    "zOrder": 0,
-                    "loopVertical": 0,
-                    "loopHorizontal": 0,
-                    "easing": {
-                        "type": 0,
-                        "inOut": 1
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "CB7782F2193B7547F109D5E5FF6C08A19B1E",
-                "indent": 0
-            },
             {
                 "id": "gs.CallCommonEvent",
                 "params": {
@@ -209,7 +161,7 @@
                         "defaultText": "Ma, aku sudah di rumah."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -245,7 +197,7 @@
                         "defaultText": "Kemana saja kamu?"
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -281,7 +233,7 @@
                         "defaultText": "(mengesah) Aku kan udah bilang kemarin aku kerja, waktu aku pulang mama udah tidur."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -317,7 +269,7 @@
                         "defaultText": "Kamu harusnya bangunin mama."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -353,7 +305,7 @@
                         "defaultText": "Iya maaf ma, sekarang aku disini kok."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -389,7 +341,7 @@
                         "defaultText": "Ya sudahlah, makan dulu gih, mama sudah beli makanan tuh.\n"
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -425,7 +377,7 @@
                         "defaultText": "Baik ma."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -496,7 +448,7 @@
                         "defaultText": "Mama kangen loh."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -532,7 +484,7 @@
                         "defaultText": "Sama aku?"
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -568,7 +520,7 @@
                         "defaultText": "Sama papa."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -604,7 +556,7 @@
                         "defaultText": "Owhhh."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -637,10 +589,10 @@
                     },
                     "message": {
                         "lcId": "57A14DD5796D93433B1A4521A615335C2371",
-                        "defaultText": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama."
+                        "defaultText": "Terlalu cepat papa meninggal dan sekarang kamu sudah mulai meninggalkan mama"
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -676,7 +628,7 @@
                         "defaultText": "Ma aku...."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -712,7 +664,7 @@
                         "defaultText": "Diam dulu, biarkan mama selesai bicara!"
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -748,7 +700,7 @@
                         "defaultText": "........."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -784,7 +736,7 @@
                         "defaultText": "Kamu kira mama senang mencari-cari kamu hah? Kamu ngerti gak sih, papa itu sudah mati, Satu-satunya yang menomorsatukan mama, sudah mati, Mama butuh dinomor satukan, Kamu sebagai anak nomor satu, itu tugas kamu untuk menemani mama sampai mati."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1

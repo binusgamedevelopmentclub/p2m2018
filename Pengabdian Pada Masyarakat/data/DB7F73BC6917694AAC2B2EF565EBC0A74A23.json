@@ -12,74 +12,26 @@
             "1C19E40B215235488F88CCE7025DC8A4ED2C": {
                 "t": "(Mengetuk pintu) Ma, Steven minta maaf.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "352DD8559BBBC9408B5A3281F0245CA90532"
                 }
             },
             "D95FD6D16E6BE3406E38B7209152F40D3FEC": {
                 "t": "Baik ma.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": 0,
                     "eid": "F99B805D38C3A649684922E329DC16E581DF"
                 }
             },
             "3AE38E354F2B4645D79B4CD830336D4C10AB": {
                 "t": "Mama mau tidur gak usah ganggu mama.",
                 "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "cid": 0,
                     "eid": "D840C7CF126CE848EA1B3B147236CFE5B9D1"
                 }
             }
         },
         "commands": [
-            {
-                "id": "vn.ChangeBackground",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "graphic": {
-                        "name": "School_Hallway1_sunset",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        }
-                    },
-                    "layer": 0,
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "blendMode": 0,
-                    "origin": 0,
-                    "zOrder": 0,
-                    "loopVertical": 0,
-                    "loopHorizontal": 0,
-                    "easing": {
-                        "type": 0,
-                        "inOut": 1
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "FDB9DAE94892B84C0648C99361444D3CE68E",
-                "indent": 0
-            },
             {
                 "id": "gs.CallCommonEvent",
                 "params": {
@@ -111,7 +63,7 @@
                         "defaultText": "(Mengetuk pintu) Ma, Steven minta maaf."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -144,7 +96,7 @@
                         "defaultText": "Mama mau tidur gak usah ganggu mama."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -177,7 +129,7 @@
                         "defaultText": "Baik ma."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
