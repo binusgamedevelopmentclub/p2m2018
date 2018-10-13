@@ -1,20 +1,19 @@
 {
     "uid": "632931C1207E014C003B076423E804C820EA",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Aku masih ada urusan, nanti malem aku pulang",
+        "type": "vn.scene",
         "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "livePreviewDisabled": false,
-        "order": 2
+        "order": 2,
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

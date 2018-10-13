@@ -1,11 +1,13 @@
 {
     "uid": "2C9A3D929660B64176498C873311B14176B8",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Mengabaikan ibunya dan menunggu emosi ibunya menurun",
+        "type": "vn.scene",
         "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 1,
         "localizableStrings": {
             "46C8DFAC5A9DD54CDA5B4BD0092935AD4F07": {
                 "t": "Steven naik ke kamar untuk tidur.",
@@ -14,7 +16,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -72,7 +73,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 1,
         "listVariables": [
             {
                 "name": "",
@@ -85,7 +85,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

@@ -1,11 +1,13 @@
 {
     "uid": "83C918D258BA014CF14B7776AE5B85EC7030",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Baik ma",
+        "type": "vn.scene",
         "parentId": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "6093F0FE344DD341881B3AB4C98431068017": {
                 "t": "Oke, itu saja yang mama mau bicarakan, terima kasih sudah mendengarkan.",
@@ -36,7 +38,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -205,7 +206,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "listVariables": [
             {
                 "name": "",
@@ -218,7 +218,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

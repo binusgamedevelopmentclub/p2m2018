@@ -1,0 +1,536 @@
+{
+    "uid": "0914B1F73C13664E242AECF7372C844AEE28",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Prologue",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "localizableStrings": {
+            "D3DA98E3143A034C31687816111019AE54D5": {
+                "t": "Namaku adalah Steven Course. Dari dulu hidupku selalu mudah. \nAku tidak pernah mengalami kegagalan atau kesusahan. Tetapi sekarang, takdirku sudah berpaling dari harapan. \nAku kehilangan seseorang yang sangat dekat denganku. Dia adalah ayahku yang menafkahi keluarga kami. Dia adalah alasan mengapa hidupku selalu mudah, dan sekarang dia telah meninggal. Sebagai anak pertama, aku harus menggantikan ayahku sebagai pencari nafkah keluarga. Aku bersekolah di SMA Karsenet, salah satu sekolah yang terbaik di daerah tempat tinggal saya. Sekarang aku menduduki kelas 1 SMA, dan hari ini merupakan hari pertamaku sebagai anak SMA. Inilah awal dari kehidupan SMA ku",
+                "d": {
+                    "eid": "AE3E87201F129848776A77785C5406253974"
+                }
+            },
+            "3F6A804F4517394E6B48C3A916000996928E": {
+                "t": "Namaku adalah Steven Course. ",
+                "d": {
+                    "cid": 0,
+                    "eid": "E05E56B87E8A85413169FFF238CA2FD5B039"
+                }
+            },
+            "94C7A96C7F5A43461D894C529E1DA7CFA958": {
+                "t": "Dari dulu hidupku selalu mudah.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "12B30AE98259A14A4329EEF9FE25CFDB93C8"
+                }
+            },
+            "22BD5F493198944C4F0B71470D4FD6F659B3": {
+                "t": "Aku tidak pernah mengalami kegagalan atau kesusahan.",
+                "d": {
+                    "cid": 0,
+                    "eid": "42266F99591141404C59BC055DC948129E63"
+                }
+            },
+            "35827D4F567AF9411659E1C055595E4E6815": {
+                "t": "Tetapi sekarang, takdirku sudah berpaling dari harapan.",
+                "d": {
+                    "cid": 0,
+                    "eid": "BE6DCAC979DB87477A58680859ADD5C655E8"
+                }
+            },
+            "E178B5C559D08549335838F788EAF5549559": {
+                "t": "Aku kehilangan seseorang yang sangat dekat denganku.",
+                "d": {
+                    "cid": 0,
+                    "eid": "F61542252FB856493D4A0D77A3E4EE1AA81F"
+                }
+            },
+            "AABB30A582225449D75A7D2331C491B0621E": {
+                "t": "Dia adalah ayahku yang menafkahi keluarga kami.",
+                "d": {
+                    "cid": 0,
+                    "eid": "D2AC0B951B8CE443AE4A3705EF8BB6EBC8F6"
+                }
+            },
+            "FA91DA3F3378134F699AFE00AE828AC815D7": {
+                "t": "Dia adalah alasan mengapa hidupku selalu mudah dan sekarang dia telah meninggal.",
+                "d": {
+                    "cid": 0,
+                    "eid": "DD4B21313D52F54B0F18B035B27454B1FEB7"
+                }
+            },
+            "079334556CBD6943A52ACCF47019771663B5": {
+                "t": "Sebagai anak pertama, aku harus menggantikan ayahku sebagai pencari nafkah keluarga.",
+                "d": {
+                    "cid": 0,
+                    "eid": "8A58998B255E994FDE8A817511FEAF7893C7"
+                }
+            },
+            "0C8128E30141F94FC85BD4784E441B1B85E7": {
+                "t": "Sekarang aku menduduki kelas 1 SMA, dan hari ini merupakan hari pertamaku sebagai anak SMA.",
+                "d": {
+                    "cid": 0,
+                    "eid": "704393A82FDDA542CA2BBBE0A342915C60B0"
+                }
+            },
+            "1B41922679389344954924861E44A10F1C5F": {
+                "t": "Aku bersekolah di SMA Karsenet, salah satu sekolah yang terbaik di daerah tempat tinggal saya.",
+                "d": {
+                    "cid": 0,
+                    "eid": "4C3C3A613730C740CB6918A62F040FD97EBA"
+                }
+            },
+            "65995B14376F5548584A70E8E6D62D2CD219": {
+                "t": "Inilah awal dari kehidupan SMA ku....",
+                "d": {
+                    "cid": 0,
+                    "eid": "84BC3CAA2B2F274BF8884AD912B0B20FFC7D"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 60,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3F6A804F4517394E6B48C3A916000996928E",
+                        "defaultText": "Namaku adalah Steven Course. "
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "E05E56B87E8A85413169FFF238CA2FD5B039",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 60,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "94C7A96C7F5A43461D894C529E1DA7CFA958",
+                        "defaultText": "Dari dulu hidupku selalu mudah."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "12B30AE98259A14A4329EEF9FE25CFDB93C8",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "22BD5F493198944C4F0B71470D4FD6F659B3",
+                        "defaultText": "Aku tidak pernah mengalami kegagalan atau kesusahan."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "42266F99591141404C59BC055DC948129E63",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "35827D4F567AF9411659E1C055595E4E6815",
+                        "defaultText": "Tetapi sekarang, takdirku sudah berpaling dari harapan."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "BE6DCAC979DB87477A58680859ADD5C655E8",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E178B5C559D08549335838F788EAF5549559",
+                        "defaultText": "Aku kehilangan seseorang yang sangat dekat denganku."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "F61542252FB856493D4A0D77A3E4EE1AA81F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AABB30A582225449D75A7D2331C491B0621E",
+                        "defaultText": "Dia adalah ayahku yang menafkahi keluarga kami."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D2AC0B951B8CE443AE4A3705EF8BB6EBC8F6",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "FA91DA3F3378134F699AFE00AE828AC815D7",
+                        "defaultText": "Dia adalah alasan mengapa hidupku selalu mudah dan sekarang dia telah meninggal."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "DD4B21313D52F54B0F18B035B27454B1FEB7",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "079334556CBD6943A52ACCF47019771663B5",
+                        "defaultText": "Sebagai anak pertama, aku harus menggantikan ayahku sebagai pencari nafkah keluarga."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "8A58998B255E994FDE8A817511FEAF7893C7",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 180,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1B41922679389344954924861E44A10F1C5F",
+                        "defaultText": "Aku bersekolah di SMA Karsenet, salah satu sekolah yang terbaik di daerah tempat tinggal saya."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "4C3C3A613730C740CB6918A62F040FD97EBA",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0C8128E30141F94FC85BD4784E441B1B85E7",
+                        "defaultText": "Sekarang aku menduduki kelas 1 SMA, dan hari ini merupakan hari pertamaku sebagai anak SMA."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "704393A82FDDA542CA2BBBE0A342915C60B0",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "65995B14376F5548584A70E8E6D62D2CD219",
+                        "defaultText": "Inilah awal dari kehidupan SMA ku...."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "84BC3CAA2B2F274BF8884AD912B0B20FFC7D",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "DC86DDC4589213445A7B44B312F79DDCFC4A",
+                        "name": "Scene 1"
+                    },
+                    "savePrevious": 1,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "F303565E65436941D97BDDA1941D853B8108",
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0,
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

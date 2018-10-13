@@ -1,11 +1,13 @@
 {
     "uid": "DB7F73BC6917694AAC2B2EF565EBC0A74A23",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Mengetuk pintu kamar ibunya dan meminta maaf",
+        "type": "vn.scene",
         "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "1C19E40B215235488F88CCE7025DC8A4ED2C": {
                 "t": "(Mengetuk pintu) Ma, Steven minta maaf.",
@@ -29,7 +31,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -153,7 +154,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "listVariables": [
             {
                 "name": "",
@@ -166,7 +166,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

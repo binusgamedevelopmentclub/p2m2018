@@ -1,11 +1,13 @@
 {
     "uid": "3F4EDB913C768446F628E817CCC71F62A7BC",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Ma, aku tidak akan meninggalkan mama, tetapi aku juga tidak bisa menomorsatukan mama",
+        "type": "vn.scene",
         "parentId": "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 1,
         "localizableStrings": {
             "8DF7A6966874114C9169BA98DA4889AABEFD": {
                 "t": "Kamu masih gak bisa mengerti juga ya perasaan mama (Shinta langsung berdiri dan pergi ke kamarnya dalam keadaan marah).",
@@ -22,7 +24,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.CallCommonEvent",
@@ -164,14 +165,12 @@
                 "uid": "A8D2256031E36546D2399B017F847F6714F1"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 1
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

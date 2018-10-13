@@ -57,7 +57,7 @@
                 }
             },
             "C8122A7F638A864D171AAF03884B2EE2C988": {
-                "t": "Ohh Steven si boach baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya",
+                "t": "Ohh Steven si bocah baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya",
                 "d": {
                     "cid": "8241E7396CA36843495B36798F73C975C17F",
                     "eid": "385E642079CDB84D8A7ABEE1063FA3F0BCE5"
@@ -854,7 +854,7 @@
                     },
                     "message": {
                         "lcId": "C8122A7F638A864D171AAF03884B2EE2C988",
-                        "defaultText": "Ohh Steven si boach baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya"
+                        "defaultText": "Ohh Steven si bocah baru gua, akhirnya ketemu muka juga, panggil gua pak Sebastian ya"
                     },
                     "position": 0,
                     "characterId": "8241E7396CA36843495B36798F73C975C17F",

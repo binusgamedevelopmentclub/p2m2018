@@ -292,7 +292,7 @@
             "resolutionType": 1,
             "startInfo": {
                 "scene": {
-                    "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                    "uid": "0914B1F73C13664E242AECF7372C844AEE28",
                     "name": "Sample Scene"
                 }
             },
@@ -334,7 +334,7 @@
             "useIntroScene": true,
             "introInfo": {
                 "scene": {
-                    "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                    "uid": "0914B1F73C13664E242AECF7372C844AEE28",
                     "name": "Language Menu"
                 }
             },

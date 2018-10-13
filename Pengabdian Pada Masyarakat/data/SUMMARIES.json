@@ -3388,7 +3388,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 0
+                "order": 1
             }
         },
         "31E514B338C68744ED180FD3C75E0DA35FE6": {
@@ -3411,7 +3411,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 3
+                "order": 4
             }
         },
         "E8A8528927ACE8418339E5683C8AFC60747E": {
@@ -3636,7 +3636,16 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 2
+                "order": 3
+            }
+        },
+        "0914B1F73C13664E242AECF7372C844AEE28": {
+            "items": {
+                "name": "Prologue",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
             }
         }
     }
