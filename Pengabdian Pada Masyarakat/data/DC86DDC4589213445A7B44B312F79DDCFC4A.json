@@ -37,6 +37,13 @@
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
             },
+            "7D97D7CD6FF842461C1BA80308C9A24661E0": {
+                "t": "Selamat datang di SMA Karsenet.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "39CF630F411F544CDE99345908A3D7FDB82F"
+                }
+            },
             "46E19B8676FC024FB08A99B3FE6DF583CCA4": {
                 "t": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
                 "d": {
@@ -105,13 +112,6 @@
                 "d": {
                     "cid": "4934653409955547D72B6067BAF73ED679F5",
                     "eid": "E85F38E07B91A54A5C38E0395C5D9AC62B32"
-                }
-            },
-            "75902F2A38A55346303BF5D54C7077385538": {
-                "t": "Nama saya Arvan bin Joseph, saya senang membaca manga dan menonton anime, saya dulu terkenal sebagai loner sejati.",
-                "d": {
-                    "cid": "9906D7102B31A946624989249F41BA986880",
-                    "eid": "412650C630C84349D488B59385D77C8775C2"
                 }
             }
         },
@@ -329,7 +329,7 @@
                         }
                     },
                     "message": {
-                        "lcId": "56BBFB89481704401E2A662411654DB0B472",
+                        "lcId": "7D97D7CD6FF842461C1BA80308C9A24661E0",
                         "defaultText": "Selamat datang di SMA Karsenet."
                     },
                     "position": 0,
@@ -339,13 +339,10 @@
                         "duration": 1
                     },
                     "expressions": [],
-                    "animations": [],
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
+                    "animations": []
                 },
                 "indent": 0,
-                "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
+                "uid": "39CF630F411F544CDE99345908A3D7FDB82F",
                 "expanded": true
             },
             {
@@ -367,8 +364,6 @@
                     "message": {
                         "lcId": "3F0D5E2F2FD9564EB7480D851D46FC98E52A",
                         "defaultText": "Saya adalah wali kelas kalian."
-<<<<<<< HEAD
-=======
                     },
                     "position": 0,
                     "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
@@ -405,7 +400,6 @@
                     "message": {
                         "lcId": "4043A4F03E5C5545D46A4AA6F18BFF409E33",
                         "defaultText": "Sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu."
->>>>>>> f6614df97f9ba7ace833703eca08d1dda34d9b94
                     },
                     "position": 0,
                     "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
@@ -620,42 +614,6 @@
                         }
                     },
                     "message": {
-                        "lcId": "75902F2A38A55346303BF5D54C7077385538",
-                        "defaultText": "Nama saya Arvan bin Joseph, saya senang membaca manga dan menonton anime, saya dulu terkenal sebagai loner sejati."
-                    },
-                    "position": 0,
-                    "characterId": "9906D7102B31A946624989249F41BA986880",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 0
-                    },
-                    "expressions": [],
-                    "animations": [],
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0,
-                "uid": "412650C630C84349D488B59385D77C8775C2",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
                         "lcId": "A57014F18E0AB24828595025E85DA74837A1",
                         "defaultText": "(Oh, sudah giliranku untuk memperkenalkan diri. Aku harus ngomong apa nih?)"
                     },
@@ -717,8 +675,8 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            " Belajar, dan saya anak pertama dari 3 bersaudara...",
-                            "867EFA3A5845A64BEE6A37811DFCF549460C"
+                            " Belajar, dan saya anak pertama dari 3 bersaudara... (Formal)",
+                            "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6"
                         ]
                     },
                     "previewBackground": {
@@ -734,8 +692,8 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Main game,instagerm saya @Stevencourse tolong diikuti ya...",
-                            "3494755A26DFE849603A1761169D3AF2D11B"
+                            "Main game... (Bersahabat)",
+                            "B3ED8AF738872840D70B199239BF1D772C6A"
                         ]
                     },
                     "previewBackground": {
@@ -751,8 +709,8 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Belajar, dan saya masuk ke SMA ini dengan beasiswa...",
-                            "C34AB1B41E5338431278C5A92E5D0FF72CD7"
+                            "Belajar, dan saya masuk ke SMA ini dengan beasiswa... (Arogan)",
+                            "632931C1207E014C003B076423E804C820EA"
                         ]
                     },
                     "previewBackground": {
@@ -778,6 +736,14 @@
                 },
                 "indent": 0,
                 "uid": "85139AC810EC3349DC8B7D431DB1F2435FBE"
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "formal"
+                },
+                "uid": "2E97CA917D5B964B325943F3741DE8C6047B",
+                "indent": 0
             },
             {
                 "id": "gs.ChangeTransition",
