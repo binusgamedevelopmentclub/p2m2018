@@ -32,11 +32,10 @@
             "07DDB19171815190",
             "07DDB1C173303031"
         ],
-<<<<<<< HEAD
-        "idCounter": 1202,
-=======
+
+
         "idCounter": 1192,
->>>>>>> parent of f6614df... Finishing First Branching in Part 1
+
         "code": "en_US",
         "icon": {
             "name": "United-Kingdom",
