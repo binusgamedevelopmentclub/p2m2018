@@ -334,8 +334,8 @@
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
-                        "uid": "3305C56CKBF5BA44BFS8614EE4B277E49F6A",
-                        "name": "Sample Scene"
+                        "uid": "0914B1F73C13664E242AECF7372C844AEE28",
+                        "name": "Prologue"
                     },
                     "duration": 20,
                     "erasePictures": 1,
