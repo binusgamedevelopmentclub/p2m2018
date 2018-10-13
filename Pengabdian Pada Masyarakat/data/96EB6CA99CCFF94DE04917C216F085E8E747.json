@@ -334,8 +334,8 @@
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
-                        "uid": "3305C56CKBF5BA44BFS8614EE4B277E49F6A",
-                        "name": "Sample Scene"
+                        "uid": "0914B1F73C13664E242AECF7372C844AEE28",
+                        "name": "Prologue"
                     },
                     "duration": 20,
                     "erasePictures": 1,
@@ -489,10 +489,14 @@
                     "eraseVideos": 0,
                     "fieldFlags": {
                         "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
-                "uid": "59F3F93334A82344443A1358E60490C39909"
+                "uid": "59F3F93334A82344443A1358E60490C39909",
+                "expanded": true
             }
         ],
         "livePreviewDisabled": false,
