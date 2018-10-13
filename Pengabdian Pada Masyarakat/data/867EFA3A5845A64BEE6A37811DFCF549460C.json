@@ -1,0 +1,179 @@
+{
+    "uid": "867EFA3A5845A64BEE6A37811DFCF549460C",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Formal Response",
+        "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
+        "localizableStrings": {},
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Classroom1_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "FE8945259B85A94B9E6898A485923B13B795",
+                "indent": 0
+            },
+            {
+                "id": "gs.MessageSettings",
+                "params": {
+                    "useCharacterColor": 0,
+                    "paragraphSpacing": 0,
+                    "backlog": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "linePadding": 6,
+                    "lineHeight": 0,
+                    "lineSpacing": 0,
+                    "smallCaps": 0,
+                    "underline": 0,
+                    "strikeThrough": 0,
+                    "autoErase": 0,
+                    "waitAtEnd": 1,
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 0,
+                    "outlineSize": 4,
+                    "shadow": 0,
+                    "shadowOffsetX": 1,
+                    "shadowOffsetY": 1,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "autoErase": 0,
+                        "waitAtEnd": 1,
+                        "backlog": 1,
+                        "font": 1,
+                        "size": 1,
+                        "color": 1,
+                        "useCharacterColor": 1,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineHeight": 1,
+                        "lineSpacing": 1,
+                        "linePadding": 1,
+                        "paragraphSpacing": 1,
+                        "outline": 1,
+                        "outlineColor": 1,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "BC71AA285D0E934C9C2B289239BF70A505E8",
+                "expanded": false
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "6A4BA0843A82D843AB683A41AE8FD47105D5",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                        "name": "Scene 2"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "715187D94D7B6244A61AA3C1E0E8E80C3DB7",
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

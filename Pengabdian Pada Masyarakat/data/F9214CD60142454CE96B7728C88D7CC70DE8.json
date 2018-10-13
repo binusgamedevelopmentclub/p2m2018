@@ -801,7 +801,7 @@
                 },
                 "uid": "908F117222156648F45B6C648020A601CF14",
                 "indent": 0,
-                "expanded": true
+                "expanded": false
             },
             {
                 "id": "gs.ShowMessage",

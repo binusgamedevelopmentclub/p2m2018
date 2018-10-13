@@ -1,0 +1,21 @@
+{
+    "uid": "3494755A26DFE849603A1761169D3AF2D11B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Bersahabat Response",
+        "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

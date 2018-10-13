@@ -1,11 +1,13 @@
 {
     "uid": "5E322468563DF145CD5B15739D69D7AE1017",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Percakapan kerja kelompok",
+        "type": "vn.scene",
         "parentId": "318A5AB506EB0244434A27910166D538E6F7",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 2,
         "localizableStrings": {
             "8CDB3BE4102EA841CD1A81011A542427FEA9": {
                 "t": "[Chat] Guys, gw bisa nih kerja kelompok hari ini, mau dimana?",
@@ -169,7 +171,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -1084,7 +1085,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 2,
         "stringVariables": [
             {
                 "name": "Julius, Arvan, dan Steven",
@@ -1098,7 +1098,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]
