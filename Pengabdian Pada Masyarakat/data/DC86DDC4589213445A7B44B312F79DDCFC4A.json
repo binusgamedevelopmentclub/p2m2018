@@ -51,13 +51,6 @@
                     "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
                 }
             },
-            "56BBFB89481704401E2A662411654DB0B472": {
-                "t": "Selamat datang di SMA Karsenet.",
-                "d": {
-                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
-                }
-            },
             "3F0D5E2F2FD9564EB7480D851D46FC98E52A": {
                 "t": "Saya adalah wali kelas kalian.",
                 "d": {
@@ -350,42 +343,6 @@
                 },
                 "indent": 0,
                 "uid": "39CF630F411F544CDE99345908A3D7FDB82F",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "56BBFB89481704401E2A662411654DB0B472",
-                        "defaultText": "Selamat datang di SMA Karsenet."
-                    },
-                    "position": 0,
-                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": [],
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0,
-                "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
                 "expanded": true
             },
             {
@@ -822,7 +779,8 @@
                     }
                 },
                 "uid": "6869095F410709405B28ECC26D11A0F9B0E3",
-                "indent": 0
+                "indent": 0,
+                "expanded": true
             }
         ],
         "livePreviewDisabled": false,
