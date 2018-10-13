@@ -1,17 +1,18 @@
 {
     "uid": "31E514B338C68744ED180FD3C75E0DA35FE6",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "name": "Wali Kelas",
+        "name": "Pak Gilbert",
         "type": "data_record",
+        "order": 2,
         "category": "characters",
         "id": "31E514B338C68744ED180FD3C75E0DA35FE6",
         "isFolder": false,
         "data": {
             "name": {
                 "lcId": "E15CF9D44773934DBF696695EFC3DBC9151A",
-                "defaultText": "Wali Kelas"
+                "defaultText": "Pak Gilbert"
             },
             "textColor": {
                 "red": 255,
@@ -33,7 +34,7 @@
         },
         "localizableStrings": {
             "E15CF9D44773934DBF696695EFC3DBC9151A": {
-                "t": "Wali Kelas"
+                "t": "Pak Gilbert"
             },
             "1DFF665D4861334E235A05039FB8917D4CDC": {
                 "t": "Selamat pagi semuanya!",
@@ -41,9 +42,15 @@
                     "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
+            },
+            "C641FBE57D05A748CD6A4CA02DC39E6E971D": {
+                "t": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
+                }
             }
         },
-        "order": 3,
         "parentId": "ROOT"
     },
     "summary": [

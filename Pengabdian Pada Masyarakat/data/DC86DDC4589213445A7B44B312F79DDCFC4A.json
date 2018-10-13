@@ -57,6 +57,48 @@
                     "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
                 }
+            },
+            "56BBFB89481704401E2A662411654DB0B472": {
+                "t": "Selamat datang di SMA Karsenet.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
+                }
+            },
+            "3F0D5E2F2FD9564EB7480D851D46FC98E52A": {
+                "t": "Saya adalah wali kelas kalian.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "CDDCCF0E56952340856AC9F570A334505371"
+                }
+            },
+            "4043A4F03E5C5545D46A4AA6F18BFF409E33": {
+                "t": "Sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "F4EB40DB526CB941132BA006A29057FD9628"
+                }
+            },
+            "61B92FB971133042E76AA6A6A0F5ECAB8736": {
+                "t": "Nama saya Pak Gilbert. Saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris. ",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "4EFBA1F4555768468569E1C8EE77E2123960"
+                }
+            },
+            "17BF01298A714147811AF3A9330C67CA9C54": {
+                "t": "Sekarang, kalian silahkan perkenalkan nama panjang, hobby, dan ceritakan sedikit tentang diri kamu. Dimulai dari baris paling depan.",
+                "d": {
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "eid": "CF68F9F05B9BE34C6E88B583FB36A95462FA"
+                }
+            },
+            "B8062BD769FAA24FFD6B8D738985A816241F": {
+                "t": "(Oh, sudah giliranku untuk memperkenalkan diri. Aku harus ngomong apa nih?)",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "1CF07A968F422043765A0B587410E3D9A487"
+                }
             }
         },
         "commands": [
@@ -339,8 +381,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "46E19B8676FC024FB08A99B3FE6DF583CCA4",
-                        "defaultText": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu."
+                        "lcId": "56BBFB89481704401E2A662411654DB0B472",
+                        "defaultText": "Selamat datang di SMA Karsenet."
                     },
                     "position": 0,
                     "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
@@ -356,6 +398,186 @@
                 },
                 "indent": 0,
                 "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3F0D5E2F2FD9564EB7480D851D46FC98E52A",
+                        "defaultText": "Saya adalah wali kelas kalian."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "CDDCCF0E56952340856AC9F570A334505371",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4043A4F03E5C5545D46A4AA6F18BFF409E33",
+                        "defaultText": "Sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "F4EB40DB526CB941132BA006A29057FD9628",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "61B92FB971133042E76AA6A6A0F5ECAB8736",
+                        "defaultText": "Nama saya Pak Gilbert. Saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris. "
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "4EFBA1F4555768468569E1C8EE77E2123960",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "17BF01298A714147811AF3A9330C67CA9C54",
+                        "defaultText": "Sekarang, kalian silahkan perkenalkan nama panjang, hobby, dan ceritakan sedikit tentang diri kamu. Dimulai dari baris paling depan."
+                    },
+                    "position": 0,
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "CF68F9F05B9BE34C6E88B583FB36A95462FA",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B8062BD769FAA24FFD6B8D738985A816241F",
+                        "defaultText": "(Oh, sudah giliranku untuk memperkenalkan diri. Aku harus ngomong apa nih?)"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "1CF07A968F422043765A0B587410E3D9A487",
                 "expanded": true
             },
             {
