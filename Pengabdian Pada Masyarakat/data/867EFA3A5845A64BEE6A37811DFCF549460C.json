@@ -1,13 +1,14 @@
 {
     "uid": "867EFA3A5845A64BEE6A37811DFCF549460C",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
+        "name": "Formal",
         "type": "vn.scene",
-        "name": "Formal Response",
         "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
-        "localizableStrings": {},
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
+        "localizableStrings": {},
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -165,14 +166,12 @@
                 "indent": 0
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 0
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

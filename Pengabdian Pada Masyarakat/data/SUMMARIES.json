@@ -3645,7 +3645,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 0
+                "order": 1
             }
         },
         "3F35CB3B0C04F442F8787241375B6F0FCC97": {
@@ -3677,7 +3677,7 @@
         },
         "867EFA3A5845A64BEE6A37811DFCF549460C": {
             "items": {
-                "name": "Formal Response",
+                "name": "Formal",
                 "type": "vn.scene",
                 "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
@@ -3686,7 +3686,7 @@
         },
         "3494755A26DFE849603A1761169D3AF2D11B": {
             "items": {
-                "name": "Bersahabat Response",
+                "name": "Bersahabat",
                 "type": "vn.scene",
                 "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",

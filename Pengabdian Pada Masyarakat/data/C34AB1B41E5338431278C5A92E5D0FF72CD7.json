@@ -1,20 +1,19 @@
 {
     "uid": "C34AB1B41E5338431278C5A92E5D0FF72CD7",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Arogan",
+        "type": "vn.scene",
         "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "livePreviewDisabled": false,
-        "order": 2
+        "order": 2,
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

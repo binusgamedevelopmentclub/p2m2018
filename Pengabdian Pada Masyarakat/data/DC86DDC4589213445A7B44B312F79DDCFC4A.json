@@ -106,6 +106,20 @@
                     "cid": "DDE3AB228F4B674B733859F7421416540EB7",
                     "eid": "74CC5840549A84417C5930B7765740FC6D38"
                 }
+            },
+            "D2D5E6A07C73D34AF18ADB4639AD9FA3E108": {
+                "t": "Nama gue Julius Van Darkholme, hobby gue ada banyak jenis, orang-orang bilang gue jenius dan mereka emang bener.",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "0551690D4D7CF24EEB5AACA18FCF410E680B"
+                }
+            },
+            "98C4FE1F3956124DA18BDBC9CBBDB49C8748": {
+                "t": "Nama saya Steven Course, hobi saya...",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "E85F38E07B91A54A5C38E0395C5D9AC62B32"
+                }
             }
         },
         "commands": [
@@ -607,6 +621,42 @@
                         }
                     },
                     "message": {
+                        "lcId": "D2D5E6A07C73D34AF18ADB4639AD9FA3E108",
+                        "defaultText": "Nama gue Julius Van Darkholme, hobby gue ada banyak jenis, orang-orang bilang gue jenius dan mereka emang bener."
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "0551690D4D7CF24EEB5AACA18FCF410E680B",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
                         "lcId": "A57014F18E0AB24828595025E85DA74837A1",
                         "defaultText": "(Oh, sudah giliranku untuk memperkenalkan diri. Aku harus ngomong apa nih?)"
                     },
@@ -627,12 +677,48 @@
                 "expanded": true
             },
             {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "98C4FE1F3956124DA18BDBC9CBBDB49C8748",
+                        "defaultText": "Nama saya Steven Course, hobi saya..."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "expressions": [],
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "E85F38E07B91A54A5C38E0395C5D9AC62B32",
+                "expanded": true
+            },
+            {
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Selamat pagi semuanya, nama saya Steven Course... (Formal)",
+                            " Belajar, dan saya anak pertama dari 3 bersaudara... (Formal)",
                             "0DE32E2D658CA54E3D7BB3F80CF08D8E8BE6"
                         ]
                     },
@@ -649,7 +735,7 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Selamat pagi semuanya, namaku Steven Course.. (Bersahabat)",
+                            "Main game... (Bersahabat)",
                             "B3ED8AF738872840D70B199239BF1D772C6A"
                         ]
                     },
@@ -666,7 +752,7 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Selamat pagi semuanya, nama saya Steven Course... (Arogan)",
+                            "Belajar, dan saya masuk ke SMA ini dengan beasiswa... (Arogan)",
                             "632931C1207E014C003B076423E804C820EA"
                         ]
                     },
