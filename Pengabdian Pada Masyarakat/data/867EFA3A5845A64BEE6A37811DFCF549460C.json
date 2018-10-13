@@ -8,7 +8,50 @@
         "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "order": 0,
-        "localizableStrings": {},
+        "localizableStrings": {
+            "34B9D1053AA7454DD00883D4EB7F077868AB": {
+                "t": "Nama saya Steven Course, hobi saya...",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "0F6C45511E91F844AB2AD748DCC42DFBF6F1"
+                }
+            },
+            "947A63112D79E44C7A1B5FF2636735ECF6CC": {
+                "t": "Selamat pagi semuanya, nama saya Steven Course, hobby saya belajar, dan saya anak pertama dari 3 bersaudara.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5DE88EC712C26140DB5A00961C9D7F9F9E04"
+                }
+            },
+            "0729F26031A0154C5A1807B322D60D42E967": {
+                "t": "Perkenalan terus berlanjut hingga orang yang paling belakang.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "BFDBE09F356DF34E7E5837C253DD546663B3"
+                }
+            },
+            "247983424C2C6948B96AE242AEAD9AE99FAF": {
+                "t": "Di hari pertama, kami tidak belajar banyak.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "095E488B97B0014DF5188A47F808A2F443A3"
+                }
+            },
+            "08FE0FA211CF734AAA5984F61AD467D01CD5": {
+                "t": "Pak Gilbert hanya memberikan pengenalan-pengenalan tentang sekolah seperti peraturan-peraturan, tempat-tempat, dan lain-lain.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "A32BE79A22A3054AA5997682DBB4438C7C6E"
+                }
+            },
+            "E11D8FC42F97664F861A5B9503E764B7FADA": {
+                "t": "Tidak terasa, bel tanda istirahat pun sudah berbunyi. Sebaiknya aku ke kantin untuk mencari teman baru.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "416BC56353D1144BEA493B19BA11D9CEA9BF"
+                }
+            }
+        },
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -55,7 +98,7 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "FE8945259B85A94B9E6898A485923B13B795",
+                "uid": "78E3732F3A57714B794A54A00EDDE467E09E",
                 "indent": 0
             },
             {
@@ -72,7 +115,7 @@
                     "smallCaps": 0,
                     "underline": 0,
                     "strikeThrough": 0,
-                    "autoErase": 0,
+                    "autoErase": 1,
                     "waitAtEnd": 1,
                     "font": "Verdana",
                     "size": 40,
@@ -126,8 +169,221 @@
                     }
                 },
                 "indent": 0,
-                "uid": "BC71AA285D0E934C9C2B289239BF70A505E8",
+                "uid": "48F4339B93FF274E2A2AA7053A09C2924146",
                 "expanded": false
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "947A63112D79E44C7A1B5FF2636735ECF6CC",
+                        "defaultText": "Selamat pagi semuanya, nama saya Steven Course, hobby saya belajar, dan saya anak pertama dari 3 bersaudara."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5DE88EC712C26140DB5A00961C9D7F9F9E04",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0729F26031A0154C5A1807B322D60D42E967",
+                        "defaultText": "Perkenalan terus berlanjut hingga orang yang paling belakang."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "BFDBE09F356DF34E7E5837C253DD546663B3",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "247983424C2C6948B96AE242AEAD9AE99FAF",
+                        "defaultText": "Di hari pertama, kami tidak belajar banyak."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "095E488B97B0014DF5188A47F808A2F443A3",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "08FE0FA211CF734AAA5984F61AD467D01CD5",
+                        "defaultText": "Pak Gilbert hanya memberikan pengenalan-pengenalan tentang sekolah seperti peraturan-peraturan, tempat-tempat, dan lain-lain."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A32BE79A22A3054AA5997682DBB4438C7C6E",
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "SchoolOutside2_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "434CD8C14BD79143934B26571A130121C4FC",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E11D8FC42F97664F861A5B9503E764B7FADA",
+                        "defaultText": "Tidak terasa, bel tanda istirahat pun sudah berbunyi. Sebaiknya aku ke kantin untuk mencari teman baru."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "416BC56353D1144BEA493B19BA11D9CEA9BF",
+                "expanded": true
             },
             {
                 "id": "gs.ChangeTransition",
@@ -144,7 +400,7 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "6A4BA0843A82D843AB683A41AE8FD47105D5",
+                "uid": "2E3C9D86271C034F1E3BD3F015D9A379448D",
                 "indent": 0
             },
             {
@@ -162,7 +418,7 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "715187D94D7B6244A61AA3C1E0E8E80C3DB7",
+                "uid": "B43D070E35E7804C553954111217D4485435",
                 "indent": 0
             }
         ],
