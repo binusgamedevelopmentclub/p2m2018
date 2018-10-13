@@ -33,12 +33,12 @@
             "5C32187238AD2443B01848D434800E5456C9": {
                 "t": "Selamat pagi semuanya!",
                 "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
             },
             "E1F0E3994AC21640707AAC43CC691A8E6B04": {
-                "t": "Sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu.",
+                "t": "Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
                 "d": {
                     "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "963CD04B73CD664F8C89C6D411D0547BFCF8"
@@ -47,41 +47,16 @@
             "7D97D7CD6FF842461C1BA80308C9A24661E0": {
                 "t": "Selamat datang di SMA Karsenet.",
                 "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "39CF630F411F544CDE99345908A3D7FDB82F"
                 }
             },
             "46E19B8676FC024FB08A99B3FE6DF583CCA4": {
-                "t": "Saya adalah wali kelas kalian.",
+                "t": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
                 "d": {
                     "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "FABABCBC57A0414E4508AB719B23A6D4740B"
                 }
-            },
-            "E248AA2356B28148868AED133095D3D023B7": {
-                "t": "Nama saya Pak Gillbert, saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "5D28343417E148446F3B3330F544B5B2F1F5"
-                }
-            },
-            "5D91644988C6D844797A9A331D9BC9638705": {
-                "t": "Sekarang, kalian silakan memperkenalkan nama panjang, hobi, dan ceritakan sedikit tentang diri kamu. Dimulai dari baris terdepan.",
-                "d": {
-                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "eid": "A8557E9D6D3FA74B6A19F5B10BB87B6B038B"
-                }
-            },
-            "9F81E99A598E9244D87B8A30BA01A9E50854": {
-                "t": "Nama saya Pak Gilbert, saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris.",
-                "d": {
-                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "eid": "5D28343417E148446F3B3330F544B5B2F1F5"
-                }
-            },
-            "6E47487D1F01734B0A0BB1B451EE663CF434": {
-                "t": "Pak Gilbert",
-                "d": null
             }
         },
         "commands": [
@@ -236,7 +211,7 @@
                         "defaultText": "Selamat pagi semuanya!"
                     },
                     "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -302,7 +277,7 @@
                         "defaultText": "Selamat datang di SMA Karsenet."
                     },
                     "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -331,44 +306,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "46E19B8676FC024FB08A99B3FE6DF583CCA4",
-                        "defaultText": "Saya adalah wali kelas kalian."
-                    },
-                    "position": 0,
-                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": [],
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0,
-                "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
                         "lcId": "E1F0E3994AC21640707AAC43CC691A8E6B04",
-                        "defaultText": "Sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu."
+                        "defaultText": "Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu."
                     },
                     "position": 0,
                     "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
@@ -400,8 +339,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "9F81E99A598E9244D87B8A30BA01A9E50854",
-                        "defaultText": "Nama saya Pak Gilbert, saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris."
+                        "lcId": "46E19B8676FC024FB08A99B3FE6DF583CCA4",
+                        "defaultText": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu."
                     },
                     "position": 0,
                     "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
@@ -410,43 +349,13 @@
                         "duration": 1
                     },
                     "expressions": [],
-                    "animations": []
+                    "animations": [],
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
                 },
                 "indent": 0,
-                "uid": "5D28343417E148446F3B3330F544B5B2F1F5",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "5D91644988C6D844797A9A331D9BC9638705",
-                        "defaultText": "Sekarang, kalian silakan memperkenalkan nama panjang, hobi, dan ceritakan sedikit tentang diri kamu. Dimulai dari baris terdepan."
-                    },
-                    "position": 0,
-                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "uid": "A8557E9D6D3FA74B6A19F5B10BB87B6B038B",
+                "uid": "FABABCBC57A0414E4508AB719B23A6D4740B",
                 "expanded": true
             },
             {

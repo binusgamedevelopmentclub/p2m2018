@@ -1,18 +1,17 @@
 {
     "uid": "31E514B338C68744ED180FD3C75E0DA35FE6",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Pak Gilbert",
+        "name": "Wali Kelas",
         "type": "data_record",
-        "order": 2,
         "category": "characters",
         "id": "31E514B338C68744ED180FD3C75E0DA35FE6",
         "isFolder": false,
         "data": {
             "name": {
-                "lcId": "6E47487D1F01734B0A0BB1B451EE663CF434",
-                "defaultText": "Pak Gilbert"
+                "lcId": "E15CF9D44773934DBF696695EFC3DBC9151A",
+                "defaultText": "Wali Kelas"
             },
             "textColor": {
                 "red": 255,
@@ -34,7 +33,7 @@
         },
         "localizableStrings": {
             "E15CF9D44773934DBF696695EFC3DBC9151A": {
-                "t": "Pak Gillbert"
+                "t": "Wali Kelas"
             },
             "1DFF665D4861334E235A05039FB8917D4CDC": {
                 "t": "Selamat pagi semuanya!",
@@ -42,15 +41,9 @@
                     "cid": "AB6AC0D89A68C143E328CA74B4BB26755D07",
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
-            },
-            "B6DDC8B25E00454DCE8868E2023E41A2C8CD": {
-                "t": "Nama saya Pak Gillbert, saya berusia 30 tahun, berasal dari Padang, dan saya guru mata pelajaran Bahasa Inggris.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "5D28343417E148446F3B3330F544B5B2F1F5"
-                }
             }
         },
+        "order": 3,
         "parentId": "ROOT"
     },
     "summary": [
