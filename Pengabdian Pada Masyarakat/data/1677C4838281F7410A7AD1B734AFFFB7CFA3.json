@@ -1,36 +1,28 @@
 {
-    "uid": "DB7F73BC6917694AAC2B2EF565EBC0A74A23",
+    "uid": "1677C4838281F7410A7AD1B734AFFFB7CFA3",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Mengetuk pintu kamar ibunya dan meminta maaf",
         "type": "vn.scene",
-        "parentId": "3F4EDB913C768446F628E817CCC71F62A7BC",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 0,
+        "name": "Sorry ko, saya sibuk hari ini",
+        "parentId": "1C27F68E09CCB442D3888A048C4769D9B31D",
         "localizableStrings": {
-            "1C19E40B215235488F88CCE7025DC8A4ED2C": {
-                "t": "(Mengetuk pintu) Ma, Steven minta maaf.",
+            "44FE62E3567F03467A6AC700741DF81EDD2A": {
+                "t": "Ohh oke, gw cari orang lain deh.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "352DD8559BBBC9408B5A3281F0245CA90532"
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "817F44D949EC78498458F3C62297EB070703"
                 }
             },
-            "D95FD6D16E6BE3406E38B7209152F40D3FEC": {
-                "t": "Baik ma.",
+            "99C974B250DB1342E1395B42DD88EEBDCDA1": {
+                "t": "Oke koh.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "F99B805D38C3A649684922E329DC16E581DF"
-                }
-            },
-            "3AE38E354F2B4645D79B4CD830336D4C10AB": {
-                "t": "Mama mau tidur gak usah ganggu mama.",
-                "d": {
-                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
-                    "eid": "D840C7CF126CE848EA1B3B147236CFE5B9D1"
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "D5DF00C43613634F716982F466E72344564D"
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -77,7 +69,7 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "FDB9DAE94892B84C0648C99361444D3CE68E",
+                "uid": "619B0BEE3C144944043BB0F18357A9844020",
                 "indent": 0
             },
             {
@@ -86,9 +78,13 @@
                     "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
                     "parameters": {
                         "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
-                "indent": 0
+                "indent": 0,
+                "uid": "DA0BB48284C142499B78CC66E83E8F55545E"
             },
             {
                 "id": "gs.ShowMessage",
@@ -107,11 +103,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "1C19E40B215235488F88CCE7025DC8A4ED2C",
-                        "defaultText": "(Mengetuk pintu) Ma, Steven minta maaf."
+                        "lcId": "44FE62E3567F03467A6AC700741DF81EDD2A",
+                        "defaultText": "Ohh oke, gw cari orang lain deh."
                     },
                     "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -120,8 +116,8 @@
                     "animations": []
                 },
                 "indent": 0,
-                "uid": "352DD8559BBBC9408B5A3281F0245CA90532",
-                "expanded": true
+                "expanded": true,
+                "uid": "817F44D949EC78498458F3C62297EB070703"
             },
             {
                 "id": "gs.ShowMessage",
@@ -140,11 +136,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "3AE38E354F2B4645D79B4CD830336D4C10AB",
-                        "defaultText": "Mama mau tidur gak usah ganggu mama."
+                        "lcId": "99C974B250DB1342E1395B42DD88EEBDCDA1",
+                        "defaultText": "Oke koh."
                     },
                     "position": 0,
-                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -153,41 +149,8 @@
                     "animations": []
                 },
                 "indent": 0,
-                "uid": "D840C7CF126CE848EA1B3B147236CFE5B9D1",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "D95FD6D16E6BE3406E38B7209152F40D3FEC",
-                        "defaultText": "Baik ma."
-                    },
-                    "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "uid": "F99B805D38C3A649684922E329DC16E581DF",
-                "expanded": true
+                "expanded": true,
+                "uid": "D5DF00C43613634F716982F466E72344564D"
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -195,25 +158,23 @@
                     "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
                     "parameters": {
                         "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
-                "uid": "9A5422ED1BD98745CB4B3DB32D902921FCEA"
+                "uid": "7F5F907B683AF040418B0A7242B4D66BA0A3"
             }
         ],
         "livePreviewDisabled": false,
-        "listVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0
-            }
-        ]
+        "order": 1
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

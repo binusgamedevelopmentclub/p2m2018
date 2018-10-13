@@ -8,7 +8,302 @@
         "parentId": "E8A8528927ACE8418339E5683C8AFC60747E",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "order": 1,
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "localizableStrings": {
+            "6773C7957EA0774EA4584112894E4B2E9C35": {
+                "t": "Urusan apa lagi? Steven, aku mama kamu loh!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "EACDC3AD4EAA2449E169BEB3375CD8B4DF09"
+                }
+            },
+            "C1DE96EB80AC984E4A5B9928E074BA0FDA44": {
+                "t": "Aku ini mama kamu, kok bisa ada yang lebih penting dari mama.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "8C3EDB645D8F464FD81848168B95BF04F91D"
+                }
+            },
+            "FE4F761498ED61485C8AFB8126410E5ED9E0": {
+                "t": "Iya mah, aku tahu, tetapi aku ada urusan yang lebih penting",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "03E27FC63B35C141476819C9C962D5B5F775"
+                }
+            },
+            "3A0C23DF12C9D54D708B98C64DEE4ECD1DB5": {
+                "t": "Tutup telpon.",
+                "d": {
+                    "cid": 0,
+                    "eid": "7B2DF5787A41B84AFB7A0094AFD7771EF799"
+                }
+            },
+            "B9ADA2EF3AD003490C3A1183328E68514B4B": {
+                "t": "Aduh ma, aku capek ngomong begini terus. Aku tutup ya.",
+                "d": {
+                    "cid": 0,
+                    "eid": "B1C63E8F8CAE4540F7282611DEA882ED6373"
+                }
+            }
+        },
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "School_Hallway1_sunset",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "4A8BE6F66D73614D57880773A1DF688D584F",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "D3E4DD2447B97648568925E1625ED8607F59"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6773C7957EA0774EA4584112894E4B2E9C35",
+                        "defaultText": "Urusan apa lagi? Steven, aku mama kamu loh!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "EACDC3AD4EAA2449E169BEB3375CD8B4DF09"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "FE4F761498ED61485C8AFB8126410E5ED9E0",
+                        "defaultText": "Iya mah, aku tahu, tetapi aku ada urusan yang lebih penting"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "03E27FC63B35C141476819C9C962D5B5F775"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C1DE96EB80AC984E4A5B9928E074BA0FDA44",
+                        "defaultText": "Aku ini mama kamu, kok bisa ada yang lebih penting dari mama."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "8C3EDB645D8F464FD81848168B95BF04F91D"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B9ADA2EF3AD003490C3A1183328E68514B4B",
+                        "defaultText": "Aduh ma, aku capek ngomong begini terus. Aku tutup ya."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "B1C63E8F8CAE4540F7282611DEA882ED6373"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3A0C23DF12C9D54D708B98C64DEE4ECD1DB5",
+                        "defaultText": "Tutup telpon."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "7B2DF5787A41B84AFB7A0094AFD7771EF799"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "2DFE34E87C17C44F0A5B2C87EB9C7BDC5550"
+            },
+            {
+                "id": "vn.CallScene",
+                "params": {
+                    "scene": {
+                        "uid": "1C27F68E09CCB442D3888A048C4769D9B31D",
+                        "name": "Tutup dan abaikan telpon"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "0B66C0131B0DF24E727A02847272132266F7"
+            }
+        ],
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",
