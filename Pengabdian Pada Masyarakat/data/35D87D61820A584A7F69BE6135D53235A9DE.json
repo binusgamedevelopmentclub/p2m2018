@@ -1,0 +1,56 @@
+{
+    "uid": "35D87D61820A584A7F69BE6135D53235A9DE",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Guru Bahasa Indonesia",
+        "type": "data_record",
+        "category": "characters",
+        "id": "35D87D61820A584A7F69BE6135D53235A9DE",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "localizableStrings": {
+            "AB1670B04FD1574424288E9365F3EB2A5876": {
+                "t": "",
+                "d": null
+            },
+            "C8595B8467347642FF08E5F28AB3C9256594": {
+                "t": "Guru Bahasa Indonesia",
+                "d": null
+            },
+            "492F098C23B9B746216B4B87C855D85291C2": {
+                "t": "Selamat Pagi semuanya",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "71DC80339108F34B1F5912888FE1AD899EA6"
+                }
+            }
+        },
+        "data": {
+            "name": {
+                "lcId": "C8595B8467347642FF08E5F28AB3C9256594",
+                "defaultText": "Guru Bahasa Indonesia"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "BF7CB12110894142C299D341A545C910AA86",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "35D87D61820A584A7F69BE6135D53235A9DE"
+        },
+        "order": 12
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ]
+}

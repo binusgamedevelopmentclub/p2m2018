@@ -1,20 +1,19 @@
 {
     "uid": "6D1B9F2928E013449A0BC7B9E43212C408A6",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Tidak Minum",
+        "type": "vn.scene",
         "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "livePreviewDisabled": false,
-        "order": 1
+        "order": 1,
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

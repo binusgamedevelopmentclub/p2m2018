@@ -1,0 +1,785 @@
+{
+    "uid": "086B9DD78CC32247251938A6519235B8B081",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Kerja Kelompok di rumah",
+        "parentId": "5E322468563DF145CD5B15739D69D7AE1017",
+        "localizableStrings": {
+            "F8B1D1EA8AD66446665B01957C82462AF7DB": {
+                "t": "Kerja kelompok di rumah Steven.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "623773AC9AA28540A56B5BD4469CF058B770"
+                }
+            },
+            "C36BFF7A2BC03248FD883515F209D181F83A": {
+                "t": "Oke, jadinya mau gimana nih?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "B04EBF675D525546536BD1B0914C12ABB065"
+                }
+            },
+            "403593E76BA6F14B6109DE0223CDF3D74C61": {
+                "t": "Gw jadinya kebetulan punya buku sastra neh, langsung kita baca aja kuy",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "2ADF5F3C8AA8A849448A58A2B0F66C131A03"
+                }
+            },
+            "FD5CB2B91C10A846262A1AC4369A278A3566": {
+                "t": "Kuy",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "B484846D5203784D0B98E4229E80CBB81A0E"
+                }
+            },
+            "E9F001FF2D7BF44F7F7817E8426262D8DCAF": {
+                "t": "Setelah membaca sastra.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "06ABCC3B13EAE54F1B180A625644610B1CF7"
+                }
+            },
+            "184210A16D7ED34B14982A21632F0AEF8698": {
+                "t": "Oke, jadinya disini ada yang ngerti gak arti ceritanya apaan?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "6D3AF3BE61C173495E2B6FA8DDC4C69AE284"
+                }
+            },
+            "4733C1036CEB234D363808256935308FE4A7": {
+                "t": "Maaf, saya tidak mengerti.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "44156C9F7439144D9C5BB4355141D923F0B6"
+                }
+            },
+            "3F3184B77A76154E3339FA0443D29B1B6A6C": {
+                "t": "Saya juga.",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "E17FEBCF191166460C5BF1D1A19EE38FE79E"
+                }
+            },
+            "F21663551EC1B14FA78BFC371EF9778B1696": {
+                "t": "Kalau lu gimana van?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "9856D67259638344B50A1288E3AD6D5B8EBD"
+                }
+            },
+            "DF5A09F26D5A24474B1A3834CF24E46E734F": {
+                "t": "Lumayan sih hehe",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "D08C72F21DC00140D52B6C046EC4C22DA587"
+                }
+            },
+            "4AC87D471EABC2472B0BE89850A2F5589CFF": {
+                "t": "Wah, oke deh tolong jelasin.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "C03B01F73BD4B743577B5471FB1AA8FAB491"
+                }
+            },
+            "898E67F2282803471488EF511A11845073B9": {
+                "t": "Jadinya begini ……..(menjelaskan ceritanya)",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "6A07A0C35C82C741C388EC536AE840C3A6C2"
+                }
+            },
+            "4593630D74808841F14A1D96E2F182B03A9A": {
+                "t": "Gimana guys, sudah pada ngerti?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "6FCA6AF74A1076490A2859E83E16477518A9"
+                }
+            },
+            "9E8335CE199DB1497E581F43D494617869C2": {
+                "t": "Aliyah dan Julius : Masih belum.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "C924994050580641781B86A6F7B66715A5F7"
+                }
+            },
+            "8BB2561B2DBAF443DC78B9743A8BA42D8C89": {
+                "t": "Mantaps, kalau gitu gw sama Arvan yang bikin karya tulisnya, kalian berdua yang ngetik sama cek typo aja ya.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "88F8C8941904944BD648AF587725F13C4FC6"
+                }
+            },
+            "23D11DAC35EA45445A2825F1733292AEA813": {
+                "t": "Aliyah dan Julius : Oke",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "F7D98D9A7C11F04532890E550D503A502828"
+                }
+            },
+            "C7A406042018D542249B84F1C22C69E1EE98": {
+                "t": "Pekerjaan kelompok berjalan dengan lancar dan mendapat progress 50% untuk tugas kelompok ini.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "FEF4D59A3FE29149E67A767837A98D2F484A"
+                }
+            },
+            "63E0AEE11D815743D82BC6B60EB305D6E4E9": {
+                "t": " ",
+                "d": null
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "ApartmentInside_Night",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "6F9BB77615132240706B3C26A13FEECA8D5D",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "C33C933A52353744BC3855C3F4E1EB6D21F1"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F8B1D1EA8AD66446665B01957C82462AF7DB",
+                        "defaultText": "Kerja kelompok di rumah Steven."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "623773AC9AA28540A56B5BD4469CF058B770"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C36BFF7A2BC03248FD883515F209D181F83A",
+                        "defaultText": "Oke, jadinya mau gimana nih?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "B04EBF675D525546536BD1B0914C12ABB065"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "403593E76BA6F14B6109DE0223CDF3D74C61",
+                        "defaultText": "Gw jadinya kebetulan punya buku sastra neh, langsung kita baca aja kuy"
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "2ADF5F3C8AA8A849448A58A2B0F66C131A03"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F20608CF550269454D189473444CA72F25BD",
+                        "defaultText": "Kuy"
+                    },
+                    "position": 0,
+                    "characterId": "55E4E24B65B3D24E732949930C50F6467A5F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "B484846D5203784D0B98E4229E80CBB81A0E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E9F001FF2D7BF44F7F7817E8426262D8DCAF",
+                        "defaultText": "Setelah membaca sastra."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "06ABCC3B13EAE54F1B180A625644610B1CF7"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "184210A16D7ED34B14982A21632F0AEF8698",
+                        "defaultText": "Oke, jadinya disini ada yang ngerti gak arti ceritanya apaan?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "6D3AF3BE61C173495E2B6FA8DDC4C69AE284"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4733C1036CEB234D363808256935308FE4A7",
+                        "defaultText": "Maaf, saya tidak mengerti."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "44156C9F7439144D9C5BB4355141D923F0B6"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3F3184B77A76154E3339FA0443D29B1B6A6C",
+                        "defaultText": "Saya juga."
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "E17FEBCF191166460C5BF1D1A19EE38FE79E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F21663551EC1B14FA78BFC371EF9778B1696",
+                        "defaultText": "Kalau lu gimana van?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "9856D67259638344B50A1288E3AD6D5B8EBD"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DF5A09F26D5A24474B1A3834CF24E46E734F",
+                        "defaultText": "Lumayan sih hehe"
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D08C72F21DC00140D52B6C046EC4C22DA587"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4AC87D471EABC2472B0BE89850A2F5589CFF",
+                        "defaultText": "Wah, oke deh tolong jelasin."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "C03B01F73BD4B743577B5471FB1AA8FAB491"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "898E67F2282803471488EF511A11845073B9",
+                        "defaultText": "Jadinya begini ……..(menjelaskan ceritanya)"
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "6A07A0C35C82C741C388EC536AE840C3A6C2"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4593630D74808841F14A1D96E2F182B03A9A",
+                        "defaultText": "Gimana guys, sudah pada ngerti?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "6FCA6AF74A1076490A2859E83E16477518A9"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9E8335CE199DB1497E581F43D494617869C2",
+                        "defaultText": "Aliyah dan Julius : Masih belum."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "C924994050580641781B86A6F7B66715A5F7"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8BB2561B2DBAF443DC78B9743A8BA42D8C89",
+                        "defaultText": "Mantaps, kalau gitu gw sama Arvan yang bikin karya tulisnya, kalian berdua yang ngetik sama cek typo aja ya."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "88F8C8941904944BD648AF587725F13C4FC6"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "23D11DAC35EA45445A2825F1733292AEA813",
+                        "defaultText": "Aliyah dan Julius : Oke"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F7D98D9A7C11F04532890E550D503A502828"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C7A406042018D542249B84F1C22C69E1EE98",
+                        "defaultText": "Pekerjaan kelompok berjalan dengan lancar dan mendapat progress 50% untuk tugas kelompok ini."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "FEF4D59A3FE29149E67A767837A98D2F484A"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "A625A0AD551432400E2973B5C192CEA7D6AF"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

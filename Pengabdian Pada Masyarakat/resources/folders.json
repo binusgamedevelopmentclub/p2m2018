@@ -8,35 +8,57 @@
         "resources": [
             {
                 "name": "Alvin CourseNet",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133624
             },
             {
                 "name": "Arvan",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133626
             },
             {
                 "name": "Julius",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133628
             },
             {
                 "name": "Keira",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133630
             },
             {
                 "name": "Samuel Prasetyo",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133632
             },
             {
                 "name": "Shinta Course",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133634
             },
             {
                 "name": "Steven CourseNet",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133636
+            },
+            {
+                "name": "Boss Warnet",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 250860
             },
             {
                 "name": "Aliyah",
-                "type": "graphic"
+                "type": "graphic",
+                "isa": null,
+                "_UID": 133638
             }
         ]
     },
@@ -1034,6 +1056,38 @@
                 ],
                 "isa": null,
                 "_UID": 1254030
+            },
+            {
+                "name": "background ui",
+                "type": "graphic"
+            },
+            {
+                "name": "bedroom",
+                "type": "graphic"
+            },
+            {
+                "name": "class",
+                "type": "graphic"
+            },
+            {
+                "name": "halaman sekolah",
+                "type": "graphic"
+            },
+            {
+                "name": "kantin",
+                "type": "graphic"
+            },
+            {
+                "name": "rumah1",
+                "type": "graphic"
+            },
+            {
+                "name": "rumah2",
+                "type": "graphic"
+            },
+            {
+                "name": "warnet",
+                "type": "graphic"
             },
             {
                 "type": "folder",

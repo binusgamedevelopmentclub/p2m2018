@@ -20,20 +20,25 @@
                 "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "Rep boss",
                 "index": 2,
                 "scope": 1,
+                "changed": true,
+                "domain": "com.degica.vnm.default"
+            },
+            {
+                "name": "Rep Mak",
+                "index": 3,
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
                 "changed": true
             },
             {
-                "name": "",
-                "index": 3,
-                "scope": 1
-            },
-            {
-                "name": "",
+                "name": "Rep teman",
                 "index": 4,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
@@ -577,9 +582,11 @@
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Tidak Kerja Kelompok",
                 "index": 5,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
