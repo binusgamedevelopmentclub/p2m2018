@@ -1,0 +1,21 @@
+{
+    "uid": "3B21736E3E765841551A2ED407B30879FDDC",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Abaikan Bossnya dan lanjut ke sekolah",
+        "parentId": "6120B0BA6041A840292AAE835649F0CB4617",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

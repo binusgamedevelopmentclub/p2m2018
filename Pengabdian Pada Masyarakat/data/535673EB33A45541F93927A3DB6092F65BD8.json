@@ -1,0 +1,218 @@
+{
+    "uid": "535673EB33A45541F93927A3DB6092F65BD8",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Sorry bos, minggu depan udah ujian akhir nih, saya harus belajar.",
+        "parentId": "6AAF6E790698A9454C9AADB3D87EB8A873DA",
+        "localizableStrings": {
+            "2414BA482B4CB046AE29294589F36ECB907C": {
+                "t": "Ya sudahlah, berarti lu siap terima resiko gak gue gaji ya.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "EF07DEC844BC2747B5781D41F02D903CA126"
+                }
+            },
+            "0B51422320E1364B0C3BBEB5F30CE35AF578": {
+                "t": "Iya saya siap.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "F066F6D998A6C44E053ADC92CD67A5957E37"
+                }
+            },
+            "2BA851D454D7134CB7892745CEE93EFB8A93": {
+                "t": "Sip.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "0FA96D031785894BDC780F583F59791E29B8"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "StudentdormitoryInside_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "2098D72652406345C2596632D1AA79E39AA5",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "064A5694986E374F750B1512A840DA32425A"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2414BA482B4CB046AE29294589F36ECB907C",
+                        "defaultText": "Ya sudahlah, berarti lu siap terima resiko gak gue gaji ya."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "EF07DEC844BC2747B5781D41F02D903CA126"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0B51422320E1364B0C3BBEB5F30CE35AF578",
+                        "defaultText": "Iya saya siap."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F066F6D998A6C44E053ADC92CD67A5957E37"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2BA851D454D7134CB7892745CEE93EFB8A93",
+                        "defaultText": "Sip."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "0FA96D031785894BDC780F583F59791E29B8"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "FEF9C1A004BEA645504B18A97992ADC6B4E9"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

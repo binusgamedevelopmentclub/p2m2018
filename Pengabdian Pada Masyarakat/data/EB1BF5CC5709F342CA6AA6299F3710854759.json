@@ -1,0 +1,578 @@
+{
+    "uid": "EB1BF5CC5709F342CA6AA6299F3710854759",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Berbicara kepada Arvan",
+        "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+        "localizableStrings": {
+            "0042A3031F3C684F3A3930108FE7049CDBB8": {
+                "t": "Van, kenapa si Julius keluar?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "D170A1033A82F84789683059EE028D174BB2"
+                }
+            },
+            "AC69B9A16568A245112A9BD3165AE87E46DD": {
+                "t": "Minta maaf ke dia dan undang dia ke kamar ini lagi.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "0E97F21F5A07424D0949F4B654D8BA2FC0AB"
+                }
+            },
+            "BCA2BACA6A56454F885B6BE69FD07A4E1A82": {
+                "t": "Jadi apa yang menurut kamu harus kulakukan Steve?",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "148A402D7890A8429F5A1527F9655B8BE096"
+                }
+            },
+            "5B3AAE386131B147417A6C868E25C82E804B": {
+                "t": "Aku tidak bilang yang kamu katakan itu salah, tetapi kamu harus peduli juga dengan perasaan dia. Dia sedang merasa harga dirinya jatuh.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5DE8553E42E2F34C9F8B4FC243EA286B1C5B"
+                }
+            },
+            "DDF94A6C6CC13645095BFAB78C7DA992320D": {
+                "t": "Hah Kasar, tutur kataku baik kok, aku tidak memakai kata-kata kasar dan juga aku percaya yang ku katakan seluruhnya benar.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "0ECA38C5266FA640EB893923A71CDDC6D081"
+                }
+            },
+            "3C90D11043032442968836F68A2507353313": {
+                "t": "Yang kamu katakan ke dia itu cukup kasar loh.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "7B09BC7348E395443B1A83402FB161024AA2"
+                }
+            },
+            "933CA655560A90405C78F646BA4BE76E0C7D": {
+                "t": "Dia mengganggu aku, dia menganggap dirinya bisa padahal sebenarnya tidak.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "217C04AA0AB0754E524ADF8164F69C5E5670"
+                }
+            },
+            "F83CFE9F822AB54D250A23635415873C1DB1": {
+                "t": "Oke deh kalau begitu",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "DA072C0618FB5440A768AD237002B6617E2C"
+                }
+            },
+            "4C32044A6567B741F328D686D698E7BDE6D8": {
+                "t": "Arvan keluar dan meminta maaf kepada Julius dan hubungan mereka membaik lagi. Kelompok ini akhirnya bisa menyelesaikan tugasnya. Meskipun hasilnya tidak terbaik, tetapi tugasnya selesai.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "8041D8516957A24B63188376D0528F10DAB9"
+                }
+            },
+            "84845D334224D844E1381225A3EBB1FC9700": {
+                "t": "Oke deh.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "7432AF1F6DDBA74FF26A3FA70D8B367177F6"
+                }
+            },
+            "B6794B5D29D2064BA88861D508CD1813D5B7": {
+                "t": "Aku kan udah bilang, aku susah mengerti perasaan orang lain dan aku tahu itu kelemahanku, aku percaya kalau kamu lebih mengerti tentang perasaan dibanding aku, jadi kalau masalah ini aku ikuti aja yang menurutmu harus kulakukan.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "680808C57F54B542513B2BB03227E8DF1028"
+                }
+            },
+            "4CCFC147590EE643106BB3251F96FB4F918B": {
+                "t": "Wow, sesimpel itu membujuk kamu ternyata.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "74526F2D649635450C6B040614B1D643E75E"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "StudentdormitoryInside_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "3E9055A465AC574A533A3B883DE1EB599E62",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "E15299625DD97341833ABC564F4A0643F948"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0042A3031F3C684F3A3930108FE7049CDBB8",
+                        "defaultText": "Van, kenapa si Julius keluar?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D170A1033A82F84789683059EE028D174BB2"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "933CA655560A90405C78F646BA4BE76E0C7D",
+                        "defaultText": "Dia mengganggu aku, dia menganggap dirinya bisa padahal sebenarnya tidak."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "217C04AA0AB0754E524ADF8164F69C5E5670"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3C90D11043032442968836F68A2507353313",
+                        "defaultText": "Yang kamu katakan ke dia itu cukup kasar loh."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "7B09BC7348E395443B1A83402FB161024AA2"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DDF94A6C6CC13645095BFAB78C7DA992320D",
+                        "defaultText": "Hah Kasar, tutur kataku baik kok, aku tidak memakai kata-kata kasar dan juga aku percaya yang ku katakan seluruhnya benar."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "0ECA38C5266FA640EB893923A71CDDC6D081"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5B3AAE386131B147417A6C868E25C82E804B",
+                        "defaultText": "Aku tidak bilang yang kamu katakan itu salah, tetapi kamu harus peduli juga dengan perasaan dia. Dia sedang merasa harga dirinya jatuh."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "5DE8553E42E2F34C9F8B4FC243EA286B1C5B"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "BCA2BACA6A56454F885B6BE69FD07A4E1A82",
+                        "defaultText": "Jadi apa yang menurut kamu harus kulakukan Steve?"
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "148A402D7890A8429F5A1527F9655B8BE096"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AC69B9A16568A245112A9BD3165AE87E46DD",
+                        "defaultText": "Minta maaf ke dia dan undang dia ke kamar ini lagi."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "0E97F21F5A07424D0949F4B654D8BA2FC0AB"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F83CFE9F822AB54D250A23635415873C1DB1",
+                        "defaultText": "Oke deh kalau begitu"
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "DA072C0618FB5440A768AD237002B6617E2C"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4CCFC147590EE643106BB3251F96FB4F918B",
+                        "defaultText": "Wow, sesimpel itu membujuk kamu ternyata."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "74526F2D649635450C6B040614B1D643E75E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B6794B5D29D2064BA88861D508CD1813D5B7",
+                        "defaultText": "Aku kan udah bilang, aku susah mengerti perasaan orang lain dan aku tahu itu kelemahanku, aku percaya kalau kamu lebih mengerti tentang perasaan dibanding aku, jadi kalau masalah ini aku ikuti aja yang menurutmu harus kulakukan."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "680808C57F54B542513B2BB03227E8DF1028"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "84845D334224D844E1381225A3EBB1FC9700",
+                        "defaultText": "Oke deh."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "7432AF1F6DDBA74FF26A3FA70D8B367177F6"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4C32044A6567B741F328D686D698E7BDE6D8",
+                        "defaultText": "Arvan keluar dan meminta maaf kepada Julius dan hubungan mereka membaik lagi. Kelompok ini akhirnya bisa menyelesaikan tugasnya. Meskipun hasilnya tidak terbaik, tetapi tugasnya selesai."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "8041D8516957A24B63188376D0528F10DAB9"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "F7D816D91D4CB4445A2980B65A6E6EA2D8DE"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

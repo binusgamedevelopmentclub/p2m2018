@@ -1,0 +1,130 @@
+{
+    "uid": "A45C50CA410A534062186075020B4C48C1EF",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Nanti lu bakal tahu jawabannya",
+        "parentId": "206383D0121DE440CC8BBDE8FD8FB549F0AC",
+        "localizableStrings": {
+            "77DAFEDE002B09454B48CB57CC20D54B2EFD": {
+                "t": "Oke, thank you Steve.",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "E19DA17E51E9E44D735A45B79A285D281C08"
+                }
+            },
+            "D97CCFC11826544DBE18EAF77A7AB06A5E93": {
+                "t": "Julius masuk ke kamar Steven dan berbaikan dengan Arvan. Kelompok mereka berhasil menyelesaikan tugasnya. Hasilnya bukan yang terbaik, tetapi selesai tugas mereka.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "64D545F72A6AB7407719DFC2819143509AFC"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "C03E2A7C5846064C359868B0FB9ACB8824C3"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "77DAFEDE002B09454B48CB57CC20D54B2EFD",
+                        "defaultText": "Oke, thank you Steve."
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "E19DA17E51E9E44D735A45B79A285D281C08"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D97CCFC11826544DBE18EAF77A7AB06A5E93",
+                        "defaultText": "Julius masuk ke kamar Steven dan berbaikan dengan Arvan. Kelompok mereka berhasil menyelesaikan tugasnya. Hasilnya bukan yang terbaik, tetapi selesai tugas mereka."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "64D545F72A6AB7407719DFC2819143509AFC"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "65A74E0D85ADD347C549F2D3CD46A1817851"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

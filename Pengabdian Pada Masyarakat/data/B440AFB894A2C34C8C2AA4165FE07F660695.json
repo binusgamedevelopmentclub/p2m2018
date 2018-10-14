@@ -1,0 +1,218 @@
+{
+    "uid": "B440AFB894A2C34C8C2AA4165FE07F660695",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Oke deh, saya kerja minggu ini",
+        "parentId": "6AAF6E790698A9454C9AADB3D87EB8A873DA",
+        "localizableStrings": {
+            "A5ED4AA30EE1C643A55B0D22063AF3E52392": {
+                "t": "Oke, gue tunggu lu hari ini ya.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "3C0596964BF993452658CAD58A0AC0C02186"
+                }
+            },
+            "645F4060644B194B5D5B95A742ABFDAF8548": {
+                "t": "Baik bos.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "88F2476C88BE574BAC3BE0D3589FF706EA74"
+                }
+            },
+            "CB699AAD39D314439F48EFC6CFF277432497": {
+                "t": "Sip.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "DD6E8C2040108346A058A3517AF626EF67C8"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "StudentdormitoryInside_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "E36CD3EB4BB0114B414B3DB4BEFAF0BC9E4F",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "1EF2B26C96F39746AD2B0D801A682C3C2CCD"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A5ED4AA30EE1C643A55B0D22063AF3E52392",
+                        "defaultText": "Oke, gue tunggu lu hari ini ya."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "3C0596964BF993452658CAD58A0AC0C02186"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "645F4060644B194B5D5B95A742ABFDAF8548",
+                        "defaultText": "Baik bos."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "88F2476C88BE574BAC3BE0D3589FF706EA74"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "CB699AAD39D314439F48EFC6CFF277432497",
+                        "defaultText": "Sip."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "DD6E8C2040108346A058A3517AF626EF67C8"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "F23ED91B818C4046C57BBDE33EC39F17CDCF"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
