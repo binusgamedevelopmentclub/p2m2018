@@ -1,19 +1,20 @@
 {
     "uid": "CF4C125983C2214DA658B643A3929E6ACA78",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Jauhi Arvian",
         "type": "vn.scene",
+        "name": "Jauhi Arvian",
         "parentId": "867EFA3A5845A64BEE6A37811DFCF549460C",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 1,
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "order": 1
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

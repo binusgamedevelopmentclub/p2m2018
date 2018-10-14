@@ -1,13 +1,11 @@
 {
     "uid": "38FD90134D540941D299E11592EE9533962D",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Minum Cola",
         "type": "vn.scene",
+        "name": "Minum Cola",
         "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 0,
         "localizableStrings": {
             "2C7E9DFD2B8C084C3138E2016AED47CB795D": {
                 "t": "Boleh, terima kasih.",
@@ -155,6 +153,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -1100,19 +1099,19 @@
                         "name": "Scene 2"
                     },
                     "savePrevious": 0,
-                    "erasePictures": 1,
-                    "eraseTexts": 1,
-                    "eraseVideos": 1,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
                 },
                 "uid": "D7CE13C457A96248046A30F1C54945C59EE7",
-                "indent": 0,
-                "expanded": true
+                "indent": 0
             }
         ],
         "livePreviewDisabled": false,
+        "order": 0,
         "booleanVariables": [
             {
                 "name": "",
@@ -1125,6 +1124,7 @@
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

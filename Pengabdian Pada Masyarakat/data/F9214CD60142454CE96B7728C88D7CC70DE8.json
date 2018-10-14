@@ -642,13 +642,6 @@
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "DE782A443230C7452C599627652E318D7ACE"
                 }
-            },
-            "68E20714880CA8497E2BA012CCCBCDA3FA48": {
-                "t": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!",
-                "d": {
-                    "cid": 0,
-                    "eid": "EB83FCB93F4DA446E088047374C4518F02AE"
-                }
             }
         },
         "commands": [
@@ -659,7 +652,7 @@
                         "type": "scene"
                     },
                     "graphic": {
-                        "name": "warnet",
+                        "name": "Residentialarea_Night",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -728,7 +721,7 @@
                         }
                     },
                     "message": {
-                        "lcId": "68E20714880CA8497E2BA012CCCBCDA3FA48",
+                        "lcId": "9CCB644237ABE449026A83D2DC95D12F9A5B",
                         "defaultText": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!"
                     },
                     "position": 0,
@@ -777,71 +770,6 @@
                     }
                 },
                 "uid": "48BAA37964B38841B07B6C97DAF8B9301CE9",
-                "indent": 0,
-                "expanded": true
-            },
-            {
-                "id": "vn.CharacterJoinScene",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "predefinedPositionId": 0,
-                    "expressionId": null,
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "zOrder": 0,
-                    "origin": 0,
-                    "blendMode": 0,
-                    "positionType": 1,
-                    "motionBlur": {
-                        "enabled": 0,
-                        "delay": 2,
-                        "opacity": 100,
-                        "dissolveSpeed": 3
-                    },
-                    "position": {
-                        "x": 398,
-                        "y": -250,
-                        "angle": 0,
-                        "zoom": 1,
-                        "horizontalFlip": false,
-                        "data": {},
-                        "color": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "alpha": 0
-                        }
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "easing": {
-                        "type": 0,
-                        "inOut": 0
-                    },
-                    "duration": 0,
-                    "waitForCompletion": 1,
-                    "fieldFlags": {
-                        "duration": 1,
-                        "easing.type": 1,
-                        "animation.type": 1,
-                        "motionBlur.enabled": 1,
-                        "origin": 1,
-                        "zOrder": 1,
-                        "blendMode": 1,
-                        "viewport.type": 1
-                    },
-                    "previewBackground": {
-                        "name": ""
-                    }
-                },
-                "uid": "6ADA613116F263458A1AFEA5CA1CDBBC1C1B",
                 "indent": 0,
                 "expanded": true
             },
@@ -1270,31 +1198,6 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "23A58A7456CA774D2E3A208102CBDD48D24D",
-                "indent": 0
-            },
-            {
                 "id": "gs.JumpToLabel",
                 "params": {
                     "name": "Lanjut1",
@@ -1376,31 +1279,6 @@
                 "uid": "6774CB2573BF6642E90860A970FFFD402F98",
                 "indent": 0,
                 "expanded": true
-            },
-            {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "59EAEEC89A5BC142B91B47C7221307411AF3",
-                "indent": 0
             },
             {
                 "id": "gs.JumpToLabel",
@@ -1763,71 +1641,6 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterJoinScene",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "predefinedPositionId": 0,
-                    "expressionId": null,
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "zOrder": 0,
-                    "origin": 0,
-                    "blendMode": 0,
-                    "positionType": 1,
-                    "motionBlur": {
-                        "enabled": 0,
-                        "delay": 2,
-                        "opacity": 100,
-                        "dissolveSpeed": 3
-                    },
-                    "position": {
-                        "x": 398,
-                        "y": -250,
-                        "angle": 0,
-                        "zoom": 1,
-                        "horizontalFlip": false,
-                        "data": {},
-                        "color": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "alpha": 0
-                        }
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "easing": {
-                        "type": 0,
-                        "inOut": 0
-                    },
-                    "duration": 0,
-                    "waitForCompletion": 1,
-                    "fieldFlags": {
-                        "duration": 1,
-                        "easing.type": 1,
-                        "animation.type": 1,
-                        "motionBlur.enabled": 1,
-                        "origin": 1,
-                        "zOrder": 1,
-                        "blendMode": 1,
-                        "viewport.type": 1
-                    },
-                    "previewBackground": {
-                        "name": ""
-                    }
-                },
-                "uid": "080D1F41287E744FE96A3A469F57CEB85336",
-                "indent": 0,
-                "expanded": true
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -2090,31 +1903,6 @@
                 "uid": "F8EF54EC3F0F9449075B65C491F53AFA8907",
                 "indent": 0,
                 "expanded": true
-            },
-            {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "6425DE9C8E3BB14535185E54935677F2581A",
-                "indent": 0
             },
             {
                 "id": "gs.ShowMessage",
@@ -2908,71 +2696,6 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterJoinScene",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "predefinedPositionId": 0,
-                    "expressionId": null,
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "zOrder": 0,
-                    "origin": 0,
-                    "blendMode": 0,
-                    "positionType": 1,
-                    "motionBlur": {
-                        "enabled": 0,
-                        "delay": 2,
-                        "opacity": 100,
-                        "dissolveSpeed": 3
-                    },
-                    "position": {
-                        "x": 398,
-                        "y": -250,
-                        "angle": 0,
-                        "zoom": 1,
-                        "horizontalFlip": false,
-                        "data": {},
-                        "color": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "alpha": 0
-                        }
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "easing": {
-                        "type": 0,
-                        "inOut": 0
-                    },
-                    "duration": 0,
-                    "waitForCompletion": 1,
-                    "fieldFlags": {
-                        "duration": 1,
-                        "easing.type": 1,
-                        "animation.type": 1,
-                        "motionBlur.enabled": 1,
-                        "origin": 1,
-                        "zOrder": 1,
-                        "blendMode": 1,
-                        "viewport.type": 1
-                    },
-                    "previewBackground": {
-                        "name": ""
-                    }
-                },
-                "uid": "FB3DBEC8817BC743B479FFA1D5F5E33B4C35",
-                "indent": 0,
-                "expanded": true
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -3070,31 +2793,6 @@
                 "uid": "E024F58764ACE5483C29EAF7A125815C1451",
                 "indent": 0,
                 "expanded": true
-            },
-            {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "F7934F1F6E747945D37941C8D55F4C344323",
-                "indent": 0
             },
             {
                 "id": "gs.JumpToLabel",
@@ -3514,71 +3212,6 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterJoinScene",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "predefinedPositionId": 0,
-                    "expressionId": null,
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "zOrder": 0,
-                    "origin": 0,
-                    "blendMode": 0,
-                    "positionType": 1,
-                    "motionBlur": {
-                        "enabled": 0,
-                        "delay": 2,
-                        "opacity": 100,
-                        "dissolveSpeed": 3
-                    },
-                    "position": {
-                        "x": 398,
-                        "y": -250,
-                        "angle": 0,
-                        "zoom": 1,
-                        "horizontalFlip": false,
-                        "data": {},
-                        "color": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "alpha": 0
-                        }
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "easing": {
-                        "type": 0,
-                        "inOut": 0
-                    },
-                    "duration": 0,
-                    "waitForCompletion": 1,
-                    "fieldFlags": {
-                        "duration": 1,
-                        "easing.type": 1,
-                        "animation.type": 1,
-                        "motionBlur.enabled": 1,
-                        "origin": 1,
-                        "zOrder": 1,
-                        "blendMode": 1,
-                        "viewport.type": 1
-                    },
-                    "previewBackground": {
-                        "name": ""
-                    }
-                },
-                "uid": "6D7DFB7B655F584ADB3B5E177035EE6D4353",
-                "indent": 0,
-                "expanded": true
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -3904,31 +3537,6 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "E4B0F7D24A19A2449049F8B756AE1147584C",
-                "indent": 0
-            },
-            {
                 "id": "gs.Label",
                 "params": {
                     "name": "rumah"
@@ -3943,7 +3551,7 @@
                         "type": "scene"
                     },
                     "graphic": {
-                        "name": "rumah2",
+                        "name": "HomeOutside_Night3",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -3978,12 +3586,12 @@
                         "duration": 1,
                         "easing.type": 1,
                         "animation.type": 1,
-                        "origin": 0,
+                        "origin": 1,
                         "zOrder": 1,
                         "blendMode": 1,
                         "viewport.type": 1,
-                        "loopVertical": 0,
-                        "loopHorizontal": 0
+                        "loopVertical": 1,
+                        "loopHorizontal": 1
                     },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
@@ -3991,7 +3599,7 @@
                 },
                 "uid": "24AFD1981B5C984A7E98564724C0344422A9",
                 "indent": 0,
-                "expanded": true
+                "expanded": false
             },
             {
                 "id": "gs.ShowMessage",
@@ -4661,14 +4269,14 @@
                 "id": "vn.Choice",
                 "params": {
                     "action": {
-                        "type": 0,
+                        "type": 3,
                         "bindValue": 0,
                         "bindValueVariable": {
                             "scope": 0,
                             "index": 0
                         },
                         "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
-                        "label": "change",
+                        "label": "",
                         "switch": {
                             "scope": 1,
                             "index": 0
@@ -4760,7 +4368,7 @@
                         "type": "scene"
                     },
                     "graphic": {
-                        "name": "warnet",
+                        "name": "Residentialarea_Night",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -4800,71 +4408,6 @@
                 },
                 "uid": "E6039FA939360449CE39A4E56772B1DBCAC1",
                 "indent": 0
-            },
-            {
-                "id": "vn.CharacterJoinScene",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "predefinedPositionId": 0,
-                    "expressionId": null,
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "zOrder": 0,
-                    "origin": 0,
-                    "blendMode": 0,
-                    "positionType": 1,
-                    "motionBlur": {
-                        "enabled": 0,
-                        "delay": 2,
-                        "opacity": 100,
-                        "dissolveSpeed": 3
-                    },
-                    "position": {
-                        "x": 398,
-                        "y": -250,
-                        "angle": 0,
-                        "zoom": 1,
-                        "horizontalFlip": false,
-                        "data": {},
-                        "color": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "alpha": 0
-                        }
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "easing": {
-                        "type": 0,
-                        "inOut": 0
-                    },
-                    "duration": 0,
-                    "waitForCompletion": 1,
-                    "fieldFlags": {
-                        "duration": 1,
-                        "easing.type": 1,
-                        "animation.type": 1,
-                        "motionBlur.enabled": 1,
-                        "origin": 1,
-                        "zOrder": 1,
-                        "blendMode": 1,
-                        "viewport.type": 1
-                    },
-                    "previewBackground": {
-                        "name": ""
-                    }
-                },
-                "uid": "0279E5FF7136754F946AF474EDD81E266734",
-                "indent": 0,
-                "expanded": false
             },
             {
                 "id": "gs.ShowMessage",
@@ -5098,48 +4641,11 @@
                 "expanded": true
             },
             {
-                "id": "vn.CharacterExitScene",
-                "params": {
-                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "easing": {
-                        "type": 1,
-                        "inOut": 0
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "EA5292480BCE9540529A0B41D459A3D9DCDD",
-                "indent": 0
-            },
-            {
                 "id": "gs.Label",
                 "params": {
                     "name": "change"
                 },
                 "uid": "CD18DD5C7E6047421C384242A6907F811F2C",
-                "indent": 0
-            },
-            {
-                "id": "gs.ClearMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 30,
-                    "fieldFlags": {
-                        "duration": 1
-                    }
-                },
-                "uid": "4B6A29874BAA1145D33AE619FED27CB935BB",
                 "indent": 0
             },
             {

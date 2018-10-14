@@ -1,11 +1,10 @@
 {
     "uid": "8241E7396CA36843495B36798F73C975C17F",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
         "name": "Sebastian",
         "type": "data_record",
-        "order": 11,
         "category": "characters",
         "id": "8241E7396CA36843495B36798F73C975C17F",
         "isFolder": false,
@@ -37,7 +36,7 @@
                 "blue": 255,
                 "alpha": 255
             },
-            "defaultExpressionId": "0D36BCF36813654C979AB26524106CAE7563",
+            "defaultExpressionId": "BF7CB12110894142C299D341A545C910AA86",
             "timeTalkingToVoiceVolume": true,
             "talkingVolume": 5,
             "lipSyncSensitivity": 1,
@@ -45,7 +44,8 @@
             "idleIntensity": 1,
             "params": [],
             "index": "8241E7396CA36843495B36798F73C975C17F"
-        }
+        },
+        "order": 11
     },
     "summary": [
         "name",

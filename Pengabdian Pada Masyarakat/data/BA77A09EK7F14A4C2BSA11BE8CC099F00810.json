@@ -3,7 +3,7 @@
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": " ",
+        "name": "",
         "type": "data_record",
         "order": 0,
         "category": "characters",
@@ -12,8 +12,8 @@
         "parentId": "ROOT",
         "data": {
             "name": {
-                "lcId": "63E0AEE11D815743D82BC6B60EB305D6E4E9",
-                "defaultText": " "
+                "lcId": "F0B3CB502DBE9744C7197D96CDCB3E8E44E6",
+                "defaultText": ""
             },
             "textColor": {
                 "red": 255,
@@ -37,17 +37,6 @@
                 "t": "Kriiiinggg~~ Bell pulang sekolah telah berbunyi.",
                 "d": {
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
-                }
-            },
-            "3B38BD908776C34F9E2B0C574DF702605558": {
-                "t": "Arvan, Julius, Steven",
-                "d": null
-            },
-            "F20608CF550269454D189473444CA72F25BD": {
-                "t": "Kuy",
-                "d": {
-                    "cid": "9906D7102B31A946624989249F41BA986880",
-                    "eid": "B484846D5203784D0B98E4229E80CBB81A0E"
                 }
             }
         }

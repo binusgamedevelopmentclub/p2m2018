@@ -1,13 +1,11 @@
 {
     "uid": "97EC2597256C05406A68E895E6D51608B318",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Dekati Arvian",
         "type": "vn.scene",
+        "name": "Dekati Arvian",
         "parentId": "867EFA3A5845A64BEE6A37811DFCF549460C",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 0,
         "localizableStrings": {
             "62CD510E5334224F72482682AE9A209E3F35": {
                 "t": " Permisi, boleh duduk sebelahmu gak?",
@@ -183,6 +181,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -1212,19 +1211,19 @@
                         "name": "Scene 2"
                     },
                     "savePrevious": 0,
-                    "erasePictures": 1,
-                    "eraseTexts": 1,
-                    "eraseVideos": 1,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
                 },
                 "uid": "C6598F7E0A9CC446F31809A2AB708A553EBB",
-                "indent": 0,
-                "expanded": true
+                "indent": 0
             }
         ],
         "livePreviewDisabled": false,
+        "order": 0,
         "booleanVariables": [
             {
                 "name": "",
@@ -1237,6 +1236,7 @@
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

@@ -1,11 +1,10 @@
 {
     "uid": "9906D7102B31A946624989249F41BA986880",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
         "name": "Arvan",
         "type": "data_record",
-        "order": 6,
         "category": "characters",
         "id": "9906D7102B31A946624989249F41BA986880",
         "isFolder": false,
@@ -39,7 +38,8 @@
             "idleIntensity": 1,
             "params": [],
             "index": "9906D7102B31A946624989249F41BA986880"
-        }
+        },
+        "order": 6
     },
     "summary": [
         "name",

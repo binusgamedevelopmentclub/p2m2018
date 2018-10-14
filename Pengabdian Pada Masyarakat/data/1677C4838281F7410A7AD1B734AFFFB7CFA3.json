@@ -1,13 +1,11 @@
 {
     "uid": "1677C4838281F7410A7AD1B734AFFFB7CFA3",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Sorry ko, saya sibuk hari ini",
         "type": "vn.scene",
+        "name": "Sorry ko, saya sibuk hari ini",
         "parentId": "1C27F68E09CCB442D3888A048C4769D9B31D",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 1,
         "localizableStrings": {
             "44FE62E3567F03467A6AC700741DF81EDD2A": {
                 "t": "Ohh oke, gw cari orang lain deh.",
@@ -24,6 +22,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -169,18 +168,13 @@
             }
         ],
         "livePreviewDisabled": false,
-        "booleanVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0
-            }
-        ]
+        "order": 1
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

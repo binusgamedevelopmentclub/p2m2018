@@ -1,13 +1,11 @@
 {
     "uid": "3F35CB3B0C04F442F8787241375B6F0FCC97",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Kosong ko",
         "type": "vn.scene",
+        "name": "Kosong ko",
         "parentId": "1C27F68E09CCB442D3888A048C4769D9B31D",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 0,
         "localizableStrings": {
             "8E73C8D88343A24D743A778528E4C5E2F5CF": {
                 "t": "Oke, gw butuh penjaga warnet nih, lu kan kemarin udah pulang duluan, salah satu part timer sakit nih, bisa gak lu gantiin? Kalau lu gantiin gw bebasin utang kerja lu.",
@@ -73,6 +71,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -510,12 +509,14 @@
                 "uid": "7477521B77E9E8402E68F4182BFB30D79527"
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "order": 0
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]
