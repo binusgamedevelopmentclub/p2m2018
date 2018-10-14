@@ -3772,20 +3772,110 @@
         },
         "CBE684387224C8452B688E46990E31387EC9": {
             "items": {
-                "name": "Aliyah",
+                "name": "Mengabaikan ibunya dan berangkat ke sekolah",
+                "type": "vn.scene",
+                "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "4F3D5642763DB64C9E18CFF3F9927EA689B9": {
+            "items": {
+                "name": "Di Sekolah Jam Istirahat",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "8E33A2D14AC2724E882A12C693A5DF52386D": {
+            "items": {
+                "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
+                "type": "vn.scene",
+                "parentId": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "565CACE2458A2243FF8A07B7294F0DC541ED": {
+            "items": {
+                "name": "Kerja kelompok sukses di rumah Steven",
                 "type": "vn.scene",
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 3
             }
         },
-        "46482C6D6FF787402E18C6F45A154D9AC90C": {
+        "49DBC23C16092541E91B1442F6C435234159": {
+            "items": {
+                "name": "Bila Steven belum pernah mengadakan Kerja Kelompok",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 4
+            }
+        },
+        "833CD8C7495DE5470369ADA6120A44A8A226": {
             "items": {
                 "name": "Sibuk",
                 "type": "vn.scene",
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 3
+                "order": 0
+            }
+        },
+        "8072DDBE6C7EF545387BE7A708FA63BF48F5": {
+            "items": {
+                "name": "Sorry gue bener-bener gak bisa",
+                "type": "vn.scene",
+                "parentId": "49DBC23C16092541E91B1442F6C435234159",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "27AC2E3B68C43743A9187EE30A26DBCBB472": {
+            "items": {
+                "name": "Kerja Kelompok Kebut",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 5
+            }
+        },
+        "7EE3AD3D6F5EA541537AD1074E5C85D51DCC": {
+            "items": {
+                "name": "Oke deh aku bantuin kamu",
+                "type": "vn.scene",
+                "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "F3720744211596425F7A4495F66EC8EC166F": {
+            "items": {
+                "name": "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
+                "type": "vn.scene",
+                "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "C9CF1B1B30D1B543F4080C2467DDCD1184D6": {
+            "items": {
+                "name": "Mengabaikan mereka berdua dan fokus ke pekerjaan Steven sendiri",
+                "type": "vn.scene",
+                "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "206383D0121DE440CC8BBDE8FD8FB549F0AC": {
+            "items": {
+                "name": "Berbicara kepada Julius",
+                "type": "vn.scene",
+                "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
             }
         },
         "7EB097988A77D6406A3842A83BAB19510BBA": {

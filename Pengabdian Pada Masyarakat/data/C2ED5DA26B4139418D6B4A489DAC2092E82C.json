@@ -1,22 +1,21 @@
 {
     "uid": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Scene 6",
         "type": "vn.scene",
+        "name": "Scene 6",
         "parentId": "49DC3EE6267197419859C9E4D23776294B50",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 5,
         "localizableStrings": {
             "92CCE3C64C9C93430A283676C4649D60D2F0": {
-                "t": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya.",
+                "t": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya. Oleh karena itu, Steven mendapat pilihan untuk kerja kelompok. Steven bisa mengadakan kerja kelompok ini hanya bila reputasi Steven dengan ibunya dan bosnya baik. Bila masih saja ada salah satu yang reputasinya tidak baik, inilah yang terjadi.",
                 "d": {
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "AE8965A97786C8408A1B64A4F1D6E8E3433C"
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -98,7 +97,7 @@
                     },
                     "message": {
                         "lcId": "92CCE3C64C9C93430A283676C4649D60D2F0",
-                        "defaultText": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya."
+                        "defaultText": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya. Oleh karena itu, Steven mendapat pilihan untuk kerja kelompok. Steven bisa mengadakan kerja kelompok ini hanya bila reputasi Steven dengan ibunya dan bosnya baik. Bila masih saja ada salah satu yang reputasinya tidak baik, inilah yang terjadi."
                     },
                     "position": 0,
                     "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
@@ -126,6 +125,7 @@
             }
         ],
         "livePreviewDisabled": false,
+        "order": 5,
         "stringVariables": [
             {
                 "name": "",
@@ -138,6 +138,7 @@
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

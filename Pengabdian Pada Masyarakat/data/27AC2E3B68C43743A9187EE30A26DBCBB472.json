@@ -1,13 +1,11 @@
 {
     "uid": "27AC2E3B68C43743A9187EE30A26DBCBB472",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Kerja Kelompok Kebut",
         "type": "vn.scene",
+        "name": "Kerja Kelompok Kebut",
         "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 6,
         "localizableStrings": {
             "9A33E6E77BE0A748433B1B13472521B17D4F": {
                 "t": "Setelah semua kumpul di rumah Steven, Steven dan teman-temannya masuk ke dalam kamar Steven.",
@@ -52,6 +50,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -364,12 +363,14 @@
                 "uid": "B7AF7A1F2A65A84D778A9104DF450F43195A"
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "order": 5
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

@@ -1,13 +1,11 @@
 {
     "uid": "F3720744211596425F7A4495F66EC8EC166F",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
         "type": "vn.scene",
+        "name": "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
         "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 2,
         "localizableStrings": {
             "30A97F5235F24845F33AF05850F8592826D4": {
                 "t": "Tugas berjalan dengan lancar, dengan Steven membantu Arvan dan Julius mengeksposisi sastra tidak terjadi pertikaian antar mereka. Kelompok berhasil menyelesaikan tugasnya, meskipun hasilnya bukan yang terbaik, tetapi mereka berhasil menyelesaikan tugasnya. Setelah tugas selesai ini, Steven memperhatikan tampang Aliyah yang sedikit cemberut.",
@@ -17,6 +15,7 @@
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -170,12 +169,14 @@
                 "uid": "0BDD7B316EB131441968DA580E913C7C7395"
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "order": 2
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]
