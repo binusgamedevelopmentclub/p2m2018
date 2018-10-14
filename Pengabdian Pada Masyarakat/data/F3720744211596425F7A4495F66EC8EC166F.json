@@ -1,0 +1,183 @@
+{
+    "uid": "F3720744211596425F7A4495F66EC8EC166F",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
+        "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+        "localizableStrings": {
+            "30A97F5235F24845F33AF05850F8592826D4": {
+                "t": "Tugas berjalan dengan lancar, dengan Steven membantu Arvan dan Julius mengeksposisi sastra tidak terjadi pertikaian antar mereka. Kelompok berhasil menyelesaikan tugasnya, meskipun hasilnya bukan yang terbaik, tetapi mereka berhasil menyelesaikan tugasnya. Setelah tugas selesai ini, Steven memperhatikan tampang Aliyah yang sedikit cemberut.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "FF060E859EE5944A0A6897D4790708FCE505"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "StudentdormitoryInside_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "96CB2D5E72A9254DFD1861C426A1F6E9606C",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "91F633C726ABF6478D2B0744646E5721E892"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "30A97F5235F24845F33AF05850F8592826D4",
+                        "defaultText": "Tugas berjalan dengan lancar, dengan Steven membantu Arvan dan Julius mengeksposisi sastra tidak terjadi pertikaian antar mereka. Kelompok berhasil menyelesaikan tugasnya, meskipun hasilnya bukan yang terbaik, tetapi mereka berhasil menyelesaikan tugasnya. Setelah tugas selesai ini, Steven memperhatikan tampang Aliyah yang sedikit cemberut."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "FF060E859EE5944A0A6897D4790708FCE505"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Bertanya kepada Aliyah apakah ada masalah",
+                            "DC79CAEC7685C5475C69ABE6C3DCFC29DCB8"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "C326E4315965614E3D2AC112E87C9EEC00FB"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Mengabaikan dia",
+                            "CC4AA81D40B4B54BA01849D27E07E67CEDE3"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "D1B58C30694D154D164B1E757DFD85D38627"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "CFB42EE35BA10648FB5B97C54C985080982A"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "0BDD7B316EB131441968DA580E913C7C7395"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
