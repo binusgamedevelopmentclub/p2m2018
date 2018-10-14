@@ -17,9 +17,9 @@
                 }
             },
             "947A63112D79E44C7A1B5FF2636735ECF6CC": {
-                "t": "Selamat pagi semuanya, nama saya Steven Course, hobby saya belajar, dan saya anak pertama dari 3 bersaudara.",
+                "t": "Pada saat istirahat, Steven ke kantin membeli makanan. Di Kantin dia melihat teman sekelasnya, Arvan duduk sendirian.",
                 "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "5DE88EC712C26140DB5A00961C9D7F9F9E04"
                 }
             },
@@ -49,6 +49,20 @@
                 "d": {
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "416BC56353D1144BEA493B19BA11D9CEA9BF"
+                }
+            },
+            "3DD29BC56E384145F26A17F0A2B0D28C2FA7": {
+                "t": "Selamat pagi semuanya, nama saya Steven Course, hobby saya belajar, dan saya anak pertama dari 3 bersaudara.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5E7E710951EA8749AF6A06C0AAD82D34EE41"
+                }
+            },
+            "3EC1AC7917C22647B9787CC52E113FA4EC75": {
+                "t": "Ada Arvan nih, si “loner” itu, apa yang harus kulakukan?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A0E955655C76574BD85A1650105F105E8A7A"
                 }
             }
         },
@@ -189,7 +203,7 @@
                         }
                     },
                     "message": {
-                        "lcId": "947A63112D79E44C7A1B5FF2636735ECF6CC",
+                        "lcId": "3DD29BC56E384145F26A17F0A2B0D28C2FA7",
                         "defaultText": "Selamat pagi semuanya, nama saya Steven Course, hobby saya belajar, dan saya anak pertama dari 3 bersaudara."
                     },
                     "position": 0,
@@ -202,7 +216,7 @@
                     "animations": []
                 },
                 "indent": 0,
-                "uid": "5DE88EC712C26140DB5A00961C9D7F9F9E04",
+                "uid": "5E7E710951EA8749AF6A06C0AAD82D34EE41",
                 "expanded": true
             },
             {
@@ -386,6 +400,183 @@
                 "expanded": true
             },
             {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "A507F8902088F6449B48C9430216DB3F976A",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "947A63112D79E44C7A1B5FF2636735ECF6CC",
+                        "defaultText": "Pada saat istirahat, Steven ke kantin membeli makanan. Di Kantin dia melihat teman sekelasnya, Arvan duduk sendirian."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5DE88EC712C26140DB5A00961C9D7F9F9E04",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3EC1AC7917C22647B9787CC52E113FA4EC75",
+                        "defaultText": "Ada Arvan nih, si “loner” itu, apa yang harus kulakukan?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A0E955655C76574BD85A1650105F105E8A7A",
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 0,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "ED93F043500C5544D7797D45C2BF7295E0B1",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Mendekati dia",
+                            "97EC2597256C05406A68E895E6D51608B318"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "779E5F1B3ACF07430C4B07811BC566115177"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Membiarkan dia makan sendiri",
+                            "CF4C125983C2214DA658B643A3929E6ACA78"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "0743253A4D7E414E5E59695668FE4539E100"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "indent": 0,
+                "uid": "946ED4AB9447864FB4985D71D0CC13797D83"
+            },
+            {
                 "id": "gs.ChangeTransition",
                 "params": {
                     "graphic": null,
@@ -402,27 +593,30 @@
                 },
                 "uid": "2E3C9D86271C034F1E3BD3F015D9A379448D",
                 "indent": 0
-            },
-            {
-                "id": "vn.ChangeScene",
-                "params": {
-                    "scene": {
-                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
-                        "name": "Scene 2"
-                    },
-                    "savePrevious": 0,
-                    "erasePictures": 0,
-                    "eraseTexts": 0,
-                    "eraseVideos": 0,
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "B43D070E35E7804C553954111217D4485435",
-                "indent": 0
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",

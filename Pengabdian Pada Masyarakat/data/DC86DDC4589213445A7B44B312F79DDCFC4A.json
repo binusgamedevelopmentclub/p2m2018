@@ -37,13 +37,6 @@
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
             },
-            "7D97D7CD6FF842461C1BA80308C9A24661E0": {
-                "t": "Selamat datang di SMA Karsenet.",
-                "d": {
-                    "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "eid": "39CF630F411F544CDE99345908A3D7FDB82F"
-                }
-            },
             "46E19B8676FC024FB08A99B3FE6DF583CCA4": {
                 "t": "Saya adalah wali kelas kalian, sebelum memulai kelas mari kita memperkenalkan diri kalian masing-masing dulu. Perkenalkan nama panjang , hobby, dan ceritakan sedikit tentang diri kamu.",
                 "d": {
@@ -317,39 +310,6 @@
                 },
                 "indent": 0,
                 "uid": "54E63DC437DAE14BBD5A3565DC257522371E",
-                "expanded": true
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "7D97D7CD6FF842461C1BA80308C9A24661E0",
-                        "defaultText": "Selamat datang di SMA Karsenet."
-                    },
-                    "position": 0,
-                    "characterId": "31E514B338C68744ED180FD3C75E0DA35FE6",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "uid": "39CF630F411F544CDE99345908A3D7FDB82F",
                 "expanded": true
             },
             {

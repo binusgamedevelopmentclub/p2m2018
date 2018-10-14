@@ -1,0 +1,1243 @@
+{
+    "uid": "97EC2597256C05406A68E895E6D51608B318",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Dekati Arvian",
+        "parentId": "867EFA3A5845A64BEE6A37811DFCF549460C",
+        "localizableStrings": {
+            "62CD510E5334224F72482682AE9A209E3F35": {
+                "t": " Permisi, boleh duduk sebelahmu gak?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A59139E553042940758A8CA102C19C29C282"
+                }
+            },
+            "56FD969B2203C348C95A5BD42B3473EBE9A3": {
+                "t": "Hmmmm, lu si cowo sepa di kelasku ya?",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "5BA2FDFE55B42840EF8BCF0255B5B666FBFC"
+                }
+            },
+            "E7AE25080166F543DE290208E6099A069BE3": {
+                "t": "Sepa? Datang darimana tuh?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "DCB9AB1E58C27742FC195415612C05717FB7"
+                }
+            },
+            "6EC14B0A7C4B44426C3A16621F0F764E485D": {
+                "t": "Dari perkenalanmu, perkenalanmu menurutku membosankan sekali, tidak ada unsur yang menarik perhatian orang.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "B54520491D41B243E949F591FD3389BB86FC"
+                }
+            },
+            "ADCAFB3D8A11744A577983C28F5DFB12ED84": {
+                "t": "Kamu cuma “malu” atau gak mau terbuka akan dirimu kan?  ",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "A9F589B224FE63430A8B3B92F0902020A693"
+                }
+            },
+            "DC23F15A24AEA14EBE8BABC70E9F05633A67": {
+                "t": "Itu bukan membosankan tetapi aku cuma….",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "53489B8261D87442647BE2865A03C9A366C2"
+                }
+            },
+            "112DD3C25EABF4407E89F0C936AD3B424B90": {
+                "t": "Alias kamu memiliki masalah internal.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "3F96246C8FD2864765296F25C39B3A4FADD4"
+                }
+            },
+            "C0FB38CB2248D1467C6931E3B2A66440EA71": {
+                "t": "eh… maaf aku gak bermaksud begitu...",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "7D3404772176F24B76286DB8B01C4B09C4C7"
+                }
+            },
+            "2C5372B283B2B64B50396E782837156F206F": {
+                "t": "...",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "12A2C44715D78641062909E53AC8939E4309"
+                }
+            },
+            "41CCA5B157ED004CFE28F2129387CFB2540D": {
+                "t": "Wow, hebat sekali kamu bisa menebak pikiranku.",
+                "d": {
+                    "eid": "51D9EBC32C1DA24F8A1A29384113F59D628E"
+                }
+            },
+            "F6EEEE07746DF04B5C5B0FB6B11AA3F70AEF": {
+                "t": "Maksudmu apa?",
+                "d": {
+                    "eid": "A825EB098099864AF208D0670FC3F323D0D9"
+                }
+            },
+            "CD23D73C509E0742D33BC1A4F9B512198849": {
+                "t": "Wow, hebat sekali kamu bisa menebak pikiranku. Kamu tahu dari mana?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "E491FB9D54DB224F6678829335F75EE46E62"
+                }
+            },
+            "6207DDFC48CD91416988BC45B4F3DA5B5B7C": {
+                "t": "Tidak apa-apa, aku tidak tersinggung kok...",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A2D5BDEC30BF72421629E4E6D27E384562D0"
+                }
+            },
+            "884C26F64B443945482817E4FE6E65AC81D1": {
+                "t": "Makasih, aku dari dulu senang mengamati orang.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "6D0A443D0D6D094A7D4929364259961384C6"
+                }
+            },
+            "68B8A5C03A54804A6A69401714739BEC0A5A": {
+                "t": "Jadi hampir setiap kali aku bisa menebak pikiran seseorang tanpa diberi tahu.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "E5639A213462244A457BB67436FF66693205"
+                }
+            },
+            "8E91F5CA91F81442F7889011424C3EF8E572": {
+                "t": "Kekurangannya aku, kayak tadi aku suka keceplosan, maaf ya kalau aku menyinggungmu.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "7BDB7A7A576A564FE33BF643560FEBCDC31D"
+                }
+            },
+            "253EE57B7227434EE239D5346519EF16E1D5": {
+                "t": "Maksudmu apa?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "D4AFD6E291F5764F5F0BC330565C2ADBD8A8"
+                }
+            },
+            "B7DC785A442F6844BA682973633B9E06542D": {
+                "t": "Ohh oke, tapi balik lagi ke tentang kamu, aku merasa tertarik untuk mengenalmu lebih dalam, jadi aku menawarkan diriku untuk menjadi temanmu.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "EC51834F54A3B240046895D0330971DC5BBB"
+                }
+            },
+            "4FDF9384785CA44D422A0FD3C0AFBD48CF08": {
+                "t": "Aku gak bermaksud untuk menyinggung, tetapi aku hanya menyatakan apa yang ada di pikiranku, maaf bila aku menyinggungmu.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "55E303AD096F37446F69CBE9CCD2B5C82A00"
+                }
+            },
+            "8DB616D21B2FB340AC59AA14D02F1092257A": {
+                "t": "Maksudku adalah aku merasa tertarik untuk mengenalmu lebih dalam, Aku menawarkan diriku untuk menjadi temanmu.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "5BBBF0F88A10D54E472B3553DF67C310E385"
+                }
+            },
+            "1E0DBDB76C37F54AEA390493E2B61B14CDDA": {
+                "t": "Kok terasa seperti barter ya?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "54660A6F888B994A9C6AD8B74F8CD25ED7D9"
+                }
+            },
+            "2ABA38408DD0544E007B36368A02D830FB92": {
+                "t": "Maaf bila terasa canggung, aku belum pernah ada teman, tetapi sekarang aku ingin mulai merubah diriku.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "15ECB31507FE7240C149FD3415202E366951"
+                }
+            },
+            "F4D4FCE233C5C34D810A6DB0D1130397BE10": {
+                "t": "Oke, jadi maksudmu apa dong?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "B22230AD670552446E8BE599E61FD7296383"
+                }
+            },
+            "0BB5D4431640C943DC88B265AAF1CAC71008": {
+                "t": "Oke aku akan menjadi teman pertama mu, nih ID lone aku.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "A6BB4D0696466442B359C6E612FDDDEE4FB9"
+                }
+            },
+            "105EE99A5F94614E630AD7A48211B7DC994A": {
+                "t": "Kami pun makan dan berbincang-bincang saat istirahat, lalu ke kelas bersama untuk melanjutkan pelajaran.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "0B7AD08A7D9B3345E8094C22ED283D11B2BD"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "013D2CD11CD68744508A297244684AD5134D",
+                "indent": 0
+            },
+            {
+                "id": "gs.MessageSettings",
+                "params": {
+                    "useCharacterColor": 0,
+                    "paragraphSpacing": 0,
+                    "backlog": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "linePadding": 6,
+                    "lineHeight": 0,
+                    "lineSpacing": 0,
+                    "smallCaps": 0,
+                    "underline": 0,
+                    "strikeThrough": 0,
+                    "autoErase": 1,
+                    "waitAtEnd": 1,
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 0,
+                    "outlineSize": 4,
+                    "shadow": 0,
+                    "shadowOffsetX": 1,
+                    "shadowOffsetY": 1,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "autoErase": 0,
+                        "waitAtEnd": 1,
+                        "backlog": 1,
+                        "font": 1,
+                        "size": 1,
+                        "color": 1,
+                        "useCharacterColor": 1,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineHeight": 1,
+                        "lineSpacing": 1,
+                        "linePadding": 1,
+                        "paragraphSpacing": 1,
+                        "outline": 1,
+                        "outlineColor": 1,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "A6FE34645AC6F84DA20836C79387F5E1CBDF",
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "62CD510E5334224F72482682AE9A209E3F35",
+                        "defaultText": " Permisi, boleh duduk sebelahmu gak?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A59139E553042940758A8CA102C19C29C282",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "56FD969B2203C348C95A5BD42B3473EBE9A3",
+                        "defaultText": "Hmmmm, lu si cowo sepa di kelasku ya?"
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5BA2FDFE55B42840EF8BCF0255B5B666FBFC",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E7AE25080166F543DE290208E6099A069BE3",
+                        "defaultText": "Sepa? Datang darimana tuh?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "DCB9AB1E58C27742FC195415612C05717FB7",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6EC14B0A7C4B44426C3A16621F0F764E485D",
+                        "defaultText": "Dari perkenalanmu, perkenalanmu menurutku membosankan sekali, tidak ada unsur yang menarik perhatian orang."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "B54520491D41B243E949F591FD3389BB86FC",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DC23F15A24AEA14EBE8BABC70E9F05633A67",
+                        "defaultText": "Itu bukan membosankan tetapi aku cuma…."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "53489B8261D87442647BE2865A03C9A366C2",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "ADCAFB3D8A11744A577983C28F5DFB12ED84",
+                        "defaultText": "Kamu cuma “malu” atau gak mau terbuka akan dirimu kan?  "
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A9F589B224FE63430A8B3B92F0902020A693",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "112DD3C25EABF4407E89F0C936AD3B424B90",
+                        "defaultText": "Alias kamu memiliki masalah internal."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "3F96246C8FD2864765296F25C39B3A4FADD4",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C0FB38CB2248D1467C6931E3B2A66440EA71",
+                        "defaultText": "eh… maaf aku gak bermaksud begitu..."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "7D3404772176F24B76286DB8B01C4B09C4C7",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2C5372B283B2B64B50396E782837156F206F",
+                        "defaultText": "..."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "12A2C44715D78641062909E53AC8939E4309",
+                "expanded": true
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "41CCA5B157ED004CFE28F2129387CFB2540D",
+                        "defaultText": "Wow, hebat sekali kamu bisa menebak pikiranku."
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "51D9EBC32C1DA24F8A1A29384113F59D628E",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "F6EEEE07746DF04B5C5B0FB6B11AA3F70AEF",
+                        "defaultText": "Maksudmu apa?"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "A825EB098099864AF208D0670FC3F323D0D9",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "8B2E31A118A2964903481445D122A84F6704",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "tebak pikiran"
+                },
+                "indent": 0,
+                "uid": "8D5813229D0F69498119AA53526D5797295A"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "CD23D73C509E0742D33BC1A4F9B512198849",
+                        "defaultText": "Wow, hebat sekali kamu bisa menebak pikiranku. Kamu tahu dari mana?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "E491FB9D54DB224F6678829335F75EE46E62",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "884C26F64B443945482817E4FE6E65AC81D1",
+                        "defaultText": "Makasih, aku dari dulu senang mengamati orang."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "6D0A443D0D6D094A7D4929364259961384C6",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "68B8A5C03A54804A6A69401714739BEC0A5A",
+                        "defaultText": "Jadi hampir setiap kali aku bisa menebak pikiran seseorang tanpa diberi tahu."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "E5639A213462244A457BB67436FF66693205",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8E91F5CA91F81442F7889011424C3EF8E572",
+                        "defaultText": "Kekurangannya aku, kayak tadi aku suka keceplosan, maaf ya kalau aku menyinggungmu."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "7BDB7A7A576A564FE33BF643560FEBCDC31D",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6207DDFC48CD91416988BC45B4F3DA5B5B7C",
+                        "defaultText": "Tidak apa-apa, aku tidak tersinggung kok..."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A2D5BDEC30BF72421629E4E6D27E384562D0",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B7DC785A442F6844BA682973633B9E06542D",
+                        "defaultText": "Ohh oke, tapi balik lagi ke tentang kamu, aku merasa tertarik untuk mengenalmu lebih dalam, jadi aku menawarkan diriku untuk menjadi temanmu."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "EC51834F54A3B240046895D0330971DC5BBB",
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjut",
+                    "target": "activeScene"
+                },
+                "uid": "E406DD9F3EB895447B895D310CE2A4BC49DD",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "parah lu"
+                },
+                "indent": 0,
+                "uid": "744FF5A3477067400F79D183301F466BFFE5"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "253EE57B7227434EE239D5346519EF16E1D5",
+                        "defaultText": "Maksudmu apa?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "D4AFD6E291F5764F5F0BC330565C2ADBD8A8",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4FDF9384785CA44D422A0FD3C0AFBD48CF08",
+                        "defaultText": "Aku gak bermaksud untuk menyinggung, tetapi aku hanya menyatakan apa yang ada di pikiranku, maaf bila aku menyinggungmu."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "55E303AD096F37446F69CBE9CCD2B5C82A00",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F4D4FCE233C5C34D810A6DB0D1130397BE10",
+                        "defaultText": "Oke, jadi maksudmu apa dong?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "B22230AD670552446E8BE599E61FD7296383",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8DB616D21B2FB340AC59AA14D02F1092257A",
+                        "defaultText": "Maksudku adalah aku merasa tertarik untuk mengenalmu lebih dalam, Aku menawarkan diriku untuk menjadi temanmu."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5BBBF0F88A10D54E472B3553DF67C310E385",
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjut",
+                    "target": "activeScene"
+                },
+                "uid": "E2A5D5447BABE04D077805F1D124287FF234",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Lanjut"
+                },
+                "indent": 0,
+                "uid": "267C7C9423BAB449FD6A38287BF3976A83C4"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1E0DBDB76C37F54AEA390493E2B61B14CDDA",
+                        "defaultText": "Kok terasa seperti barter ya?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "54660A6F888B994A9C6AD8B74F8CD25ED7D9",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2ABA38408DD0544E007B36368A02D830FB92",
+                        "defaultText": "Maaf bila terasa canggung, aku belum pernah ada teman, tetapi sekarang aku ingin mulai merubah diriku."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "15ECB31507FE7240C149FD3415202E366951",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0BB5D4431640C943DC88B265AAF1CAC71008",
+                        "defaultText": "Oke aku akan menjadi teman pertama mu, nih ID lone aku."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A6BB4D0696466442B359C6E612FDDDEE4FB9",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "105EE99A5F94614E630AD7A48211B7DC994A",
+                        "defaultText": "Kami pun makan dan berbincang-bincang saat istirahat, lalu ke kelas bersama untuk melanjutkan pelajaran."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "0B7AD08A7D9B3345E8094C22ED283D11B2BD",
+                "expanded": true
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "5FAAB59E837AE14E80880E08349E19631395",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                        "name": "Scene 2"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "C6598F7E0A9CC446F31809A2AB708A553EBB",
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
