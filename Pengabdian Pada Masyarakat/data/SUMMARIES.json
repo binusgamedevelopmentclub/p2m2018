@@ -3757,6 +3757,54 @@
                 "name": "Julius",
                 "type": "vn.scene",
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+        "730327478CFE77402078E29891D25A38EBE0": {
+            "items": {
+                "name": "New Chapter",
+                "type": "vn.chapter",
+                "order": 9
+            }
+        },
+        "C2ED5DA26B4139418D6B4A489DAC2092E82C": {
+            "items": {
+                "name": "Scene 6",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 5
+            }
+        },
+        "6120B0BA6041A840292AAE835649F0CB4617": {
+            "items": {
+                "name": "Bila Reputasi Steven dengan Bosnya masih rendah",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "6AAF6E790698A9454C9AADB3D87EB8A873DA": {
+            "items": {
+                "name": "Telpon Bossnya",
+                "type": "vn.scene",
+                "parentId": "6120B0BA6041A840292AAE835649F0CB4617",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "3B21736E3E765841551A2ED407B30879FDDC": {
+            "items": {
+                "name": "Abaikan Bossnya dan lanjut ke sekolah",
+                "type": "vn.scene",
+                "parentId": "6120B0BA6041A840292AAE835649F0CB4617",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "535673EB33A45541F93927A3DB6092F65BD8": {
+            "items": {
+                "name": "Sorry bos, minggu depan udah ujian akhir nih, saya harus belajar.",
+                "type": "vn.scene",
+                "parentId": "6AAF6E790698A9454C9AADB3D87EB8A873DA",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 1
             }
@@ -3766,6 +3814,11 @@
                 "name": "Arvan",
                 "type": "vn.scene",
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+        "B440AFB894A2C34C8C2AA4165FE07F660695": {
+            "items": {
+                "name": "Oke deh, saya kerja minggu ini",
+                "type": "vn.scene",
+                "parentId": "6AAF6E790698A9454C9AADB3D87EB8A873DA",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 0
             }
@@ -3793,6 +3846,47 @@
                 "name": "Nggak Sibuk",
                 "type": "vn.scene",
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+        "36A2FF5C55B1494FA4384B179EC78C4E0C6E": {
+            "items": {
+                "name": "Bila reputasi Steven dengan Ibunya masih rendah",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "360639F52231B64A95291283D32A9EA208E3": {
+            "items": {
+                "name": "Baik ma",
+                "type": "vn.scene",
+                "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "A4E68A665593E24DCF886551E9A0FF5D63D0": {
+            "items": {
+                "name": "Mengabaikan ibunya dan berangkat ke sekolah",
+                "type": "vn.scene",
+                "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "4F3D5642763DB64C9E18CFF3F9927EA689B9": {
+            "items": {
+                "name": "Di Sekolah Jam Istirahat",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "8E33A2D14AC2724E882A12C693A5DF52386D": {
+            "items": {
+                "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 4
             }
@@ -3811,6 +3905,21 @@
                 "name": "Part 5",
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+
+        "565CACE2458A2243FF8A07B7294F0DC541ED": {
+            "items": {
+                "name": "Kerja kelompok sukses di rumah Steven",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 3
+            }
+        },
+        "49DBC23C16092541E91B1442F6C435234159": {
+            "items": {
+                "name": "Bila Steven belum pernah mengadakan Kerja Kelompok",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 5
             }
@@ -3820,6 +3929,11 @@
                 "name": "Oke,ngak sibuk",
                 "type": "vn.scene",
                 "parentId": "7EB097988A77D6406A3842A83BAB19510BBA",
+        "833CD8C7495DE5470369ADA6120A44A8A226": {
+            "items": {
+                "name": "Bisa",
+                "type": "vn.scene",
+                "parentId": "49DBC23C16092541E91B1442F6C435234159",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 0
             }
@@ -3828,6 +3942,102 @@
             "items": {
                 "name": "Arvan, Julius, Steven",
                 "type": "data_record",
+        "8072DDBE6C7EF545387BE7A708FA63BF48F5": {
+            "items": {
+                "name": "Sorry gue bener-bener gak bisa",
+                "type": "vn.scene",
+                "parentId": "49DBC23C16092541E91B1442F6C435234159",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "27AC2E3B68C43743A9187EE30A26DBCBB472": {
+            "items": {
+                "name": "Kerja Kelompok Kebut",
+                "type": "vn.scene",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 6
+            }
+        },
+        "7EE3AD3D6F5EA541537AD1074E5C85D51DCC": {
+            "items": {
+                "name": "Oke deh aku bantuin kamu",
+                "type": "vn.scene",
+                "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "F3720744211596425F7A4495F66EC8EC166F": {
+            "items": {
+                "name": "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
+                "type": "vn.scene",
+                "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "C9CF1B1B30D1B543F4080C2467DDCD1184D6": {
+            "items": {
+                "name": "Mengabaikan mereka berdua dan fokus ke pekerjaan Steven sendiri",
+                "type": "vn.scene",
+                "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "206383D0121DE440CC8BBDE8FD8FB549F0AC": {
+            "items": {
+                "name": "Berbicara kepada Julius",
+                "type": "vn.scene",
+                "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "EB1BF5CC5709F342CA6AA6299F3710854759": {
+            "items": {
+                "name": "Berbicara kepada Arvan",
+                "type": "vn.scene",
+                "parentId": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "D4CDF7D94BBF1347D258F824D60044E21E07": {
+            "items": {
+                "name": "Masih kok",
+                "type": "vn.scene",
+                "parentId": "206383D0121DE440CC8BBDE8FD8FB549F0AC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "A45C50CA410A534062186075020B4C48C1EF": {
+            "items": {
+                "name": "Nanti lu bakal tahu jawabannya",
+                "type": "vn.scene",
+                "parentId": "206383D0121DE440CC8BBDE8FD8FB549F0AC",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "DC79CAEC7685C5475C69ABE6C3DCFC29DCB8": {
+            "items": {
+                "name": "Bertanya kepada Aliyah apakah ada masalah",
+                "type": "vn.scene",
+                "parentId": "F3720744211596425F7A4495F66EC8EC166F",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "CC4AA81D40B4B54BA01849D27E07E67CEDE3": {
+            "items": {
+                "name": "Mengabaikan dia",
+                "type": "vn.scene",
+                "parentId": "F3720744211596425F7A4495F66EC8EC166F",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 1
             }
         }
