@@ -3411,7 +3411,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 4
+                "order": 6
             }
         },
         "E8A8528927ACE8418339E5683C8AFC60747E": {
@@ -3636,7 +3636,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 3
+                "order": 5
             }
         },
         "0914B1F73C13664E242AECF7372C844AEE28": {
@@ -3774,9 +3774,9 @@
             "items": {
                 "name": "Mengabaikan ibunya dan berangkat ke sekolah",
                 "type": "vn.scene",
-                "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 1
+                "order": 4
             }
         },
         "4F3D5642763DB64C9E18CFF3F9927EA689B9": {
@@ -3803,7 +3803,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 10
+                "order": 9
             }
         },
         "49DBC23C16092541E91B1442F6C435234159": {
@@ -3812,7 +3812,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 9
+                "order": 8
             }
         },
         "8072DDBE6C7EF545387BE7A708FA63BF48F5": {
@@ -3893,7 +3893,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 5
+                "order": 7
             }
         },
         "114748195629A34E466A519401DCF9E54D99": {
@@ -3919,6 +3919,69 @@
                 "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 2
+            }
+        },
+        "34FCD02E6AA32142495BD7A2FB58A46CE69E": {
+            "items": {
+                "name": "Ngak Sibuk kok",
+                "type": "vn.scene",
+                "parentId": "5200CCB330CFC54670380B046EB98F000E90",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "413CF1DA1F7A704D2178F6247702978D2B13": {
+            "items": {
+                "name": "L:ain x",
+                "type": "vn.scene",
+                "parentId": "5200CCB330CFC54670380B046EB98F000E90",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "947E3FAA1AA44742AC1A1C290F2E0BFB8CF2": {
+            "items": {
+                "name": "Tentu",
+                "type": "vn.scene",
+                "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "9F058D091AAF424FDC499B01FEA0B59ACE21": {
+            "items": {
+                "name": "Ngak salah",
+                "type": "vn.scene",
+                "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "0DD39F5C430FD44D0B195483526998E7BFC4": {
+            "items": {
+                "name": "Coba",
+                "type": "vn.scene",
+                "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "3ECA2EAB887C1146E42814A155F697F8F1C0": {
+            "items": {
+                "name": "Pertama maaf",
+                "type": "vn.scene",
+                "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 3
+            }
+        },
+        "C626C6D63EFF03427C19E01715B29C66CF80": {
+            "items": {
+                "name": "Lupain",
+                "type": "vn.scene",
+                "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 4
             }
         }
     }

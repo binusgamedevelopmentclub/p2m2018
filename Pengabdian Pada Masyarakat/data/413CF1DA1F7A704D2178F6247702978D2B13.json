@@ -1,0 +1,71 @@
+{
+    "uid": "413CF1DA1F7A704D2178F6247702978D2B13",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "L:ain x",
+        "parentId": "5200CCB330CFC54670380B046EB98F000E90",
+        "localizableStrings": {
+            "19C6D1D734722447AD29C635EB7762679EFC": {
+                "t": "Oke ko",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "C84473AD2F9374462A9A14677392BE080BD0"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "19C6D1D734722447AD29C635EB7762679EFC",
+                        "defaultText": "Oke ko"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "C84473AD2F9374462A9A14677392BE080BD0"
+            },
+            {
+                "id": "vn.ReturnToPreviousScene",
+                "params": {},
+                "indent": 0,
+                "uid": "B832C52C1670A74AB03A188570727CE76283"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uid": "947E3FAA1AA44742AC1A1C290F2E0BFB8CF2",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Tentu",
+        "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+        "localizableStrings": {
+            "9D5B528A544B924A2F19DD78F49A7A07FC7E": {
+                "t": "Tentu, menghajar orang lain itu kamu salah ya, tetapi aku juga bisa mengerti kok",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5"
+                }
+            },
+            "A0E5083D2CC7374A076A1BB2E8F9F312AC6A": {
+                "t": "Aku tahu sih aku salah, sekarang aku bingung langkah kedepanku apa? Apa langkah pertama yang harus ku lakukan",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9D5B528A544B924A2F19DD78F49A7A07FC7E",
+                        "defaultText": "Tentu, menghajar orang lain itu kamu salah ya, tetapi aku juga bisa mengerti kok"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A0E5083D2CC7374A076A1BB2E8F9F312AC6A",
+                        "defaultText": "Aku tahu sih aku salah, sekarang aku bingung langkah kedepanku apa? Apa langkah pertama yang harus ku lakukan"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ReturnToPreviousScene",
+                "params": {},
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

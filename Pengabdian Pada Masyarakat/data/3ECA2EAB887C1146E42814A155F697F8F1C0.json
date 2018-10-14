@@ -1,0 +1,69 @@
+{
+    "uid": "3ECA2EAB887C1146E42814A155F697F8F1C0",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Pertama maaf",
+        "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+        "localizableStrings": {
+            "0A40E2202494184E011B23C44C777F47C6B2": {
+                "t": "Pertama yang harus kamu lakukan, kamu datang ke rumah sakit dan minta maaf kepada ketiga orang itu.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0A40E2202494184E011B23C44C777F47C6B2",
+                        "defaultText": "Pertama yang harus kamu lakukan, kamu datang ke rumah sakit dan minta maaf kepada ketiga orang itu."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ReturnToPreviousScene",
+                "params": {},
+                "indent": 0,
+                "uid": "81350AA042947248DB58E7B139560E2AB4C1"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 3
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

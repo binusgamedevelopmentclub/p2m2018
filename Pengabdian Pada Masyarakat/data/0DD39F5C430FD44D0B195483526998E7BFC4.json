@@ -1,0 +1,109 @@
+{
+    "uid": "0DD39F5C430FD44D0B195483526998E7BFC4",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Coba",
+        "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+        "localizableStrings": {
+            "6336709712FCB643094A4712DAE5E95EE076": {
+                "t": "Coba, menurut kamu yang kamu lakukan benar atau salah?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5"
+                }
+            },
+            "611A12E03DDDE04BC83B82B81BE091D8C54B": {
+                "t": "Salah, harusnya aku gak kebawa emosi, aku benar-benar tak bisa mengendalikan diriku saat itu, Tapi aku sekarang bingung, apa langkah pertama yang harus kulakukan",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "868167655E1227400C2930B113007894EDB2"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6336709712FCB643094A4712DAE5E95EE076",
+                        "defaultText": "Coba, menurut kamu yang kamu lakukan benar atau salah?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "611A12E03DDDE04BC83B82B81BE091D8C54B",
+                        "defaultText": "Salah, harusnya aku gak kebawa emosi, aku benar-benar tak bisa mengendalikan diriku saat itu, Tapi aku sekarang bingung, apa langkah pertama yang harus kulakukan"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "868167655E1227400C2930B113007894EDB2"
+            },
+            {
+                "id": "vn.ReturnToPreviousScene",
+                "params": {},
+                "indent": 0,
+                "uid": "DB691D9D53635642581A3D09C0F328699E3C"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

@@ -1,11 +1,13 @@
 {
     "uid": "086B9DD78CC32247251938A6519235B8B081",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Kerja Kelompok di rumah",
+        "type": "vn.scene",
         "parentId": "5E322468563DF145CD5B15739D69D7AE1017",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "F8B1D1EA8AD66446665B01957C82462AF7DB": {
                 "t": "Kerja kelompok di rumah Steven.",
@@ -131,7 +133,6 @@
                 "d": null
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -769,16 +770,47 @@
                 },
                 "indent": 0,
                 "uid": "A625A0AD551432400E2973B5C192CEA7D6AF"
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 1,
+                        "vague": 1,
+                        "duration": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "DD82C0898BB9374F115BA5F8C7EFD62B261E"
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "5200CCB330CFC54670380B046EB98F000E90",
+                        "name": "Part 5"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "expanded": true
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 0
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

@@ -1,0 +1,137 @@
+{
+    "uid": "9F058D091AAF424FDC499B01FEA0B59ACE21",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Ngak salah",
+        "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+        "localizableStrings": {
+            "39232BAD3FD0C742B4285FA1134B241094A6": {
+                "t": "Nggak salah kok, mereka memang pantas kamu hajar. Liat sisi positifnya, sekarang mereka jadi tidak akan mengganggumu lagi",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5"
+                }
+            },
+            "A71FEA4A522F2248086950A62F84CFAFF0A6": {
+                "t": "Oke ko",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "D41E6DC55F6AB84D666B05134EB44564442E"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "39232BAD3FD0C742B4285FA1134B241094A6",
+                        "defaultText": "Nggak salah kok, mereka memang pantas kamu hajar. Liat sisi positifnya, sekarang mereka jadi tidak akan mengganggumu lagi"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A71FEA4A522F2248086950A62F84CFAFF0A6",
+                        "defaultText": "Oke ko"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D41E6DC55F6AB84D666B05134EB44564442E"
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 1,
+                        "vague": 1,
+                        "duration": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "6DFCD84E948CA84F6D0B2228E9C3BE4A1F34"
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "CBE684387224C8452B688E46990E31387EC9",
+                        "name": "Mengabaikan ibunya dan berangkat ke sekolah"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "C1A1CC0A16F5D349FF8AC5A95ED969D0D855",
+                "expanded": true
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

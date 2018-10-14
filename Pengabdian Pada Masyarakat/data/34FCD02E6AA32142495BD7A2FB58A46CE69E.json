@@ -1,0 +1,580 @@
+{
+    "uid": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Ngak Sibuk kok",
+        "parentId": "5200CCB330CFC54670380B046EB98F000E90",
+        "localizableStrings": {
+            "DA5580151DD2004B40480621ACC56BF78736": {
+                "t": "Nanti, abis makan aja, ke kamar aku ya, aku gak mau mama tahu soalnya",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839"
+                }
+            },
+            "A2423F313EE978404E89226451D680ACAF43": {
+                "t": "Oke",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "4783FD51457A84416D5B36F62E063536AFB4"
+                }
+            },
+            "2C6481927C6865455F6BF388A12E0953234D": {
+                "t": "Setelah makan, Steven pergi ke kamar Alvin",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "D10B2A845452F64B2A6BFE34AB4A8217965F"
+                }
+            },
+            "4B28F5384E51164BAE78A3977A2D36522FA7": {
+                "t": "Oke, jadinya mau cerita apa nih?Oke, jadinya mau cerita apa nih?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "462159308A9804451738452539448E2BE270"
+                }
+            },
+            "7450E75060F794445A498C33CB948E8EB508": {
+                "t": "Oke, jadinya begini, (Alvin menunjukan perutnya yang terkena bekas tonjokan). Aku waktu dibully sama kakak kelasku. Pelakunya ada 3 orang. Mereka tiap hari sejak aku masuk sekolah sering memalaki aku uang. Aku biasa hanya memberi uang ke mereka dan mereka tidak menggangguku lagi. Tetapi lama kelamaan mereka memalak dan mengganggu aku semakin sering. Nah hingga tadi, mereka memalak aku dan menghina kondisi ibu kita. Setelah itu, pikiranku langsung kosong. Tanpa sadar, aku menghajar mereka satu per satu. Dan sekarang, mereka babak belur dan sedang dirawat di rumah sakit. Aku sekarang bingung apa yang harus kulakukan. Aku mengerti mereka memang pantas aku hajar, tetapi dipikiranku yang lain aku menjadi sama seperti mereka. Sekarang aku nanya pendapatmu ko, menurutmu yang kulakukan itu salah atau nggak, haruskah aku minta maaf ke mereka? gimana caraku minta maaf ke mereka?",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "F9BEB652449A974F323AD2E11A0B6D18A78D"
+                }
+            },
+            "9CC17BE855844146A44B46B4C599D9A188E9": {
+                "t": "Oke, langkah selanjutnya gimana ko",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "7C4FB895567DB648736B90F608DD8E4482A4"
+                }
+            },
+            "87BA649B7F3BD44B2E7B3A4926FD315BB137": {
+                "t": "Setelah itu, kamu akan tahu sendiri langkah terbaik yang mana",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "B8C0B2AE287EB84282193297BDE5B6CEE13E"
+                }
+            },
+            "1FD50EC8059BE145B78B1135ECC9CA9DB9EB": {
+                "t": "Oke, makasih ko",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "33EBF62266AD54494D7BA396D2E7135F7543"
+                }
+            },
+            "02BA1CC92406C545555BC0310E71131E8411": {
+                "t": "Oke, koko mau tidur sekarang",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5714D4151AF39241AB7A0FC2714822493410"
+                }
+            },
+            "B6090DDF08EAB74E0959F026DEF9440027D6": {
+                "t": "Baik ko\n",
+                "d": {
+                    "cid": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "eid": "208D909520FF604869884055F112D62DD989"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DA5580151DD2004B40480621ACC56BF78736",
+                        "defaultText": "Nanti, abis makan aja, ke kamar aku ya, aku gak mau mama tahu soalnya"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A2423F313EE978404E89226451D680ACAF43",
+                        "defaultText": "Oke"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "4783FD51457A84416D5B36F62E063536AFB4"
+            },
+            {
+                "id": "vn.CharacterExitScene",
+                "params": {
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "easing": {
+                        "type": 1,
+                        "inOut": 0
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "CC0E781E12409444AD689AD8AD371AFCB099"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2C6481927C6865455F6BF388A12E0953234D",
+                        "defaultText": "Setelah makan, Steven pergi ke kamar Alvin"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D10B2A845452F64B2A6BFE34AB4A8217965F"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4B28F5384E51164BAE78A3977A2D36522FA7",
+                        "defaultText": "Oke, jadinya mau cerita apa nih?Oke, jadinya mau cerita apa nih?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "462159308A9804451738452539448E2BE270"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7450E75060F794445A498C33CB948E8EB508",
+                        "defaultText": "Oke, jadinya begini, (Alvin menunjukan perutnya yang terkena bekas tonjokan). Aku waktu dibully sama kakak kelasku. Pelakunya ada 3 orang. Mereka tiap hari sejak aku masuk sekolah sering memalaki aku uang. Aku biasa hanya memberi uang ke mereka dan mereka tidak menggangguku lagi. Tetapi lama kelamaan mereka memalak dan mengganggu aku semakin sering. Nah hingga tadi, mereka memalak aku dan menghina kondisi ibu kita. Setelah itu, pikiranku langsung kosong. Tanpa sadar, aku menghajar mereka satu per satu. Dan sekarang, mereka babak belur dan sedang dirawat di rumah sakit. Aku sekarang bingung apa yang harus kulakukan. Aku mengerti mereka memang pantas aku hajar, tetapi dipikiranku yang lain aku menjadi sama seperti mereka. Sekarang aku nanya pendapatmu ko, menurutmu yang kulakukan itu salah atau nggak, haruskah aku minta maaf ke mereka? gimana caraku minta maaf ke mereka?"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F9BEB652449A974F323AD2E11A0B6D18A78D"
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "843CF3925969474C4049CB714E215032C0FA"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Tentu, mengahajar orang lain itu kamu salah",
+                            "947E3FAA1AA44742AC1A1C290F2E0BFB8CF2"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "4A71F6DE13B4F1439C2989C646874EF71159"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Nggak salah kok, mereka memang pantas kamu hajar",
+                            "9F058D091AAF424FDC499B01FEA0B59ACE21"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "97FFF3BC745546454B6B73C69A6D229627E5"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Coba, menurut kamu yang kamu lakukan benar atau salah?",
+                            "0DD39F5C430FD44D0B195483526998E7BFC4"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "D1873A8D1009C14E7A393C9173400E95B54A"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "C677DB0407BEE3404478E4488942BB85551F"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Pertama yang harus kamu lakukan adalah minta maaf",
+                            "3ECA2EAB887C1146E42814A155F697F8F1C0"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "410118EB9A457344389A66340945BFFA61AA"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Sudah lupakan saja",
+                            ""
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "BBA3BD9037EDC641481A64F9DCC741DA2762"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "559F6A9754B205458019EB83D1989FAFED06"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9CC17BE855844146A44B46B4C599D9A188E9",
+                        "defaultText": "Oke, langkah selanjutnya gimana ko"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "7C4FB895567DB648736B90F608DD8E4482A4",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "87BA649B7F3BD44B2E7B3A4926FD315BB137",
+                        "defaultText": "Setelah itu, kamu akan tahu sendiri langkah terbaik yang mana"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "B8C0B2AE287EB84282193297BDE5B6CEE13E",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1FD50EC8059BE145B78B1135ECC9CA9DB9EB",
+                        "defaultText": "Oke, makasih ko"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "33EBF62266AD54494D7BA396D2E7135F7543",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "02BA1CC92406C545555BC0310E71131E8411",
+                        "defaultText": "Oke, koko mau tidur sekarang"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5714D4151AF39241AB7A0FC2714822493410",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B6090DDF08EAB74E0959F026DEF9440027D6",
+                        "defaultText": "Baik ko\n"
+                    },
+                    "position": 0,
+                    "characterId": "C6E5E96738A2A346DF4A3C6565FBCE5D2839",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "208D909520FF604869884055F112D62DD989",
+                "expanded": true
+            },
+            {
+                "id": "vn.ReturnToPreviousScene",
+                "params": {},
+                "indent": 0,
+                "uid": "C5F805387588214BB6099691CB2C88195C34"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0,
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

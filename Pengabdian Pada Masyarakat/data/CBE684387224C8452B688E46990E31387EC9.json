@@ -5,9 +5,9 @@
     "items": {
         "name": "Mengabaikan ibunya dan berangkat ke sekolah",
         "type": "vn.scene",
-        "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 1,
+        "order": 4,
         "livePreviewDisabled": false
     },
     "summary": [
