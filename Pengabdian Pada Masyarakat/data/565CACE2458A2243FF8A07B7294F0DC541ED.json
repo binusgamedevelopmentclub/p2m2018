@@ -1,11 +1,13 @@
 {
     "uid": "565CACE2458A2243FF8A07B7294F0DC541ED",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Kerja kelompok sukses di rumah Steven",
+        "type": "vn.scene",
         "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 3,
         "localizableStrings": {
             "CB33C4516F90E0490B3BBF79EBFBFE5990EC": {
                 "t": "Akhirnya selesai juga.",
@@ -57,7 +59,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -364,14 +365,12 @@
                 "uid": "011AB80784E4144F315A7674325FBE33C00B"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 3
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

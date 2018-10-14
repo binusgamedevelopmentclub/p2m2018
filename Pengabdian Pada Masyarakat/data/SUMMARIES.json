@@ -3839,9 +3839,9 @@
             "items": {
                 "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
                 "type": "vn.scene",
-                "parentId": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 0
+                "order": 4
             }
         },
         "565CACE2458A2243FF8A07B7294F0DC541ED": {
@@ -3859,7 +3859,7 @@
                 "type": "vn.scene",
                 "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 4
+                "order": 5
             }
         },
         "833CD8C7495DE5470369ADA6120A44A8A226": {
@@ -3886,7 +3886,7 @@
                 "type": "vn.scene",
                 "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 5
+                "order": 6
             }
         },
         "7EE3AD3D6F5EA541537AD1074E5C85D51DCC": {

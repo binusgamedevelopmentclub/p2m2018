@@ -1,11 +1,13 @@
 {
     "uid": "6120B0BA6041A840292AAE835649F0CB4617",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Bila Reputasi Steven dengan Bosnya masih rendah",
+        "type": "vn.scene",
         "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "A0F0A2B755B8754DD2493A78988845F28E94": {
                 "t": "Steven bangun tidur, kemudian dia cek hp dan mendapat message dari bosnya. Bosnya memerintahkan Steven untuk menelpon dia.",
@@ -14,7 +16,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -174,7 +175,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "stringVariables": [
             {
                 "name": "",
@@ -187,7 +187,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]
