@@ -1,0 +1,143 @@
+{
+    "uid": "2BEB46DF7627814AED2A5786EA3450551C30",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Scene 6",
+        "type": "vn.scene",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 12,
+        "livePreviewDisabled": false,
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "bedroom",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "1FF7123060320646B349D297AA73364730E0"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "80745631232A7442B84920E111B579F1BDC1",
+                        "defaultText": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "7AEF1FCE003DA6421598C2C798202DF6DF32",
+                "expanded": true
+            },
+            {
+                "id": "vn.CallScene",
+                "params": {
+                    "scene": {
+                        "uid": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
+                        "name": "Bila reputasi dengan boss rendah"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "0725B45F31A7364B281B7E7113BE330E307D"
+            }
+        ],
+        "localizableStrings": {
+            "80745631232A7442B84920E111B579F1BDC1": {
+                "t": "Deadline tugas akhir sudah mendekat. Sekarang saatnya Steven harus menyelesaikan tugas akhirnya bersama teman-temannya",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "7AEF1FCE003DA6421598C2C798202DF6DF32"
+                }
+            }
+        },
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "chapterUid",
+        "order"
+    ]
+}

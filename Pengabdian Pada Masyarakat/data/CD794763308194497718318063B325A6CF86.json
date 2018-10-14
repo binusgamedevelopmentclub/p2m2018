@@ -1,0 +1,158 @@
+{
+    "uid": "CD794763308194497718318063B325A6CF86",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "no kerja",
+        "parentId": "495269001B4DC34C162818C2A0B7FD808446",
+        "localizableStrings": {
+            "4338323684B26648195A6DE29A0C4AC54555": {
+                "t": "Ya sudahlah, berarti lu siap terima resiko gak gue gaji ya.",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "F151A2B448B1344BAD587D42F951B1195C66"
+                }
+            },
+            "FD07CDC76F5DE5411B2B67717C002BF21CD1": {
+                "t": "Iya saya siap.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "6FA7737D7A3F04411B18AF2342625435DB21"
+                }
+            },
+            "921CB3961C292847E35BD47473ED11487D14": {
+                "t": "Sip",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "EFA5922D268CD743D548A9174CD1D62C6593"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4338323684B26648195A6DE29A0C4AC54555",
+                        "defaultText": "Ya sudahlah, berarti lu siap terima resiko gak gue gaji ya."
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F151A2B448B1344BAD587D42F951B1195C66"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "FD07CDC76F5DE5411B2B67717C002BF21CD1",
+                        "defaultText": "Iya saya siap."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "6FA7737D7A3F04411B18AF2342625435DB21",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "921CB3961C292847E35BD47473ED11487D14",
+                        "defaultText": "Sip"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "EFA5922D268CD743D548A9174CD1D62C6593"
+            },
+            {
+                "id": "vn.CallScene",
+                "params": {
+                    "scene": {
+                        "uid": "4FE899F855A3A04A9E79BCC5D9D79CD32B79",
+                        "name": "Reputasi dengan ibu rendah"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

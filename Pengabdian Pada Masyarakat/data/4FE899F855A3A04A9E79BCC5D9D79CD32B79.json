@@ -1,57 +1,14 @@
 {
-    "uid": "8E33A2D14AC2724E882A12C693A5DF52386D",
+    "uid": "4FE899F855A3A04A9E79BCC5D9D79CD32B79",
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
+        "name": "Reputasi dengan ibu rendah",
         "type": "vn.scene",
         "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 4,
-        "localizableStrings": {
-            "0CA742A378A33545D928C3140A79A5B12BB1": {
-                "t": "Steven dan teman-temannya berkumpul untuk makan bersama di kantin.",
-                "d": {
-                    "cid": 0,
-                    "eid": "5D9B1DDD7F279744373A6D02C7D2E4344D19"
-                }
-            },
-            "BABB706F329ED3409C5B44E4975D2B6870AF": {
-                "t": "Oke, Tugas kita sudah bentar lagi selesai, gimana kalau kita mengadakan kerja kelompok lagi di tempat gue abis pulang sekolah.",
-                "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "F588ACC0477B344A32694BA6C8B915EF7700"
-                }
-            },
-            "BC741EF4502B414D287AA231D10648858F49": {
-                "t": "Siap",
-                "d": {
-                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
-                    "eid": "D99EEFF1770D1743617BC9689437EFB7D1C9"
-                }
-            },
-            "C386CDC91F793345FC382444611681847ADA": {
-                "t": "Okelah, biar kita selesaikan secepatnya",
-                "d": {
-                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
-                    "eid": "C83FDC9A9CE9874D6449E475B7978F14E0BF"
-                }
-            },
-            "B18505BC13802448417ADBA8B2EBFA228823": {
-                "t": "Okeh",
-                "d": {
-                    "cid": "9906D7102B31A946624989249F41BA986880",
-                    "eid": "2B3DE39B84938846674ACD341DC4046596D9"
-                }
-            },
-            "5BBAA3AB42C238421669DBD243F232B15738": {
-                "t": "Kriing bel berbunyi, Steven dan teman-temannya balik lagi ke kelas.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "271AD0AF682B154F016B8DE1990AD9B56321"
-                }
-            }
-        },
+        "order": 1,
+        "livePreviewDisabled": false,
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -60,7 +17,7 @@
                         "type": "scene"
                     },
                     "graphic": {
-                        "name": "StudentdormitoryInside_Morning",
+                        "name": "rumah2",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -98,8 +55,8 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "A10A1C8E9746D64F2A3869E9607298301291",
-                "indent": 0
+                "indent": 0,
+                "uid": "1F6E3FCD77C1B540730AF7244C80EC31B912"
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -107,13 +64,10 @@
                     "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
                     "parameters": {
                         "values": []
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
-                "uid": "8E11772937A79441CC684EE8B97B23F4E39D"
+                "uid": "7D5114EE909542413909EFA220B96B968AB4"
             },
             {
                 "id": "gs.ShowMessage",
@@ -132,11 +86,43 @@
                         }
                     },
                     "message": {
-                        "lcId": "0CA742A378A33545D928C3140A79A5B12BB1",
-                        "defaultText": "Steven dan teman-temannya berkumpul untuk makan bersama di kantin."
+                        "lcId": "9EDE655F69F7C44E826862E5E724749AF9E7",
+                        "defaultText": "Aku bersiap-siap untuk pergi ke sekolah. Saat aku ke ruang tamu, mama sedang menungguku."
                     },
                     "position": 0,
-                    "characterId": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A329DD56171908458F5B16F83320181D62FE",
+                        "defaultText": "Steven.."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -146,7 +132,7 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "5D9B1DDD7F279744373A6D02C7D2E4344D19"
+                "uid": "3286515D7518A146F5281483F539C0960861"
             },
             {
                 "id": "gs.ShowMessage",
@@ -165,8 +151,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "BABB706F329ED3409C5B44E4975D2B6870AF",
-                        "defaultText": "Oke, Tugas kita sudah bentar lagi selesai, gimana kalau kita mengadakan kerja kelompok lagi di tempat gue abis pulang sekolah."
+                        "lcId": "97AD91CC87FEC34B156827A89F0ED9BAE883",
+                        "defaultText": "Kenapa ma?"
                     },
                     "position": 0,
                     "characterId": "4934653409955547D72B6067BAF73ED679F5",
@@ -179,7 +165,7 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "F588ACC0477B344A32694BA6C8B915EF7700"
+                "uid": "CEA9E2BA9B04D44FF24B19A057B71462B0D5"
             },
             {
                 "id": "gs.ShowMessage",
@@ -198,11 +184,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "C386CDC91F793345FC382444611681847ADA",
-                        "defaultText": "Okelah, biar kita selesaikan secepatnya"
+                        "lcId": "B5A21A0869DAA2466C1A0C669FCE31D2816B",
+                        "defaultText": "Hari ini kamu gak usah ke sekolah dulu, kita harus ngomong."
                     },
                     "position": 0,
-                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -212,7 +198,7 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "C83FDC9A9CE9874D6449E475B7978F14E0BF"
+                "uid": "E546923134B5534A533B58752B8C6C6876ED"
             },
             {
                 "id": "gs.ShowMessage",
@@ -231,11 +217,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "BC741EF4502B414D287AA231D10648858F49",
-                        "defaultText": "Siap"
+                        "lcId": "FA7EEA684347574D1069C5B72FE42627CD83",
+                        "defaultText": "(Aku harus gimana nih?)"
                     },
                     "position": 0,
-                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -245,87 +231,104 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "D99EEFF1770D1743617BC9689437EFB7D1C9"
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "B18505BC13802448417ADBA8B2EBFA228823",
-                        "defaultText": "Okeh"
-                    },
-                    "position": 0,
-                    "characterId": "9906D7102B31A946624989249F41BA986880",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true,
-                "uid": "2B3DE39B84938846674ACD341DC4046596D9"
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "5BBAA3AB42C238421669DBD243F232B15738",
-                        "defaultText": "Kriing bel berbunyi, Steven dan teman-temannya balik lagi ke kelas."
-                    },
-                    "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true,
-                "uid": "271AD0AF682B154F016B8DE1990AD9B56321"
+                "uid": "CF81A38748503146C8187932FD0A964CC5F1"
             },
             {
                 "id": "gs.CallCommonEvent",
                 "params": {
-                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Menuruti kata mama.",
+                            "DDB7B6879CD1B343671A8531BCD1A5B96A37"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "281B135D413F944A986940D5148BE5575601"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Mengabaikan mama dan berangkat ke sekolah",
+                            "CBE684387224C8452B688E46990E31387EC9"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "4497D67B334F914FBC3BB866295F16392752"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
                     "parameters": {
                         "values": []
                     }
                 },
                 "indent": 0,
-                "uid": "FA9996568D0EB2459D7931E85A53B817399C"
+                "uid": "4E1C978A270FF948A119E7F1934A0AB78724"
             }
         ],
-        "livePreviewDisabled": false
+        "localizableStrings": {
+            "9EDE655F69F7C44E826862E5E724749AF9E7": {
+                "t": "Aku bersiap-siap untuk pergi ke sekolah. Saat aku ke ruang tamu, mama sedang menungguku.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
+                }
+            },
+            "A329DD56171908458F5B16F83320181D62FE": {
+                "t": "Steven..",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "3286515D7518A146F5281483F539C0960861"
+                }
+            },
+            "97AD91CC87FEC34B156827A89F0ED9BAE883": {
+                "t": "Kenapa ma?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "CEA9E2BA9B04D44FF24B19A057B71462B0D5"
+                }
+            },
+            "B5A21A0869DAA2466C1A0C669FCE31D2816B": {
+                "t": "Hari ini kamu gak usah ke sekolah dulu, kita harus ngomong.",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "E546923134B5534A533B58752B8C6C6876ED"
+                }
+            },
+            "FA7EEA684347574D1069C5B72FE42627CD83": {
+                "t": "(Aku harus gimana nih?)",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "CF81A38748503146C8187932FD0A964CC5F1"
+                }
+            }
+        },
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",

@@ -1,13 +1,13 @@
 {
-    "uid": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+    "uid": "3169FA2E619D024C16881082EDABFDA12491",
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Di Sekolah Jam Istirahat",
+        "name": "Abaikan",
         "type": "vn.scene",
-        "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
+        "parentId": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 4,
+        "order": 1,
         "livePreviewDisabled": false
     },
     "summary": [

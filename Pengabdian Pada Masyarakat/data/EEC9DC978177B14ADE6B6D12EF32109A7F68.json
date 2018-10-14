@@ -1,0 +1,197 @@
+{
+    "uid": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Bila reputasi dengan boss rendah",
+        "type": "vn.scene",
+        "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
+        "localizableStrings": {
+            "F0847CC1039C254E8E782E675D8E3A54D128": {
+                "t": "Steven bangun tidur, kemudian dia cek hp dan mendapat message dari bosnya. Bosnya memerintahkan Steven untuk menelpon dia",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
+                }
+            },
+            "DB05E39C03620341390AAAC939353D569D18": {
+                "t": "BIP BIP BIP BIP!!!",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
+                }
+            },
+            "017C64D44DAB6841BB480E09AC0B9E67A154": {
+                "t": "Hoam… Ada misscall dari bossku.. Sebaiknya aku..",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "C14F25087150E34CF5684241D3CCCFF19BD0"
+                }
+            }
+        },
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F0847CC1039C254E8E782E675D8E3A54D128",
+                        "defaultText": "Steven bangun tidur, kemudian dia cek hp dan mendapat message dari bosnya. Bosnya memerintahkan Steven untuk menelpon dia"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DB05E39C03620341390AAAC939353D569D18",
+                        "defaultText": "BIP BIP BIP BIP!!!"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "017C64D44DAB6841BB480E09AC0B9E67A154",
+                        "defaultText": "Hoam… Ada misscall dari bossku.. Sebaiknya aku.."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "C14F25087150E34CF5684241D3CCCFF19BD0"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Telepon Pak Sebastian",
+                            "495269001B4DC34C162818C2A0B7FD808446"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Abaikan Pak Sebastian dan lanjut ke sekolah",
+                            "4FE899F855A3A04A9E79BCC5D9D79CD32B79"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "2F2197AB84674645FF48FA23DDBC090E0BC6"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0
+            }
+        ],
+        "livePreviewDisabled": false,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "chapterUid",
+        "order"
+    ]
+}

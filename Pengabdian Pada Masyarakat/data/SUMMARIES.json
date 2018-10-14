@@ -3411,7 +3411,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 6
+                "order": 7
             }
         },
         "E8A8528927ACE8418339E5683C8AFC60747E": {
@@ -3636,7 +3636,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 5
+                "order": 6
             }
         },
         "0914B1F73C13664E242AECF7372C844AEE28": {
@@ -3774,45 +3774,45 @@
             "items": {
                 "name": "Mengabaikan ibunya dan berangkat ke sekolah",
                 "type": "vn.scene",
-                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "parentId": "4FE899F855A3A04A9E79BCC5D9D79CD32B79",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 4
+                "order": 0
             }
         },
         "4F3D5642763DB64C9E18CFF3F9927EA689B9": {
             "items": {
                 "name": "Di Sekolah Jam Istirahat",
                 "type": "vn.scene",
-                "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 2
+                "order": 4
             }
         },
         "8E33A2D14AC2724E882A12C693A5DF52386D": {
             "items": {
                 "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
                 "type": "vn.scene",
-                "parentId": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 0
+                "order": 4
             }
         },
         "565CACE2458A2243FF8A07B7294F0DC541ED": {
             "items": {
                 "name": "Kerja kelompok sukses di rumah Steven",
                 "type": "vn.scene",
-                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 9
+                "order": 4
             }
         },
         "49DBC23C16092541E91B1442F6C435234159": {
             "items": {
                 "name": "Bila Steven belum pernah mengadakan Kerja Kelompok",
                 "type": "vn.scene",
-                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 8
+                "order": 5
             }
         },
         "8072DDBE6C7EF545387BE7A708FA63BF48F5": {
@@ -3828,9 +3828,9 @@
             "items": {
                 "name": "Kerja Kelompok Kebut",
                 "type": "vn.scene",
-                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 10
+                "order": 6
             }
         },
         "7EE3AD3D6F5EA541537AD1074E5C85D51DCC": {
@@ -3893,7 +3893,7 @@
                 "type": "vn.scene",
                 "parentId": "49DC3EE6267197419859C9E4D23776294B50",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-                "order": 7
+                "order": 8
             }
         },
         "114748195629A34E466A519401DCF9E54D99": {
@@ -3982,6 +3982,96 @@
                 "parentId": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 4
+            }
+        },
+        "2BEB46DF7627814AED2A5786EA3450551C30": {
+            "items": {
+                "name": "Scene 6",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 12
+            }
+        },
+        "4FE899F855A3A04A9E79BCC5D9D79CD32B79": {
+            "items": {
+                "name": "Reputasi dengan ibu rendah",
+                "type": "vn.scene",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "EEC9DC978177B14ADE6B6D12EF32109A7F68": {
+            "items": {
+                "name": "Bila reputasi dengan boss rendah",
+                "type": "vn.scene",
+                "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "495269001B4DC34C162818C2A0B7FD808446": {
+            "items": {
+                "name": "Telepon",
+                "type": "vn.scene",
+                "parentId": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "3169FA2E619D024C16881082EDABFDA12491": {
+            "items": {
+                "name": "Abaikan",
+                "type": "vn.scene",
+                "parentId": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "2DFBE2EF75623043980AFA240421A19AB9BB": {
+            "items": {
+                "name": "Mau kerja",
+                "type": "vn.scene",
+                "parentId": "495269001B4DC34C162818C2A0B7FD808446",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "CD794763308194497718318063B325A6CF86": {
+            "items": {
+                "name": "no kerja",
+                "type": "vn.scene",
+                "parentId": "495269001B4DC34C162818C2A0B7FD808446",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "DDB7B6879CD1B343671A8531BCD1A5B96A37": {
+            "items": {
+                "name": "Ikut",
+                "type": "vn.scene",
+                "parentId": "4FE899F855A3A04A9E79BCC5D9D79CD32B79",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 2
+            }
+        },
+        "4BA6BAE15A66904A3A98E4A5259C67CD7D6D": {
+            "items": {
+                "name": "Ma, aku tidak akan meninggalkan mama, tetapi aku juga tidak bisa menomorsatukan mama",
+                "type": "vn.scene",
+                "parentId": "DDB7B6879CD1B343671A8531BCD1A5B96A37",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "913D2BE0380BF844C93A8B7120F32AB324BC": {
+            "items": {
+                "name": "Baik ma",
+                "type": "vn.scene",
+                "parentId": "DDB7B6879CD1B343671A8531BCD1A5B96A37",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
             }
         }
     }

@@ -5,10 +5,106 @@
     "items": {
         "name": "Mengabaikan ibunya dan berangkat ke sekolah",
         "type": "vn.scene",
-        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "parentId": "4FE899F855A3A04A9E79BCC5D9D79CD32B79",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 4,
-        "livePreviewDisabled": false
+        "order": 0,
+        "livePreviewDisabled": false,
+        "commands": [
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D55675AC1D9E274C9A89B95710C2B044253D",
+                        "defaultText": "STEVEN STEVEN STEVEEEEEEEEEEEN!!!!!!!"
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B9D558AF14A11141631ACD59B8A1EAB50949",
+                        "defaultText": "(Steven pergi menuju sekolah)"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "444306C67E86D34CAE2BD3469B02EB82D5D1"
+            },
+            {
+                "id": "vn.CallScene",
+                "params": {
+                    "scene": {
+                        "uid": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+                        "name": "Di Sekolah Jam Istirahat"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "EBF289EC4BA87349BE49FBD84681469272A2"
+            }
+        ],
+        "localizableStrings": {
+            "D55675AC1D9E274C9A89B95710C2B044253D": {
+                "t": "STEVEN STEVEN STEVEEEEEEEEEEEN!!!!!!!",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D"
+                }
+            },
+            "B9D558AF14A11141631ACD59B8A1EAB50949": {
+                "t": "(Steven pergi menuju sekolah)",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "444306C67E86D34CAE2BD3469B02EB82D5D1"
+                }
+            }
+        }
     },
     "summary": [
         "name",

@@ -1,121 +1,16 @@
 {
-    "uid": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+    "uid": "495269001B4DC34C162818C2A0B7FD808446",
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Kerja Kelompok Kebut",
+        "name": "Telepon",
         "type": "vn.scene",
-        "parentId": "2BEB46DF7627814AED2A5786EA3450551C30",
+        "parentId": "EEC9DC978177B14ADE6B6D12EF32109A7F68",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 6,
-        "localizableStrings": {
-            "9A33E6E77BE0A748433B1B13472521B17D4F": {
-                "t": "Setelah semua kumpul di rumah Steven, Steven dan teman-temannya masuk ke dalam kamar Steven.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "7BB4F053352BC746F03889F4B61391DA02F4"
-                }
-            },
-            "FADC8C032465B340AC98684748EBDAAECAD4": {
-                "t": "Aku udah pernah sih.",
-                "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "4D9D5FC63F12964C751A33335F1E15200DB6"
-                }
-            },
-            "DF2B47FA23966840975832216240B7AA904C": {
-                "t": "Gue juga sering.",
-                "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "76A7A675442DB94A8B8BF2B2E3542FB54143"
-                }
-            },
-            "F21279878D8FC7494759807639A4D711ED45": {
-                "t": "Aku sering.",
-                "d": {
-                    "cid": "9906D7102B31A946624989249F41BA986880",
-                    "eid": "9C4B5E0D49DFE5416A890D9533F5C4EE42E7"
-                }
-            },
-            "2149AF810637A4494829C8E868AAF143F46C": {
-                "t": "Oke, ini gue udah bawa buku sastranya, waktu kita benar-benar terbatas, sekarang kita mending langsung bagi tugas, disini ada yang udah pernah baca buku sastra belum?",
-                "d": {
-                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
-                    "eid": "65C088ED89F1F7453729ECA64AD7988A3D06"
-                }
-            },
-            "AF8535AE55205544C068BE8703158B660912": {
-                "t": "Gue butuh 1 orang untuk bantu gue nulis karya tulisnya sih, Bikin template dan lain-lain. Steven gimana kalau elu yang bantuin gue, biar mereka yang baca bukunya.",
-                "d": {
-                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
-                    "eid": "D7964ED92E8E164B442BCBD6DB2D3A684487"
-                }
-            }
-        },
+        "order": 0,
+        "livePreviewDisabled": false,
         "commands": [
             {
-                "id": "vn.ChangeBackground",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "graphic": {
-                        "name": "StudentdormitoryInside_Morning",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        }
-                    },
-                    "layer": 0,
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "blendMode": 0,
-                    "origin": 0,
-                    "zOrder": 0,
-                    "loopVertical": 0,
-                    "loopHorizontal": 0,
-                    "easing": {
-                        "type": 0,
-                        "inOut": 1
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "D7E134311DCF6749D38969B3A930DE71804A",
-                "indent": 0
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0,
-                "uid": "3FED0D7F0B5CF44CB30B1F617E9AD177C2D3"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -132,8 +27,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "9A33E6E77BE0A748433B1B13472521B17D4F",
-                        "defaultText": "Setelah semua kumpul di rumah Steven, Steven dan teman-temannya masuk ke dalam kamar Steven."
+                        "lcId": "3E4DFFB1041A984B1188A31339BD3B041F8C",
+                        "defaultText": "Tuut…..Tuuut….."
                     },
                     "position": 0,
                     "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
@@ -145,8 +40,7 @@
                     "animations": []
                 },
                 "indent": 0,
-                "expanded": true,
-                "uid": "7BB4F053352BC746F03889F4B61391DA02F4"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -165,11 +59,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "2149AF810637A4494829C8E868AAF143F46C",
-                        "defaultText": "Oke, ini gue udah bawa buku sastranya, waktu kita benar-benar terbatas, sekarang kita mending langsung bagi tugas, disini ada yang udah pernah baca buku sastra belum?"
+                        "lcId": "B830E74409433449996B38D42A4B83DB18EF",
+                        "defaultText": "Halo?"
                     },
                     "position": 0,
-                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -179,7 +73,7 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "65C088ED89F1F7453729ECA64AD7988A3D06"
+                "uid": "79DA82673700F54A88190215D40973417037"
             },
             {
                 "id": "gs.ShowMessage",
@@ -198,74 +92,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "F21279878D8FC7494759807639A4D711ED45",
-                        "defaultText": "Aku sering."
-                    },
-                    "position": 0,
-                    "characterId": "9906D7102B31A946624989249F41BA986880",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true,
-                "uid": "9C4B5E0D49DFE5416A890D9533F5C4EE42E7"
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "DF2B47FA23966840975832216240B7AA904C",
-                        "defaultText": "Gue juga sering."
-                    },
-                    "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true,
-                "uid": "76A7A675442DB94A8B8BF2B2E3542FB54143"
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "FADC8C032465B340AC98684748EBDAAECAD4",
-                        "defaultText": "Aku udah pernah sih."
+                        "lcId": "CB5D5242628AA84F757BD8649CB37E348380",
+                        "defaultText": "Halo, ini Steven pak, ada masalah apa?"
                     },
                     "position": 0,
                     "characterId": "4934653409955547D72B6067BAF73ED679F5",
@@ -278,7 +106,7 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "4D9D5FC63F12964C751A33335F1E15200DB6"
+                "uid": "1D202F7562F30440605BD226DDCB87037034"
             },
             {
                 "id": "gs.ShowMessage",
@@ -297,11 +125,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "AF8535AE55205544C068BE8703158B660912",
-                        "defaultText": "Gue butuh 1 orang untuk bantu gue nulis karya tulisnya sih, Bikin template dan lain-lain. Steven gimana kalau elu yang bantuin gue, biar mereka yang baca bukunya."
+                        "lcId": "CD16BF531DFE344AD9796E77A9EBEC6DC03F",
+                        "defaultText": "Hmmmmm, masalah ya.. gini deh, gue mau tanya ke elu, sebenarnya elu mau digaji atau nggak sih?"
                     },
                     "position": 0,
-                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -311,7 +139,73 @@
                 },
                 "indent": 0,
                 "expanded": true,
-                "uid": "D7964ED92E8E164B442BCBD6DB2D3A684487"
+                "uid": "42ADA7269FC9254A1C2B56924FA2B1BCA46A"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "72756A14506227485B88FE12FB6E03709215",
+                        "defaultText": "Mau dong, pak"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "0B0002980FCB364371994146BB8870C25CD3"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "92AA883C82555744901965C2E5E8A0808444",
+                        "defaultText": "Ohh mau, gue kirain lu udah gak mau digaji lagi, soalnya ini elu dari kemarin-kemarin masih aja belum bayar utang kerjalu. Gimana nih? kalau lu mau gue gaji, lu harus bayar dulu utang kerjanya. Gue kasih kesempatan nih, lu bayar utang kerja lu minggu ini, gimana?"
+                    },
+                    "position": 0,
+                    "characterId": "8241E7396CA36843495B36798F73C975C17F",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "55EE813A4F536447548B2BB2E417C258DA21"
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -319,13 +213,16 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Oke deh aku bantuin kamu",
-                            ""
+                            "Oke deh, saya kerja minggu ini",
+                            "2DFBE2EF75623043980AFA240421A19AB9BB"
                         ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
-                "uid": "AF773C7454831440CF282D41763B19700D69"
+                "uid": "E6B0BA0693DEB24D8D7BA6F218B0291EDD33"
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -333,13 +230,16 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Ya elah, cuman nulis doang nanti gue bantu dikit-dikit, gue maunya baca sastra cuy",
-                            ""
+                            "Sorry pak, minggu depan saya udah ujian akhir nih, saya harus belajar.",
+                            "CD794763308194497718318063B325A6CF86"
                         ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
-                "uid": "9FD2E67C275FB443D11B6A405AD504626C19"
+                "uid": "1E6365087E9A784C3F8A6FB6AB455C7984D7"
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -350,21 +250,59 @@
                     }
                 },
                 "indent": 0,
-                "uid": "8F2ABF0A81FAE948069877167B45C06040DD"
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
-                    "parameters": {
-                        "values": []
-                    }
-                },
-                "indent": 0,
-                "uid": "B7AF7A1F2A65A84D778A9104DF450F43195A"
+                "uid": "88720D6F45390541797A4155B0F9F0B73578"
             }
         ],
-        "livePreviewDisabled": false
+        "localizableStrings": {
+            "3E4DFFB1041A984B1188A31339BD3B041F8C": {
+                "t": "Tuut…..Tuuut…..",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810"
+                }
+            },
+            "CD16BF531DFE344AD9796E77A9EBEC6DC03F": {
+                "t": "Hmmmmm, masalah ya.. gini deh, gue mau tanya ke elu, sebenarnya elu mau digaji atau nggak sih?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "42ADA7269FC9254A1C2B56924FA2B1BCA46A"
+                }
+            },
+            "CB5D5242628AA84F757BD8649CB37E348380": {
+                "t": "Halo, ini Steven pak, ada masalah apa?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "1D202F7562F30440605BD226DDCB87037034"
+                }
+            },
+            "B830E74409433449996B38D42A4B83DB18EF": {
+                "t": "Halo?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "79DA82673700F54A88190215D40973417037"
+                }
+            },
+            "72756A14506227485B88FE12FB6E03709215": {
+                "t": "Mau dong, pak",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "0B0002980FCB364371994146BB8870C25CD3"
+                }
+            },
+            "92AA883C82555744901965C2E5E8A0808444": {
+                "t": "Ohh mau, gue kirain lu udah gak mau digaji lagi, soalnya ini elu dari kemarin-kemarin masih aja belum bayar utang kerjalu. Gimana nih? kalau lu mau gue gaji, lu harus bayar dulu utang kerjanya. Gue kasih kesempatan nih, lu bayar utang kerja lu minggu ini, gimana?",
+                "d": {
+                    "cid": "8241E7396CA36843495B36798F73C975C17F",
+                    "eid": "55EE813A4F536447548B2BB2E417C258DA21"
+                }
+            }
+        },
+        "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",

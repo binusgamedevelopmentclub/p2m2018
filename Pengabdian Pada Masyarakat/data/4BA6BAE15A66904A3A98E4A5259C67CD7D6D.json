@@ -1,0 +1,149 @@
+{
+    "uid": "4BA6BAE15A66904A3A98E4A5259C67CD7D6D",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Ma, aku tidak akan meninggalkan mama, tetapi aku juga tidak bisa menomorsatukan mama",
+        "parentId": "DDB7B6879CD1B343671A8531BCD1A5B96A37",
+        "localizableStrings": {
+            "8DF7A6966874114C9169BA98DA4889AABEFD": {
+                "t": "Kamu masih gak bisa mengerti juga ya perasaan mama (Shinta langsung berdiri dan pergi ke kamarnya dalam keadaan marah).",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "07B07F7153CAE1414D8897D5F2D66798AF66"
+                }
+            },
+            "7A620BBF61645248171BB7A38BE46F361D18": {
+                "t": "Kamu masih gak bisa mengerti juga ya perasaan mama (Shinta langsung berdiri dan pergi ke kamarnya dalam keadaan marah).",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "07B07F7153CAE1414D8897D5F2D66798AF66"
+                }
+            },
+            "1FE0A4B36142074BE29915162F793EB2B376": {
+                "t": "Kamu masih gak bisa mengerti juga ya perasaan mama (Shinta langsung berdiri dan pergi ke kamarnya dalam keadaan marah).",
+                "d": {
+                    "cid": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "eid": "07B07F7153CAE1414D8897D5F2D66798AF66"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "3AAD59B2865E7747F789D873B191DB16894E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1FE0A4B36142074BE29915162F793EB2B376",
+                        "defaultText": "Kamu masih gak bisa mengerti juga ya perasaan mama (Shinta langsung berdiri dan pergi ke kamarnya dalam keadaan marah)."
+                    },
+                    "position": 0,
+                    "characterId": "9EE12A561C6CE2486B9AE7F2E1B1A991340D",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 0
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "07B07F7153CAE1414D8897D5F2D66798AF66"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Mengetuk pintu kamar ibunya dan meminta maaf",
+                            "DB7F73BC6917694AAC2B2EF565EBC0A74A23"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "F337656E3854E74A052863B70CBCA5C20ADF"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Mengabaikan ibunya dan menunggu emosi ibunya mereda",
+                            "2C9A3D929660B64176498C873311B14176B8"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "42B43E59535385414C291D1714AE7755FF2A"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "DDBADF7A2A28D346258B21A8E101E4C09C8B"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "A8D2256031E36546D2399B017F847F6714F1"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
