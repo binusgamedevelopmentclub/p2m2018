@@ -1,10 +1,11 @@
 {
     "uid": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "Seluruh Kelas",
         "type": "data_record",
+        "order": 1,
         "category": "characters",
         "id": "DCBA416D4312C947CB3A46079CAD7D6DD0A0",
         "isFolder": false,
@@ -36,9 +37,15 @@
                     "cid": "31E514B338C68744ED180FD3C75E0DA35FE6",
                     "eid": "0DA224C31FEA124C5898E6C51ABB7EF015A5"
                 }
+            },
+            "CE9BB3B51812E844235BEB769E6B090FEDDA": {
+                "t": "Setelah sekian lama akhirnya bel pulang berbunyi. Ini hari pertamaku mencari nafkah sebagai penjaga warnet. Hari pertamaku, aku tidak boleh telat dong. Semangat, Steven! Kamu pasti sukses!",
+                "d": {
+                    "cid": 0,
+                    "eid": "EB83FCB93F4DA446E088047374C4518F02AE"
+                }
             }
         },
-        "order": 1,
         "parentId": "ROOT"
     },
     "summary": [

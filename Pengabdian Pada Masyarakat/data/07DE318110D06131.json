@@ -8,7 +8,7 @@
         "bundleId": "com.example.game",
         "version": "1.0.0",
         "description": "Describe your game. May be visible on app-store listings.",
-        "orientation": "any",
+        "orientation": "landscape",
         "author": {
             "email": "me@example.com",
             "website": "http://www.example.com",
@@ -693,7 +693,8 @@
                             {
                                 "name": "Choices",
                                 "index": 0,
-                                "scope": 1
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default"
                             },
                             {
                                 "name": "Choice Actions",

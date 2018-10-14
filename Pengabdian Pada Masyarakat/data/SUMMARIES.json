@@ -542,7 +542,7 @@
         },
         "BA77A09EK7F14A4C2BSA11BE8CC099F00810": {
             "items": {
-                "name": "",
+                "name": " ",
                 "type": "data_record",
                 "order": 0
             }
@@ -3395,14 +3395,14 @@
             "items": {
                 "name": "Pak Gilbert",
                 "type": "data_record",
-                "order": 2
+                "order": 3
             }
         },
         "DCBA416D4312C947CB3A46079CAD7D6DD0A0": {
             "items": {
                 "name": "Seluruh Kelas",
                 "type": "data_record",
-                "order": 1
+                "order": 2
             }
         },
         "318A5AB506EB0244434A27910166D538E6F7": {
@@ -3508,7 +3508,7 @@
             "items": {
                 "name": "Aliyah",
                 "type": "data_record",
-                "order": 3
+                "order": 4
             }
         },
         "D202F56F04B4F6465B9B41546AA29817E4B6": {
@@ -3529,7 +3529,7 @@
             "items": {
                 "name": "Steven",
                 "type": "data_record",
-                "order": 4
+                "order": 5
             }
         },
         "ABCAB50F37E0E84AF7588FF2F690FF15B895": {
@@ -3585,49 +3585,49 @@
             "items": {
                 "name": "Alvin",
                 "type": "data_record",
-                "order": 5
+                "order": 6
             }
         },
         "9906D7102B31A946624989249F41BA986880": {
             "items": {
                 "name": "Arvan",
                 "type": "data_record",
-                "order": 6
+                "order": 7
             }
         },
         "EA1AEA9A8729D64F4748CB86F1498F49383E": {
             "items": {
                 "name": "Keira",
                 "type": "data_record",
-                "order": 7
+                "order": 8
             }
         },
         "655FFB2788235442C38BF415315E43BC76B5": {
             "items": {
                 "name": "Julius",
                 "type": "data_record",
-                "order": 8
+                "order": 9
             }
         },
         "99FEED074D6EA247104BBB717129837827D4": {
             "items": {
                 "name": "Samuel",
                 "type": "data_record",
-                "order": 9
+                "order": 10
             }
         },
         "9EE12A561C6CE2486B9AE7F2E1B1A991340D": {
             "items": {
                 "name": "Shinta",
                 "type": "data_record",
-                "order": 10
+                "order": 11
             }
         },
         "8241E7396CA36843495B36798F73C975C17F": {
             "items": {
                 "name": "Sebastian",
                 "type": "data_record",
-                "order": 11
+                "order": 12
             }
         },
         "4F4D60EE61D115457F68F7B1820869BBA5DE": {
@@ -3735,6 +3735,99 @@
                 "type": "vn.scene",
                 "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "0D36BCF36813654C979AB26524106CAE7563": {
+            "items": {
+                "name": "Sebastian",
+                "type": "data_record",
+                "order": 9
+            }
+        },
+        "35D87D61820A584A7F69BE6135D53235A9DE": {
+            "items": {
+                "name": "Guru Bahasa Indonesia",
+                "type": "data_record",
+                "order": 13
+            }
+        },
+        "3F9697E66158C241A05BC208FBE14BC45B54": {
+            "items": {
+                "name": "Julius",
+                "type": "vn.scene",
+                "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "D4FF80BF584A25483A4A6F267DAB82E7F92E": {
+            "items": {
+                "name": "Arvan",
+                "type": "vn.scene",
+                "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "CBE684387224C8452B688E46990E31387EC9": {
+            "items": {
+                "name": "Aliyah",
+                "type": "vn.scene",
+                "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 3
+            }
+        },
+        "46482C6D6FF787402E18C6F45A154D9AC90C": {
+            "items": {
+                "name": "Sibuk",
+                "type": "vn.scene",
+                "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 3
+            }
+        },
+        "7EB097988A77D6406A3842A83BAB19510BBA": {
+            "items": {
+                "name": "Nggak Sibuk",
+                "type": "vn.scene",
+                "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 4
+            }
+        },
+        "086B9DD78CC32247251938A6519235B8B081": {
+            "items": {
+                "name": "Kerja Kelompok di rumah",
+                "type": "vn.scene",
+                "parentId": "5E322468563DF145CD5B15739D69D7AE1017",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "5200CCB330CFC54670380B046EB98F000E90": {
+            "items": {
+                "name": "Part 5",
+                "type": "vn.scene",
+                "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 5
+            }
+        },
+        "114748195629A34E466A519401DCF9E54D99": {
+            "items": {
+                "name": "Oke,ngak sibuk",
+                "type": "vn.scene",
+                "parentId": "7EB097988A77D6406A3842A83BAB19510BBA",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "55E4E24B65B3D24E732949930C50F6467A5F": {
+            "items": {
+                "name": "Arvan, Julius, Steven",
+                "type": "data_record",
                 "order": 1
             }
         }

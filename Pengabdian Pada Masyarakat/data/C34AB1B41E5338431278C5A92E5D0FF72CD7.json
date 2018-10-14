@@ -405,15 +405,16 @@
                         "name": "Scene 2"
                     },
                     "savePrevious": 0,
-                    "erasePictures": 0,
-                    "eraseTexts": 0,
-                    "eraseVideos": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
                     }
                 },
                 "uid": "EEC9BB399AD3034E3C987064880671E36E86",
-                "indent": 0
+                "indent": 0,
+                "expanded": true
             }
         ]
     },
