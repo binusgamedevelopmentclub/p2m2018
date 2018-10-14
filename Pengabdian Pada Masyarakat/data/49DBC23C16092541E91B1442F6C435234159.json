@@ -1,0 +1,463 @@
+{
+    "uid": "49DBC23C16092541E91B1442F6C435234159",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Bila Steven belum pernah mengadakan Kerja Kelompok",
+        "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+        "localizableStrings": {
+            "9212EC042BF2C74CFB1A8250E163BB629940": {
+                "t": "Pada saat bel berbunyi, Aliyah mendatangi Steven",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "224E7EB02528214F6B9AE9137AE3CC4F809E"
+                }
+            },
+            "55E223D225E52644994A6FB428CB10699C07": {
+                "t": "Steven, kita harus kumpul, gue tunggu di kantin ya.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "2CBC5145473ED247858B8CD067B876834567"
+                }
+            },
+            "1EE167166B5A9540E57B1714292A71E22699": {
+                "t": "Di kantin, Aliyah sudah mengumpulkan semua anggota kelompok.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "D8980EE12A1EE546627AF8A85DC957616950"
+                }
+            },
+            "2067118213038845261BD6716D8CD9966EF0": {
+                "t": "Oke.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "36080E4D42FE9443A3485B587C3D6621FC49"
+                }
+            },
+            "A03E3CBF6522434C0C5A60C4F4D4E9E61840": {
+                "t": "Gimana Steven? kamu bisa gak?",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "F348CCB6181A314E913A19E163E54CB92DFF"
+                }
+            },
+            "C38CD33521CF164F777847D209C6EEB280E8": {
+                "t": "Saya siap sih.",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "FBD5EE0322091741C949A60344C10EBFD249"
+                }
+            },
+            "66ECB08452D346493E2A70A1CAA87D4E78AA": {
+                "t": "Oke, berarti pulang sekolah kita harus kerja kelompok nih",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "7CFB20E2501F83411459D4214E64D5B94B1F"
+                }
+            },
+            "53FD2F2D5CA954411E1B8B1902B27DFC89D3": {
+                "t": "Oke guys, kita deadline sudah dekat, dan progress kita masih 0 persen.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "0527A59857E9A84F0339D0C4DBDB1FFC21C4"
+                }
+            }
+        },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "StudentdormitoryInside_Morning",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "99670FE84D99964CFF0A05628CE6835C64A4",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
+                    "parameters": {
+                        "values": []
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "A921BEDB98C2F549F648F70375E5AE410C16"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9212EC042BF2C74CFB1A8250E163BB629940",
+                        "defaultText": "Pada saat bel berbunyi, Aliyah mendatangi Steven"
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "224E7EB02528214F6B9AE9137AE3CC4F809E"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "55E223D225E52644994A6FB428CB10699C07",
+                        "defaultText": "Steven, kita harus kumpul, gue tunggu di kantin ya."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "2CBC5145473ED247858B8CD067B876834567"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2067118213038845261BD6716D8CD9966EF0",
+                        "defaultText": "Oke."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "36080E4D42FE9443A3485B587C3D6621FC49"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "1EE167166B5A9540E57B1714292A71E22699",
+                        "defaultText": "Di kantin, Aliyah sudah mengumpulkan semua anggota kelompok."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "D8980EE12A1EE546627AF8A85DC957616950"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "53FD2F2D5CA954411E1B8B1902B27DFC89D3",
+                        "defaultText": "Oke guys, kita deadline sudah dekat, dan progress kita masih 0 persen."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "0527A59857E9A84F0339D0C4DBDB1FFC21C4"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "66ECB08452D346493E2A70A1CAA87D4E78AA",
+                        "defaultText": "Oke, berarti pulang sekolah kita harus kerja kelompok nih"
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "7CFB20E2501F83411459D4214E64D5B94B1F"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C38CD33521CF164F777847D209C6EEB280E8",
+                        "defaultText": "Saya siap sih."
+                    },
+                    "position": 0,
+                    "characterId": "9906D7102B31A946624989249F41BA986880",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "FBD5EE0322091741C949A60344C10EBFD249"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A03E3CBF6522434C0C5A60C4F4D4E9E61840",
+                        "defaultText": "Gimana Steven? kamu bisa gak?"
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "expanded": true,
+                "uid": "F348CCB6181A314E913A19E163E54CB92DFF"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Bisa",
+                            "833CD8C7495DE5470369ADA6120A44A8A226"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "85B5F07B8C55B14291580D254553DFEA2616"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Sorry gue bener-bener gak bisa",
+                            "8072DDBE6C7EF545387BE7A708FA63BF48F5"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "D9D639855FDDE44E922BA94807CD51AC0191"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "C65B25A77110454D1938EE930C39496D5C6D"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "indent": 0,
+                "uid": "7A14C4F56D4C434024589C13C1AF7BC37AD0"
+            }
+        ],
+        "livePreviewDisabled": false,
+        "order": 4
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
