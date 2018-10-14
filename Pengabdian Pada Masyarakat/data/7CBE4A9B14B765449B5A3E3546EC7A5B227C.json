@@ -1,128 +1,65 @@
 {
-    "uid": "565CACE2458A2243FF8A07B7294F0DC541ED",
+    "uid": "7CBE4A9B14B765449B5A3E3546EC7A5B227C",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "Kerja kelompok sukses di rumah Steven",
         "type": "vn.scene",
-        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
-        "order": 10,
+        "name": "Sibuk",
+        "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
         "localizableStrings": {
-            "CB33C4516F90E0490B3BBF79EBFBFE5990EC": {
-                "t": "Akhirnya selesai juga.",
-                "d": {
-                    "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "86731DF20128B649618BD2D7F9B2FA613254"
-                }
-            },
-            "356A657E0735A8422E2B29676E2D4B52DD3A": {
-                "t": "Gue juga bantu cek deh.",
-                "d": {
-                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
-                    "eid": "40A7155A4EF77142416B14D1A8B0BC59980B"
-                }
-            },
-            "C6A2C236055F654EE15851F48712B90B1410": {
-                "t": "Aku mau cek dulu apa ada typo atau kata-kata yang kurang cocok.",
-                "d": {
-                    "cid": "9906D7102B31A946624989249F41BA986880",
-                    "eid": "4726EDE17323294FC51857D1C042AB633F24"
-                }
-            },
-            "E9F8356078046243AB590A112D9945CB3D34": {
-                "t": "Mantap",
+            "1C4C92995C3D1745C20ACCD33BB6D834CA24": {
+                "t": "Ohh Steven sibuk, berarti gak bisa hari ini ya, kita harus cari hari lain. Kita bikin grup line dulu aja ya, minta linenya kalian dong",
                 "d": {
                     "cid": "DDE3AB228F4B674B733859F7421416540EB7",
-                    "eid": "959B746761171442A84AF0B2703B47A030EF"
+                    "eid": "CBCA1B417911C743EB98C005ADEAB6AEBA44"
                 }
             },
-            "A34389A68F092845956AA53452A66DB8DE47": {
-                "t": "Bye.",
+            "3EFD7A63629D39436F590665E805CC2995B8": {
+                "t": "Oke",
+                "d": {
+                    "cid": "9906D7102B31A946624989249F41BA986880",
+                    "eid": "6CB126107E6C044DC78AEC98935306675F0E"
+                }
+            },
+            "003C60185F91A34E07299389135AD5ADA61A": {
+                "t": "Siap",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "09D4A2043894F346A32967D8BE8229D64CEF"
+                }
+            },
+            "4386D0B320CA2645C04B1389536FC8D99687": {
+                "t": "okey",
                 "d": {
                     "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "44BDE233637B4147769A3A4640AF23C2F285"
+                    "eid": "F501866F8749C8420F68E0881858A5039D13"
                 }
             },
-            "81B588D412525842E34A96734BFFF0FA8CA0": {
-                "t": "Aliyah, Arvan, dan Julius : Oke, Bye Steven",
+            "2A0EFB017D9A024D2178424009200BF416F5": {
+                "t": "Sip, Steven kalau kamu ada waktu untuk kerja kelompok, kasih tau di grup line aja ya, lu soalnya yang paling sibuk",
                 "d": {
-                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
-                    "eid": "592D37A36008D34D4D5858E98DAC568D1CC2"
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "092C85C77433324E160ACDA0F3627CFBC68F"
                 }
             },
-            "764012CA7C4EA74D44599EC810DF807489D6": {
-                "t": "Okeh, sampai ketemu besok ya guys. Hati-hati.",
+            "F40A479945EA88428368DE478B8B2F233C7C": {
+                "t": "Siap",
                 "d": {
                     "cid": "4934653409955547D72B6067BAF73ED679F5",
-                    "eid": "8B8DE01A1156E6480F386E723856B3BA41E8"
+                    "eid": "CD7E249F694F164004590CA9FE2DED697530"
+                }
+            },
+            "25619F16004CC248574A5A881892E44269A9": {
+                "t": "Oke diskusi selesai, balik ke tempat masing-masing",
+                "d": {
+                    "cid": "35D87D61820A584A7F69BE6135D53235A9DE",
+                    "eid": "676D36AF1B9FF340435887C680D74F796C57"
                 }
             }
         },
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
-                "id": "vn.ChangeBackground",
-                "params": {
-                    "viewport": {
-                        "type": "scene"
-                    },
-                    "graphic": {
-                        "name": "StudentdormitoryInside_Morning",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        }
-                    },
-                    "layer": 0,
-                    "duration": 0,
-                    "waitForCompletion": 0,
-                    "blendMode": 0,
-                    "origin": 0,
-                    "zOrder": 0,
-                    "loopVertical": 0,
-                    "loopHorizontal": 0,
-                    "easing": {
-                        "type": 0,
-                        "inOut": 1
-                    },
-                    "animation": {
-                        "type": 1,
-                        "movement": 0,
-                        "mask": {
-                            "graphic": null,
-                            "vague": 30
-                        }
-                    },
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "04CBCEC427435849F23AA046F77D1EA459BE",
-                "indent": 0
-            },
-            {
-                "id": "gs.CallCommonEvent",
-                "params": {
-                    "commonEventId": "3FC2C70568A4984D389A6A69669295952B9D",
-                    "parameters": {
-                        "values": []
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "indent": 0,
-                "uid": "53AB13365521F24ACC9A3C8094C6BA28DB0A"
-            },
-            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -139,41 +76,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "CB33C4516F90E0490B3BBF79EBFBFE5990EC",
-                        "defaultText": "Akhirnya selesai juga."
-                    },
-                    "position": 0,
-                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
-                    "partial": 0,
-                    "fieldFlags": {
-                        "duration": 1
-                    },
-                    "expressions": [],
-                    "animations": []
-                },
-                "indent": 0,
-                "expanded": true,
-                "uid": "86731DF20128B649618BD2D7F9B2FA613254"
-            },
-            {
-                "id": "gs.ShowMessage",
-                "params": {
-                    "waitForCompletion": 1,
-                    "duration": 15,
-                    "expressionId": null,
-                    "custom": {
-                        "object": {
-                            "x": 0,
-                            "y": 0,
-                            "size": {
-                                "width": 300,
-                                "height": 100
-                            }
-                        }
-                    },
-                    "message": {
-                        "lcId": "E9F8356078046243AB590A112D9945CB3D34",
-                        "defaultText": "Mantap"
+                        "lcId": "1C4C92995C3D1745C20ACCD33BB6D834CA24",
+                        "defaultText": "Ohh Steven sibuk, berarti gak bisa hari ini ya, kita harus cari hari lain. Kita bikin grup line dulu aja ya, minta linenya kalian dong"
                     },
                     "position": 0,
                     "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
@@ -184,9 +88,9 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "CBCA1B417911C743EB98C005ADEAB6AEBA44",
                 "indent": 0,
-                "expanded": true,
-                "uid": "959B746761171442A84AF0B2703B47A030EF"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -205,8 +109,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "C6A2C236055F654EE15851F48712B90B1410",
-                        "defaultText": "Aku mau cek dulu apa ada typo atau kata-kata yang kurang cocok."
+                        "lcId": "3EFD7A63629D39436F590665E805CC2995B8",
+                        "defaultText": "Oke"
                     },
                     "position": 0,
                     "characterId": "9906D7102B31A946624989249F41BA986880",
@@ -217,9 +121,9 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "6CB126107E6C044DC78AEC98935306675F0E",
                 "indent": 0,
-                "expanded": true,
-                "uid": "4726EDE17323294FC51857D1C042AB633F24"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -238,8 +142,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "356A657E0735A8422E2B29676E2D4B52DD3A",
-                        "defaultText": "Gue juga bantu cek deh."
+                        "lcId": "003C60185F91A34E07299389135AD5ADA61A",
+                        "defaultText": "Siap"
                     },
                     "position": 0,
                     "characterId": "655FFB2788235442C38BF415315E43BC76B5",
@@ -250,9 +154,9 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "09D4A2043894F346A32967D8BE8229D64CEF",
                 "indent": 0,
-                "expanded": true,
-                "uid": "40A7155A4EF77142416B14D1A8B0BC59980B"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -271,8 +175,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "764012CA7C4EA74D44599EC810DF807489D6",
-                        "defaultText": "Okeh, sampai ketemu besok ya guys. Hati-hati."
+                        "lcId": "4386D0B320CA2645C04B1389536FC8D99687",
+                        "defaultText": "okey"
                     },
                     "position": 0,
                     "characterId": "4934653409955547D72B6067BAF73ED679F5",
@@ -283,9 +187,9 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "F501866F8749C8420F68E0881858A5039D13",
                 "indent": 0,
-                "expanded": true,
-                "uid": "8B8DE01A1156E6480F386E723856B3BA41E8"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -304,11 +208,11 @@
                         }
                     },
                     "message": {
-                        "lcId": "81B588D412525842E34A96734BFFF0FA8CA0",
-                        "defaultText": "Aliyah, Arvan, dan Julius : Oke, Bye Steven"
+                        "lcId": "2A0EFB017D9A024D2178424009200BF416F5",
+                        "defaultText": "Sip, Steven kalau kamu ada waktu untuk kerja kelompok, kasih tau di grup line aja ya, lu soalnya yang paling sibuk"
                     },
                     "position": 0,
-                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -316,9 +220,9 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "092C85C77433324E160ACDA0F3627CFBC68F",
                 "indent": 0,
-                "expanded": true,
-                "uid": "592D37A36008D34D4D5858E98DAC568D1CC2"
+                "expanded": true
             },
             {
                 "id": "gs.ShowMessage",
@@ -337,8 +241,8 @@
                         }
                     },
                     "message": {
-                        "lcId": "A34389A68F092845956AA53452A66DB8DE47",
-                        "defaultText": "Bye."
+                        "lcId": "F40A479945EA88428368DE478B8B2F233C7C",
+                        "defaultText": "Siap"
                     },
                     "position": 0,
                     "characterId": "4934653409955547D72B6067BAF73ED679F5",
@@ -349,28 +253,78 @@
                     "expressions": [],
                     "animations": []
                 },
+                "uid": "CD7E249F694F164004590CA9FE2DED697530",
                 "indent": 0,
-                "expanded": true,
-                "uid": "44BDE233637B4147769A3A4640AF23C2F285"
+                "expanded": true
             },
             {
-                "id": "gs.CallCommonEvent",
+                "id": "gs.ShowMessage",
                 "params": {
-                    "commonEventId": "EA06470D8140964F0749A8D76577A39B05E1",
-                    "parameters": {
-                        "values": []
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "25619F16004CC248574A5A881892E44269A9",
+                        "defaultText": "Oke diskusi selesai, balik ke tempat masing-masing"
+                    },
+                    "position": 0,
+                    "characterId": "35D87D61820A584A7F69BE6135D53235A9DE",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "676D36AF1B9FF340435887C680D74F796C57",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "318A5AB506EB0244434A27910166D538E6F7",
+                        "name": "Scene 4"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
+                "uid": "03B8684A6309284DEC5972D2631771DE89BE",
                 "indent": 0,
-                "uid": "011AB80784E4144F315A7674325FBE33C00B"
+                "expanded": true
             }
         ],
-        "livePreviewDisabled": false
+        "livePreviewDisabled": false,
+        "order": 2,
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",
         "type",
         "parentId",
+        "o",
         "chapterUid",
         "order"
     ]

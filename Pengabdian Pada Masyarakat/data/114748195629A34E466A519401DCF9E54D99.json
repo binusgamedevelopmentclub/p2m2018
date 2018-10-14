@@ -1,11 +1,13 @@
 {
     "uid": "114748195629A34E466A519401DCF9E54D99",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Oke,ngak sibuk",
+        "type": "vn.scene",
         "parentId": "7EB097988A77D6406A3842A83BAB19510BBA",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "E18EEEFF7EA1A545E83A4FE07A00EC46F09C": {
                 "t": "Oke diskusi selesai, balik ke tempat masing-masing",
@@ -15,7 +17,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.ShowMessage",
@@ -113,7 +114,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "booleanVariables": [
             {
                 "name": "",
@@ -133,7 +133,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

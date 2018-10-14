@@ -1,11 +1,13 @@
 {
     "uid": "49DBC23C16092541E91B1442F6C435234159",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Bila Steven belum pernah mengadakan Kerja Kelompok",
-        "parentId": "C2ED5DA26B4139418D6B4A489DAC2092E82C",
+        "type": "vn.scene",
+        "parentId": "49DC3EE6267197419859C9E4D23776294B50",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 9,
         "localizableStrings": {
             "9212EC042BF2C74CFB1A8250E163BB629940": {
                 "t": "Pada saat bel berbunyi, Aliyah mendatangi Steven",
@@ -64,7 +66,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -449,14 +450,12 @@
                 "uid": "7A14C4F56D4C434024589C13C1AF7BC37AD0"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 4
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

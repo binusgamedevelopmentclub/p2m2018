@@ -1,11 +1,13 @@
 {
     "uid": "8E33A2D14AC2724E882A12C693A5DF52386D",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Bila reputasi Steven dengan boss dan ibunya baik, dan sudah mengadakan kerja kelompok dengan teman-temannya",
+        "type": "vn.scene",
         "parentId": "4F3D5642763DB64C9E18CFF3F9927EA689B9",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "0CA742A378A33545D928C3140A79A5B12BB1": {
                 "t": "Steven dan teman-temannya berkumpul untuk makan bersama di kantin.",
@@ -50,7 +52,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -324,14 +325,12 @@
                 "uid": "FA9996568D0EB2459D7931E85A53B817399C"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 0
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]
