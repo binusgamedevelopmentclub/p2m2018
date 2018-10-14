@@ -123,7 +123,7 @@
                     "smallCaps": 0,
                     "underline": 0,
                     "strikeThrough": 0,
-                    "autoErase": 0,
+                    "autoErase": 1,
                     "waitAtEnd": 1,
                     "font": "Verdana",
                     "size": 40,
@@ -525,8 +525,8 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "",
-                            "97EC2597256C05406A68E895E6D51608B318"
+                            "Boleh, terima kasih.",
+                            "38FD90134D540941D299E11592EE9533962D"
                         ]
                     },
                     "previewBackground": {
@@ -542,8 +542,8 @@
                     "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
                     "parameters": {
                         "values": [
-                            "Membiarkan dia makan sendiri",
-                            "CF4C125983C2214DA658B643A3929E6ACA78"
+                            "Tidak usah, aku lagi tidak haus, makasih.",
+                            "6D1B9F2928E013449A0BC7B9E43212C408A6"
                         ]
                     },
                     "previewBackground": {

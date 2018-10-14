@@ -6,9 +6,1119 @@
         "type": "vn.scene",
         "name": "Minum Cola",
         "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
+        "localizableStrings": {
+            "2C7E9DFD2B8C084C3138E2016AED47CB795D": {
+                "t": "Boleh, terima kasih.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "4E0199223199A8403F8A08F5ABF37BC7635A"
+                }
+            },
+            "E0701A67733F684A8349EFE446C86A956FFA": {
+                "t": "(minum seteguk) Jadi, dari perkenalan lu tadi, lu berharap bisa temenan sama semua orang?",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "5E687A5E1132924892686D057F2A493537FD"
+                }
+            },
+            "9452BA667BF1C846320A1277AFB07BD1093E": {
+                "t": " Ya itu harapanku sih.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "03BE0137551E8340EA2BE4D48EF120474A91"
+                }
+            },
+            "474C6AE43E4B4241577B78C265F8960CD434": {
+                "t": "Boleh gak, gue tau kenapa?",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "96225D89214D7344414A74D53E13D21DD1D7"
+                }
+            },
+            "B072062A102C52428A79DCE14827D3F8EA00": {
+                "t": " Dari dulu aku gak pernah punya temen soalnya",
+                "d": {
+                    "eid": "3E6671F81A9B4445FC69D0E7A1EB61AEE222"
+                }
+            },
+            "946DC4A41D6E694A13695F75BB604D40A523": {
+                "t": "Gak ada alasan sih, cuman pengen punya banyak teman",
+                "d": {
+                    "eid": "4ACE619F773AF14F353B7E97D3571093B3A8"
+                }
+            },
+            "E7597DFA7E2EB34B59385ED6D9E42B890DB5": {
+                "t": " Dari dulu aku gak pernah punya temen soalnya.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "5394D40B41D2844791291643355BC04EFCAD"
+                }
+            },
+            "62A349AF05A40040245BB9C8BFF7F09C5F44": {
+                "t": "Wow, gak pernah punya temen, kok bisa?",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "37EF06B460718446D76BB3B8A1BE5A24C3B7"
+                }
+            },
+            "717EABCB8078824B309B5E41726B2BA1AEC4": {
+                "t": "Pendiem? gapapa kok, nih nomor HP gue sama line gue, gue bakal jadi teman pertama lu.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "EA8AB8B681EE5343564A1618228ABC371E96"
+                }
+            },
+            "078A49A76AC1C34A624834B4C3F7C1E48432": {
+                "t": "...",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "2F2012DD6554244F095898E572B69D70C4A1"
+                }
+            },
+            "29CD4F1186C0E9438A8B64050DF674616BAB": {
+                "t": "Eh maaf, tarik kata gue, gue gak bermaksud membahas ke arah itu.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "3EC79EA4148B5342C12AFB369AE58ADE3D4E"
+                }
+            },
+            "81BE5E168037624636895F7578BE69566BBD": {
+                "t": "Gapapa kok, tapi untuk jawab pertanyaanmu, yang bisa kukasih tau sekarang adalah aku orangnya pendiem.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "8863BBC55CECD34C963BFE189B12A8CF39E5"
+                }
+            },
+            "6ECC66C26DCEC748FC5BC251CF570394DA58": {
+                "t": "Gak ada alasan sih, cuman pengen punya banyak teman.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "595CC89A8915764581186D4965AB1D3AC937"
+                }
+            },
+            "A2E3EF6A3D73F64EE97AF5F90FD6152DC85D": {
+                "t": "Ya nanti lu bakal rasain sendiri lah, nih nomor HP sama lone gue.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "B390D2C07758764BCC797326FC0E44BC4267"
+                }
+            },
+            "CB6E2E9E81B8084BED78DC12EBA24FEF5FBB": {
+                "t": "Ya mungkin nanti aku bakal ngerasain, hehe.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "B0C7981A623CD34CBB488D1229551060EA9D"
+                }
+            },
+            "A3AAFBC9219BB54CA78BC2A9477C9FF0B884": {
+                "t": "Percaya deh, punya banyak temen juga gak enak, gue udah pernah ngalamin soalnya.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "48F1DF9118A4F543F21A0EF817546B5E6DA8"
+                }
+            },
+            "B7F780AE2689E047937863302FF1FCC26DDC": {
+                "t": "Udah mau masuk kelas lagi nih, aku mau ke toilet dulu.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "A9D66D8D288B824B525B0C821D0EB362815F"
+                }
+            },
+            "F15F34F51354834C6218A8850740C5BD8AFD": {
+                "t": "Ya nanti lu bakal rasain sendiri lah, nih nomor HP sama lone gue.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "448B9AA9653A874C428B79119441A2E4A02B"
+                }
+            },
+            "62313EF74879554C2E8B03611B793BD09D2D": {
+                "t": "Nanti kita lanjutin obrolan kita di lone yah.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "A33F6D1F0EF76446BE1BFEB4805CB0301A02"
+                }
+            },
+            "41226CB973D7644E163BF7356958B826D0A6": {
+                "t": "Aku pun kembali ke kelas. Tak lama kemudian, Aliyah pun kembali dengan teman-temannya dan mereka dan duduk di tempatnya masing-masing. Guru selanjutnya masuk ke kelas dan kami melanjutkan pelajaran.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "FD4B6C1C73A0084E9B1A4F97A69F75985D0A"
+                }
+            },
+            "D1E01F7880ADE54398691A92D0CE7FCDE571": {
+                "t": "Sip, makasih yah.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "D9AE7DC4706EA24BA22B91B496C5817DC5E4"
+                }
+            }
+        },
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning2",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "7992BC4B5B427748A37A152314868C572BA7",
+                "indent": 0
+            },
+            {
+                "id": "gs.MessageSettings",
+                "params": {
+                    "useCharacterColor": 0,
+                    "paragraphSpacing": 0,
+                    "backlog": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "linePadding": 6,
+                    "lineHeight": 0,
+                    "lineSpacing": 0,
+                    "smallCaps": 0,
+                    "underline": 0,
+                    "strikeThrough": 0,
+                    "autoErase": 1,
+                    "waitAtEnd": 1,
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 0,
+                    "outlineSize": 4,
+                    "shadow": 0,
+                    "shadowOffsetX": 1,
+                    "shadowOffsetY": 1,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "autoErase": 0,
+                        "waitAtEnd": 1,
+                        "backlog": 1,
+                        "font": 1,
+                        "size": 1,
+                        "color": 1,
+                        "useCharacterColor": 1,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineHeight": 1,
+                        "lineSpacing": 1,
+                        "linePadding": 1,
+                        "paragraphSpacing": 1,
+                        "outline": 1,
+                        "outlineColor": 1,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "AE1F9ECA345FE04CD11B2B279E53308FEF2A",
+                "expanded": false
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "2C7E9DFD2B8C084C3138E2016AED47CB795D",
+                        "defaultText": "Boleh, terima kasih."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "4E0199223199A8403F8A08F5ABF37BC7635A",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E0701A67733F684A8349EFE446C86A956FFA",
+                        "defaultText": "(minum seteguk) Jadi, dari perkenalan lu tadi, lu berharap bisa temenan sama semua orang?"
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5E687A5E1132924892686D057F2A493537FD",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9452BA667BF1C846320A1277AFB07BD1093E",
+                        "defaultText": " Ya itu harapanku sih."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "03BE0137551E8340EA2BE4D48EF120474A91",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "474C6AE43E4B4241577B78C265F8960CD434",
+                        "defaultText": "Boleh gak, gue tau kenapa?"
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "96225D89214D7344414A74D53E13D21DD1D7",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "078A49A76AC1C34A624834B4C3F7C1E48432",
+                        "defaultText": "..."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "2F2012DD6554244F095898E572B69D70C4A1",
+                "expanded": true
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "lonely",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "B072062A102C52428A79DCE14827D3F8EA00",
+                        "defaultText": " Dari dulu aku gak pernah punya temen soalnya"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "3E6671F81A9B4445FC69D0E7A1EB61AEE222",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "alasan",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "946DC4A41D6E694A13695F75BB604D40A523",
+                        "defaultText": "Gak ada alasan sih, cuman pengen punya banyak teman"
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "4ACE619F773AF14F353B7E97D3571093B3A8",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "96FF566E1250D24B88683CD6C47A7EB7A432",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "lonely"
+                },
+                "indent": 0,
+                "uid": "7F26E6100450504DC289C77474BF1CA6BE6F"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E7597DFA7E2EB34B59385ED6D9E42B890DB5",
+                        "defaultText": " Dari dulu aku gak pernah punya temen soalnya."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "5394D40B41D2844791291643355BC04EFCAD",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "62A349AF05A40040245BB9C8BFF7F09C5F44",
+                        "defaultText": "Wow, gak pernah punya temen, kok bisa?"
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "37EF06B460718446D76BB3B8A1BE5A24C3B7",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "29CD4F1186C0E9438A8B64050DF674616BAB",
+                        "defaultText": "Eh maaf, tarik kata gue, gue gak bermaksud membahas ke arah itu."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "3EC79EA4148B5342C12AFB369AE58ADE3D4E",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "81BE5E168037624636895F7578BE69566BBD",
+                        "defaultText": "Gapapa kok, tapi untuk jawab pertanyaanmu, yang bisa kukasih tau sekarang adalah aku orangnya pendiem."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "8863BBC55CECD34C963BFE189B12A8CF39E5",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "717EABCB8078824B309B5E41726B2BA1AEC4",
+                        "defaultText": "Pendiem? gapapa kok, nih nomor HP gue sama line gue, gue bakal jadi teman pertama lu."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "EA8AB8B681EE5343564A1618228ABC371E96",
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjoot",
+                    "target": "activeContext"
+                },
+                "uid": "BA867BF93B9CC54BAF29FA01A1457923FF51",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "alasan"
+                },
+                "indent": 0,
+                "uid": "447BAEA98C0D3340419BB924FEB65E0755E4"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6ECC66C26DCEC748FC5BC251CF570394DA58",
+                        "defaultText": "Gak ada alasan sih, cuman pengen punya banyak teman."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "595CC89A8915764581186D4965AB1D3AC937",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A3AAFBC9219BB54CA78BC2A9477C9FF0B884",
+                        "defaultText": "Percaya deh, punya banyak temen juga gak enak, gue udah pernah ngalamin soalnya."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "48F1DF9118A4F543F21A0EF817546B5E6DA8",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "CB6E2E9E81B8084BED78DC12EBA24FEF5FBB",
+                        "defaultText": "Ya mungkin nanti aku bakal ngerasain, hehe."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "B0C7981A623CD34CBB488D1229551060EA9D",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A2E3EF6A3D73F64EE97AF5F90FD6152DC85D",
+                        "defaultText": "Ya nanti lu bakal rasain sendiri lah, nih nomor HP sama lone gue."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "B390D2C07758764BCC797326FC0E44BC4267",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F15F34F51354834C6218A8850740C5BD8AFD",
+                        "defaultText": "Ya nanti lu bakal rasain sendiri lah, nih nomor HP sama lone gue."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "448B9AA9653A874C428B79119441A2E4A02B",
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "Lanjoot",
+                    "target": "activeContext"
+                },
+                "uid": "65C2495B4D2A304311292468988DEABEF6E4",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Lanjoot"
+                },
+                "indent": 0,
+                "uid": "9978A9E238F28843B7897E531D87ECD25B69"
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "B7F780AE2689E047937863302FF1FCC26DDC",
+                        "defaultText": "Udah mau masuk kelas lagi nih, aku mau ke toilet dulu."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A9D66D8D288B824B525B0C821D0EB362815F",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "62313EF74879554C2E8B03611B793BD09D2D",
+                        "defaultText": "Nanti kita lanjutin obrolan kita di lone yah."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "A33F6D1F0EF76446BE1BFEB4805CB0301A02",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "D1E01F7880ADE54398691A92D0CE7FCDE571",
+                        "defaultText": "Sip, makasih yah."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "D9AE7DC4706EA24BA22B91B496C5817DC5E4",
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Classroom1_Morning2",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "2A01994927577540F668AD27B45316B0436C",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "41226CB973D7644E163BF7356958B826D0A6",
+                        "defaultText": "Aku pun kembali ke kelas. Tak lama kemudian, Aliyah pun kembali dengan teman-temannya dan mereka dan duduk di tempatnya masing-masing. Guru selanjutnya masuk ke kelas dan kami melanjutkan pelajaran."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "FD4B6C1C73A0084E9B1A4F97A69F75985D0A",
+                "expanded": true
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "FE390D9A24830947B65A3E9254B8EE717AF7",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                        "name": "Scene 2"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D7CE13C457A96248046A30F1C54945C59EE7",
+                "indent": 0
+            }
+        ],
         "livePreviewDisabled": false,
-        "order": 0
+        "order": 0,
+        "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",
