@@ -1,0 +1,21 @@
+{
+    "uid": "CC4AA81D40B4B54BA01849D27E07E67CEDE3",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Mengabaikan dia",
+        "parentId": "F3720744211596425F7A4495F66EC8EC166F",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

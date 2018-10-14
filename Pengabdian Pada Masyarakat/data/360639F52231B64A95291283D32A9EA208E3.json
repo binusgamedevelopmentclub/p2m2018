@@ -1,0 +1,21 @@
+{
+    "uid": "360639F52231B64A95291283D32A9EA208E3",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Baik ma",
+        "parentId": "36A2FF5C55B1494FA4384B179EC78C4E0C6E",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}
