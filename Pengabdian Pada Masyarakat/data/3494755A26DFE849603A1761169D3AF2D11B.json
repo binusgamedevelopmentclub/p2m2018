@@ -44,6 +44,20 @@
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "93E5FCAB205AC24BAF39722188217C113138"
                 }
+            },
+            "AFDFB6E543ED1741DD398BA6F0F0A37A60E2": {
+                "t": "Aku sedang mencari tempat kosong untuk diduduki. Dari kejauhan, tiba-tiba ada sesosok perempuan berhijab menghampiriku.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "21D036E2469580460338D1F6AD3961992907"
+                }
+            },
+            "53406213796C96425A8A2680F61593484624": {
+                "t": "Aliyah : Steven, mau cola gak nih? Gratis kok.",
+                "d": {
+                    "cid": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "eid": "D423C3A4808460450F588C23DA63BC8F06F0"
+                }
             }
         },
         "commands": [
@@ -380,6 +394,183 @@
                 "expanded": true
             },
             {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "B52D14E27B58D34EB5190CF56AF69BE097ED",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AFDFB6E543ED1741DD398BA6F0F0A37A60E2",
+                        "defaultText": "Aku sedang mencari tempat kosong untuk diduduki. Dari kejauhan, tiba-tiba ada sesosok perempuan berhijab menghampiriku."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "21D036E2469580460338D1F6AD3961992907",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "53406213796C96425A8A2680F61593484624",
+                        "defaultText": "Aliyah : Steven, mau cola gak nih? Gratis kok."
+                    },
+                    "position": 0,
+                    "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "D423C3A4808460450F588C23DA63BC8F06F0",
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 0,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "D9B902F80EA9A842A47A6BA65412D22B4C8B",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "",
+                            "97EC2597256C05406A68E895E6D51608B318"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "31350B6E9B81744C1D884E810FE2000A7DEA"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Membiarkan dia makan sendiri",
+                            "CF4C125983C2214DA658B643A3929E6ACA78"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "1FD489D9143DE741F119BBE85E4BB283512F"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "indent": 0,
+                "uid": "C4E134DF0721E14E6D69D36379E35D4D65CA"
+            },
+            {
                 "id": "gs.ChangeTransition",
                 "params": {
                     "graphic": null,
@@ -414,6 +605,13 @@
                 },
                 "uid": "EDB74A049FF5034A4E8B390886AE11758FD4",
                 "indent": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
             }
         ]
     },

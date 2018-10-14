@@ -1,11 +1,11 @@
 {
-    "uid": "CF4C125983C2214DA658B643A3929E6ACA78",
+    "uid": "6D1B9F2928E013449A0BC7B9E43212C408A6",
     "isLoaded": true,
     "lastModificationTime": null,
     "items": {
         "type": "vn.scene",
-        "name": "Jauhi Arvian",
-        "parentId": "867EFA3A5845A64BEE6A37811DFCF549460C",
+        "name": "Tidak Minum",
+        "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "livePreviewDisabled": false,
         "order": 1

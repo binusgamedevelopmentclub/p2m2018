@@ -3713,9 +3713,27 @@
         },
         "CF4C125983C2214DA658B643A3929E6ACA78": {
             "items": {
-                "name": "Kesambet Aliyah",
+                "name": "Jauhi Arvian",
                 "type": "vn.scene",
                 "parentId": "867EFA3A5845A64BEE6A37811DFCF549460C",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 1
+            }
+        },
+        "38FD90134D540941D299E11592EE9533962D": {
+            "items": {
+                "name": "Minum Cola",
+                "type": "vn.scene",
+                "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
+                "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+                "order": 0
+            }
+        },
+        "6D1B9F2928E013449A0BC7B9E43212C408A6": {
+            "items": {
+                "name": "Tidak Minum",
+                "type": "vn.scene",
+                "parentId": "3494755A26DFE849603A1761169D3AF2D11B",
                 "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
                 "order": 1
             }
