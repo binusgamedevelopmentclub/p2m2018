@@ -1,0 +1,21 @@
+{
+    "uid": "76D2A49285E5A646384A1C74F46E8E92656A",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "vn.scene",
+        "name": "Ke Kantin",
+        "parentId": "C34AB1B41E5338431278C5A92E5D0FF72CD7",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "livePreviewDisabled": false,
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o",
+        "chapterUid",
+        "order"
+    ]
+}

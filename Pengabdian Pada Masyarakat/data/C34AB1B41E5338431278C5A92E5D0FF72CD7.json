@@ -44,6 +44,27 @@
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "52B0B97D6FE4B24CDD19E5D76FAE55DA4009"
                 }
+            },
+            "12A328F022DC564BCA58ABA222D4D1886EEC": {
+                "t": "Woy Steven! Steven!!! Mau kemana bro?",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "20E5818192837740406855785D3BB38A05AA"
+                }
+            },
+            "503A78D155FF27485579918315DDCDA01FA9": {
+                "t": "Mau ke Kantin aku.",
+                "d": {
+                    "cid": "4934653409955547D72B6067BAF73ED679F5",
+                    "eid": "010AEB7647DDB44569497EF44339C8E7E2EF"
+                }
+            },
+            "6720FBE81E2D964DBE2876A88BDC77F6C050": {
+                "t": "Ke Kantin Bareng yuk!",
+                "d": {
+                    "cid": "655FFB2788235442C38BF415315E43BC76B5",
+                    "eid": "3307309763EF734D7F285033FA295F6B545F"
+                }
             }
         },
         "commands": [
@@ -380,6 +401,216 @@
                 "expanded": true
             },
             {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning3",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "A54406E73EF5024D700BC990B18589DB878B",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "12A328F022DC564BCA58ABA222D4D1886EEC",
+                        "defaultText": "Woy Steven! Steven!!! Mau kemana bro?"
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "20E5818192837740406855785D3BB38A05AA",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "503A78D155FF27485579918315DDCDA01FA9",
+                        "defaultText": "Mau ke Kantin aku."
+                    },
+                    "position": 0,
+                    "characterId": "4934653409955547D72B6067BAF73ED679F5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "010AEB7647DDB44569497EF44339C8E7E2EF",
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6720FBE81E2D964DBE2876A88BDC77F6C050",
+                        "defaultText": "Ke Kantin Bareng yuk!"
+                    },
+                    "position": 0,
+                    "characterId": "655FFB2788235442C38BF415315E43BC76B5",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "3307309763EF734D7F285033FA295F6B545F",
+                "expanded": true
+            },
+            {
+                "id": "gs.ClearMessage",
+                "params": {
+                    "waitForCompletion": 0,
+                    "duration": 30,
+                    "fieldFlags": {
+                        "duration": 1
+                    }
+                },
+                "uid": "7ABC17DD813B784EA62A00A78A745549D032",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Boleh",
+                            "76D2A49285E5A646384A1C74F46E8E92656A"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "30988D7231923645BC584E133B0BBFC03DAD"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B5EB90613FD27245BC7A8EF5B9C7EB66C47C",
+                    "parameters": {
+                        "values": [
+                            "Maaf, saya mau makan sendiri aja...",
+                            "1DE356C21CD73446B25B97A652852F31C360"
+                        ]
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "indent": 0,
+                "uid": "8F3F83CB5FADE447E56A73A31830602BC73E"
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "87C691AD6DF5C84BCF1A8CC5E61FDD36119E",
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "indent": 0,
+                "uid": "2373568456C3C2480F4B97720D114B59CD63"
+            },
+            {
                 "id": "gs.ChangeTransition",
                 "params": {
                     "graphic": null,
@@ -414,7 +645,14 @@
                 },
                 "uid": "EEC9BB399AD3034E3C987064880671E36E86",
                 "indent": 0,
-                "expanded": true
+                "expanded": false
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
             }
         ]
     },
