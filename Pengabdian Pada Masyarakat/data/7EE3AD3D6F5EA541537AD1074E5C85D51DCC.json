@@ -1,11 +1,13 @@
 {
     "uid": "7EE3AD3D6F5EA541537AD1074E5C85D51DCC",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Oke deh aku bantuin kamu",
+        "type": "vn.scene",
         "parentId": "27AC2E3B68C43743A9187EE30A26DBCBB472",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "DCA426EA28E4F24E993BF1B5E7700471D557": {
                 "t": "Steven dan Aliyah bekerja dengan damai, tetapi Julius dan Arvan mengalami pertikaian.",
@@ -43,7 +45,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -346,14 +347,12 @@
                 "uid": "5EA0A20617F8A149F30807F80B318DED49CF"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 0
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

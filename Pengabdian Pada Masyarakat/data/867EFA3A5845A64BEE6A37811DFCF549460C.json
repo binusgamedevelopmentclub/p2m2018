@@ -24,7 +24,7 @@
                 }
             },
             "0729F26031A0154C5A1807B322D60D42E967": {
-                "t": "Perkenalan terus berlanjut hingga orang yang paling belakang.",
+                "t": "Perkenalan terus berlanjut hingga orang yang paling belakang.\n",
                 "d": {
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "BFDBE09F356DF34E7E5837C253DD546663B3"
@@ -237,7 +237,7 @@
                     },
                     "message": {
                         "lcId": "0729F26031A0154C5A1807B322D60D42E967",
-                        "defaultText": "Perkenalan terus berlanjut hingga orang yang paling belakang."
+                        "defaultText": "Perkenalan terus berlanjut hingga orang yang paling belakang.\n"
                     },
                     "position": 0,
                     "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",

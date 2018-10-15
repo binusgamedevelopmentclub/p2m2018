@@ -1,11 +1,13 @@
 {
     "uid": "8072DDBE6C7EF545387BE7A708FA63BF48F5",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Sorry gue bener-bener gak bisa",
+        "type": "vn.scene",
         "parentId": "49DBC23C16092541E91B1442F6C435234159",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 1,
         "localizableStrings": {
             "BE04B4E678DF5645212801E2D8DA32A60312": {
                 "t": "Hadeuh, lu kapan bisanya, ya udah deh kita kerja tanpa lu, yang lain bisa kan?",
@@ -50,7 +52,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "vn.ChangeBackground",
@@ -324,14 +325,12 @@
                 "uid": "003A8F7E0D6915434C788FF82509625B8C6C"
             }
         ],
-        "livePreviewDisabled": false,
-        "order": 1
+        "livePreviewDisabled": false
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]
