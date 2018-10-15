@@ -1,11 +1,13 @@
 {
     "uid": "34FCD02E6AA32142495BD7A2FB58A46CE69E",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Ngak Sibuk kok",
+        "type": "vn.scene",
         "parentId": "5200CCB330CFC54670380B046EB98F000E90",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 0,
         "localizableStrings": {
             "DA5580151DD2004B40480621ACC56BF78736": {
                 "t": "Nanti, abis makan aja, ke kamar aku ya, aku gak mau mama tahu soalnya",
@@ -77,7 +79,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.ShowMessage",
@@ -560,7 +561,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 0,
         "listVariables": [
             {
                 "name": "",
@@ -573,7 +573,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

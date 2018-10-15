@@ -53,7 +53,7 @@
                 }
             },
             "53406213796C96425A8A2680F61593484624": {
-                "t": "Aliyah : Steven, mau cola gak nih? Gratis kok.",
+                "t": "Steven, mau cola gak nih? Gratis kok.",
                 "d": {
                     "cid": "DDE3AB228F4B674B733859F7421416540EB7",
                     "eid": "D423C3A4808460450F588C23DA63BC8F06F0"
@@ -492,7 +492,7 @@
                     },
                     "message": {
                         "lcId": "53406213796C96425A8A2680F61593484624",
-                        "defaultText": "Aliyah : Steven, mau cola gak nih? Gratis kok."
+                        "defaultText": "Steven, mau cola gak nih? Gratis kok."
                     },
                     "position": 0,
                     "characterId": "DDE3AB228F4B674B733859F7421416540EB7",
@@ -543,7 +543,7 @@
                     "parameters": {
                         "values": [
                             "Tidak usah, aku lagi tidak haus, makasih.",
-                            "6D1B9F2928E013449A0BC7B9E43212C408A6"
+                            "1DE356C21CD73446B25B97A652852F31C360"
                         ]
                     },
                     "previewBackground": {
