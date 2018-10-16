@@ -1204,6 +1204,54 @@
                 "indent": 0
             },
             {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "Rep boss",
+                        "index": 2,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 1,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "EB755EE964F3934908484D50BEA883C14E27",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,

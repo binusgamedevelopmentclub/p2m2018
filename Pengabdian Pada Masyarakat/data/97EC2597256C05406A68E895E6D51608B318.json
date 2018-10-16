@@ -611,7 +611,7 @@
                             "index": 0
                         },
                         "commonEventId": 0,
-                        "label": "",
+                        "label": "tebak pikiran",
                         "switch": {
                             "scope": 1,
                             "index": 0
@@ -649,7 +649,7 @@
                             "index": 0
                         },
                         "commonEventId": 0,
-                        "label": "",
+                        "label": "parah lu",
                         "switch": {
                             "scope": 1,
                             "index": 0

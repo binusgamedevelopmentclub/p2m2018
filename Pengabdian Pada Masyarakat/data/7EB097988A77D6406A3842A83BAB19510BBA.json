@@ -182,6 +182,25 @@
                 },
                 "uid": "6CF82E6536F79640BA0A6AD20F08EE57C646",
                 "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "318A5AB506EB0244434A27910166D538E6F7",
+                        "name": "Scene 4"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "7C1FCEDF6D16D9486A2906A90BAFDBA8921D",
+                "indent": 0,
+                "expanded": true
             }
         ],
         "livePreviewDisabled": false,

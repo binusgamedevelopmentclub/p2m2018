@@ -616,6 +616,13 @@
                 "index": 0,
                 "scope": 0
             }
+        ],
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
         ]
     },
     "summary": [

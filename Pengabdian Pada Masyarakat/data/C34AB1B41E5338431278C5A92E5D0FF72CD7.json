@@ -130,7 +130,7 @@
                     "smallCaps": 0,
                     "underline": 0,
                     "strikeThrough": 0,
-                    "autoErase": 0,
+                    "autoErase": 1,
                     "waitAtEnd": 1,
                     "font": "Verdana",
                     "size": 40,

@@ -1,20 +1,307 @@
 {
     "uid": "1DE356C21CD73446B25B97A652852F31C360",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Lanjut makan",
+        "type": "vn.scene",
         "parentId": "DC86DDC4589213445A7B44B312F79DDCFC4A",
         "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 3,
         "livePreviewDisabled": false,
-        "order": 3
+        "localizableStrings": {
+            "40F97C0E88B6B6433D48E62824545FC6ED49": {
+                "t": "Aku pun kembali ke kelas. Guru selanjutnya masuk ke kelas dan kami melanjutkan pelajaran.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "59E6614F3F18524BB39BBF30A161C460180B"
+                }
+            },
+            "BD2354EC283111491A19AAC87862BB3CFBA9": {
+                "t": "Aku pun memutuskan untuk makan sendiri.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "16BF0A5C4E5C1147CA890240CE42A7D9440F"
+                }
+            }
+        },
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Restaurant_Morning3",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D55E4B13326317419269070646CB4A258890",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "BD2354EC283111491A19AAC87862BB3CFBA9",
+                        "defaultText": "Aku pun memutuskan untuk makan sendiri."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "16BF0A5C4E5C1147CA890240CE42A7D9440F",
+                "expanded": true
+            },
+            {
+                "id": "gs.MessageSettings",
+                "params": {
+                    "useCharacterColor": 0,
+                    "paragraphSpacing": 0,
+                    "backlog": 1,
+                    "bold": 0,
+                    "italic": 0,
+                    "linePadding": 6,
+                    "lineHeight": 0,
+                    "lineSpacing": 0,
+                    "smallCaps": 0,
+                    "underline": 0,
+                    "strikeThrough": 0,
+                    "autoErase": 1,
+                    "waitAtEnd": 1,
+                    "font": "Verdana",
+                    "size": 40,
+                    "outline": 0,
+                    "outlineSize": 4,
+                    "shadow": 0,
+                    "shadowOffsetX": 1,
+                    "shadowOffsetY": 1,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    },
+                    "outlineColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "shadowColor": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    },
+                    "fieldFlags": {
+                        "autoErase": 0,
+                        "waitAtEnd": 1,
+                        "backlog": 1,
+                        "font": 1,
+                        "size": 1,
+                        "color": 1,
+                        "useCharacterColor": 1,
+                        "bold": 1,
+                        "italic": 1,
+                        "smallCaps": 1,
+                        "underline": 1,
+                        "strikeThrough": 1,
+                        "lineHeight": 1,
+                        "lineSpacing": 1,
+                        "linePadding": 1,
+                        "paragraphSpacing": 1,
+                        "outline": 1,
+                        "outlineColor": 1,
+                        "outlineSize": 1,
+                        "shadow": 1,
+                        "shadowColor": 1,
+                        "shadowOffsetX": 1,
+                        "shadowOffsetY": 1
+                    }
+                },
+                "indent": 0,
+                "uid": "75EB3AAE21F20446F71848929770108D02EC",
+                "expanded": false
+            },
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Classroom1_Morning1",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "19AFEF7C493D544A7F497793CB7656EFB45C",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "40F97C0E88B6B6433D48E62824545FC6ED49",
+                        "defaultText": "Aku pun kembali ke kelas. Guru selanjutnya masuk ke kelas dan kami melanjutkan pelajaran."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "indent": 0,
+                "uid": "59E6614F3F18524BB39BBF30A161C460180B",
+                "expanded": true
+            },
+            {
+                "id": "gs.ChangeTransition",
+                "params": {
+                    "graphic": null,
+                    "vague": 30,
+                    "duration": 20,
+                    "fieldFlags": {
+                        "graphic": 0,
+                        "vague": 1,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "359506B210B823441A2B9D037E28DD4BF238",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "F9214CD60142454CE96B7728C88D7CC70DE8",
+                        "name": "Scene 2"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 1,
+                    "eraseTexts": 1,
+                    "eraseVideos": 1,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "31E7021A752BA543238B89B1A39365F0A09E",
+                "indent": 0,
+                "expanded": true
+            }
+        ]
     },
     "summary": [
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]

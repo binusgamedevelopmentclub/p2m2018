@@ -1,11 +1,13 @@
 {
     "uid": "7CBE4A9B14B765449B5A3E3546EC7A5B227C",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.scene",
         "name": "Sibuk",
+        "type": "vn.scene",
         "parentId": "4F4D60EE61D115457F68F7B1820869BBA5DE",
+        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
+        "order": 2,
         "localizableStrings": {
             "1C4C92995C3D1745C20ACCD33BB6D834CA24": {
                 "t": "Ohh Steven sibuk, berarti gak bisa hari ini ya, kita harus cari hari lain. Kita bikin grup line dulu aja ya, minta linenya kalian dong",
@@ -57,7 +59,6 @@
                 }
             }
         },
-        "chapterUid": "49DC3EE6267197419859C9E4D23776294B50",
         "commands": [
             {
                 "id": "gs.ShowMessage",
@@ -311,7 +312,6 @@
             }
         ],
         "livePreviewDisabled": false,
-        "order": 2,
         "stringVariables": [
             {
                 "name": "",
@@ -324,7 +324,6 @@
         "name",
         "type",
         "parentId",
-        "o",
         "chapterUid",
         "order"
     ]
