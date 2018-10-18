@@ -27,10 +27,10 @@
         },
         "android": {
             "keystore": "MyGame.keystore",
-            "storePassword": "",
-            "storeAlias": "",
-            "privateKeyPassword": "",
-            "licenseKey": "",
+            "storePassword": "test",
+            "storeAlias": "MyGame",
+            "privateKeyPassword": "test",
+            "licenseKey": "1D:A2:8E:3B:29:4A:CE:A5:91:3F:02:FC:8E:EA:E2:12:13:3B:57:2B:03:A3:9B:F4:C6:05:92:1E:0B:20:1F:23",
             "useExpansionFile": false
         },
         "$document": {
@@ -54,20 +54,25 @@
                                 "domain": "com.degica.vnm.default"
                             },
                             {
-                                "name": "",
+                                "name": "Rep boss",
                                 "index": 2,
                                 "scope": 1,
+                                "changed": true,
+                                "domain": "com.degica.vnm.default"
+                            },
+                            {
+                                "name": "Rep Mak",
+                                "index": 3,
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
                                 "changed": true
                             },
                             {
-                                "name": "",
-                                "index": 3,
-                                "scope": 1
-                            },
-                            {
-                                "name": "",
+                                "name": "Rep teman",
                                 "index": 4,
-                                "scope": 1
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
+                                "changed": true
                             },
                             {
                                 "name": "",
@@ -611,9 +616,11 @@
                                 "changed": true
                             },
                             {
-                                "name": "",
+                                "name": "Tidak Kerja Kelompok",
                                 "index": 5,
-                                "scope": 1
+                                "scope": 1,
+                                "domain": "com.degica.vnm.default",
+                                "changed": true
                             },
                             {
                                 "name": "",
